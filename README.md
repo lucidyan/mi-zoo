@@ -21,14 +21,14 @@
       <td><img src="./assets/icons/raw/zimi.clock.myk01.png"></td>
       <td>Mi AI Alarm</td>
       <td>zimi.clock.myk01</td>
-      <td></td>
+      <td>AI01ZM</td>
     </tr>
     <tr>
       <th>1</th>
       <td><img src="./assets/icons/raw/cgllc.clock.dove.png"></td>
       <td>Qingping Bluetooth Alarm Clock</td>
       <td>cgllc.clock.dove</td>
-      <td></td>
+      <td>CGD1</td>
     </tr>
     <tr>
       <th>2</th>
@@ -122,14 +122,14 @@
       <td><img src="./assets/icons/raw/chuangmi.radio.v1.png"></td>
       <td>Mi Network Radio</td>
       <td>chuangmi.radio.v1</td>
-      <td></td>
+      <td>WLSYJ01CM</td>
     </tr>
     <tr>
       <th>9</th>
       <td><img src="./assets/icons/raw/chuangmi.radio.v2.png"></td>
       <td>Mi Network Radio Plus</td>
       <td>chuangmi.radio.v2</td>
-      <td></td>
+      <td>WLSYJ02CM</td>
     </tr>
   </tbody>
 </table>
@@ -1041,7 +1041,7 @@
       <td><img src="./assets/icons/raw/ksmb.walkingpad.v1.png"></td>
       <td>WalkingPad</td>
       <td>ksmb.walkingpad.v1</td>
-      <td></td>
+      <td>WPA1F Pro</td>
     </tr>
   </tbody>
 </table>
@@ -1101,7 +1101,7 @@
       <td><img src="./assets/icons/raw/lumi.camera.gwagl01.png"></td>
       <td>Camera Hub G2</td>
       <td>lumi.camera.gwagl01</td>
-      <td></td>
+      <td>ZNSXJ12LM</td>
     </tr>
     <tr>
       <th>125</th>
@@ -1496,28 +1496,28 @@
       <td><img src="./assets/icons/raw/lumi.acpartner.v1.png"></td>
       <td>Air Conditioning Controller</td>
       <td>lumi.acpartner.v1</td>
-      <td></td>
+      <td>KTBL01LM</td>
     </tr>
     <tr>
       <th>179</th>
       <td><img src="./assets/icons/raw/lumi.acpartner.v3.png"></td>
       <td>Air Conditioning Controller (Advanced)</td>
       <td>lumi.acpartner.v3</td>
-      <td></td>
+      <td>KTBL11LM</td>
     </tr>
     <tr>
       <th>180</th>
       <td><img src="./assets/icons/raw/lumi.acpartner.v2.png"></td>
       <td>Mi Smart Air Conditioner Controller</td>
       <td>lumi.acpartner.v2</td>
-      <td></td>
+      <td>KTBL02LM</td>
     </tr>
     <tr>
       <th>181</th>
       <td><img src="./assets/icons/raw/lumi.acpartner.mcn02.png"></td>
       <td>Mi Smart Air Conditioner Controller 2</td>
       <td>lumi.acpartner.mcn02</td>
-      <td></td>
+      <td>KTBL03LM</td>
     </tr>
   </tbody>
 </table>
@@ -1658,7 +1658,7 @@
       <td><img src="./assets/icons/raw/lumi.aircondition.acn05.png"></td>
       <td>Aqara Air Conditioning Controller P3</td>
       <td>lumi.aircondition.acn05</td>
-      <td></td>
+      <td>KTBL12LM</td>
     </tr>
     <tr>
       <th>200</th>
@@ -1973,7 +1973,7 @@
       <td><img src="./assets/icons/raw/zhimi.aircondition.ma3.png"></td>
       <td>MIJIA Smart Air Conditioner (Energy Efficiency Level 3)</td>
       <td>zhimi.aircondition.ma3</td>
-      <td></td>
+      <td>KFR-35GW-B1ZM-M3</td>
     </tr>
     <tr>
       <th>245</th>
@@ -1987,7 +1987,7 @@
       <td><img src="./assets/icons/raw/xiaomi.aircondition.ma1.png"></td>
       <td>Mi Inverter Air Conditioner (1.5HP)</td>
       <td>xiaomi.aircondition.ma1</td>
-      <td></td>
+      <td>KFR-35GW-B1ZM-M3</td>
     </tr>
     <tr>
       <th>247</th>
@@ -2554,7 +2554,7 @@
       <td><img src="./assets/icons/raw/zhimi.aircondition.v1.png"></td>
       <td>Smartmi Smart Air Conditioner</td>
       <td>zhimi.aircondition.v1</td>
-      <td></td>
+      <td>KFR-35GW/02ZM, KFR-35GW-B1ZM-M3</td>
     </tr>
     <tr>
       <th>328</th>
@@ -3164,7 +3164,7 @@
       <td><img src="./assets/icons/raw/deerma.humidifier.jsq3.png"></td>
       <td>MI Smart humidifer</td>
       <td>deerma.humidifier.jsq3</td>
-      <td></td>
+      <td>MJJSQ04DY</td>
     </tr>
     <tr>
       <th>413</th>
@@ -3719,14 +3719,14 @@
       <td><img src="./assets/icons/raw/cgllc.airmonitor.s1.png"></td>
       <td>Qingping Air Monitor</td>
       <td>cgllc.airmonitor.s1</td>
-      <td></td>
+      <td>CGS1</td>
     </tr>
     <tr>
       <th>488</th>
       <td><img src="./assets/icons/raw/cgllc.airm.cgdn1.png"></td>
       <td>Qingping Air Monitor Lite</td>
       <td>cgllc.airm.cgdn1</td>
-      <td></td>
+      <td>CGDN1</td>
     </tr>
     <tr>
       <th>489</th>
@@ -3895,7 +3895,7 @@
       <td><img src="./assets/icons/raw/leshow.heater.bs1s.png"></td>
       <td>Mi Smart Baseboard Heater 1S</td>
       <td>leshow.heater.bs1s</td>
-      <td></td>
+      <td>Lexiu HS1</td>
     </tr>
     <tr>
       <th>511</th>
@@ -3923,7 +3923,7 @@
       <td><img src="./assets/icons/raw/zhimi.heater.mc2.png"></td>
       <td>Mi Smart Space Heater S</td>
       <td>zhimi.heater.mc2</td>
-      <td></td>
+      <td>KRDNQ03ZM (BHR4037GL)</td>
     </tr>
     <tr>
       <th>515</th>
@@ -4063,7 +4063,7 @@
       <td><img src="./assets/icons/raw/viomi.heater.vxtj01.png"></td>
       <td>Viomi Kick-Line heater Pro</td>
       <td>viomi.heater.vxtj01</td>
-      <td></td>
+      <td>VXTJ01</td>
     </tr>
     <tr>
       <th>535</th>
@@ -4218,7 +4218,7 @@
       <td><img src="./assets/icons/raw/dmaker.fan.p8.png"></td>
       <td>Mi Smart Standing Fan 1C</td>
       <td>dmaker.fan.p8</td>
-      <td></td>
+      <td>PYV4007GL</td>
     </tr>
     <tr>
       <th>555</th>
@@ -4253,7 +4253,7 @@
       <td><img src="./assets/icons/raw/dmaker.fan.p15.png"></td>
       <td>Mi Smart Standing Fan Pro</td>
       <td>dmaker.fan.p15</td>
-      <td></td>
+      <td>ZLBPSP01XY /  PYV4009GL</td>
     </tr>
     <tr>
       <th>560</th>
@@ -4358,7 +4358,7 @@
       <td><img src="./assets/icons/raw/zhimi.fan.za5.png"></td>
       <td>Smartmi Standing Fan 3</td>
       <td>zhimi.fan.za5</td>
-      <td></td>
+      <td>ZLBPLDS05ZM</td>
     </tr>
     <tr>
       <th>575</th>
@@ -4725,7 +4725,7 @@
       <td><img src="./assets/icons/raw/dmaker.airfresh.a1.png"></td>
       <td>Mi Fresh Air Ventilator A1-150</td>
       <td>dmaker.airfresh.a1</td>
-      <td></td>
+      <td>MJXFJ-150-A1</td>
     </tr>
     <tr>
       <th>621</th>
@@ -4831,7 +4831,7 @@
       <td><img src="./assets/icons/raw/hhcc.plantmonitor.v1.png"></td>
       <td>Flower Care</td>
       <td>hhcc.plantmonitor.v1</td>
-      <td></td>
+      <td>HHCCJCY01</td>
     </tr>
   </tbody>
 </table>
@@ -4965,14 +4965,14 @@
       <td><img src="./assets/icons/raw/dreame.vacuum.p2009.png"></td>
       <td>Dreame Robot Vacuum D9</td>
       <td>dreame.vacuum.p2009</td>
-      <td></td>
+      <td>RLS5-WH0</td>
     </tr>
     <tr>
       <th>651</th>
       <td><img src="./assets/icons/raw/dreame.vacuum.p2008.png"></td>
       <td>Dreame Robot Vacuum-Mop F9</td>
       <td>dreame.vacuum.p2008</td>
-      <td></td>
+      <td>RVS5-WH0</td>
     </tr>
     <tr>
       <th>652</th>
@@ -5035,7 +5035,7 @@
       <td><img src="./assets/icons/raw/dreame.vacuum.mc1808.png"></td>
       <td>Mi Robot Vacuum Mop</td>
       <td>dreame.vacuum.mc1808</td>
-      <td></td>
+      <td>STYTJ01ZHM (CN: SKV4073CN , GL: SKV4093GL)</td>
     </tr>
     <tr>
       <th>661</th>
@@ -5056,14 +5056,14 @@
       <td><img src="./assets/icons/raw/mijia.vacuum.v1.png"></td>
       <td>Mi Robot Vacuum-Mop Essential</td>
       <td>mijia.vacuum.v1</td>
-      <td></td>
+      <td>MJSTG1</td>
     </tr>
     <tr>
       <th>664</th>
       <td><img src="./assets/icons/raw/mijia.vacuum.v2.png"></td>
       <td>Mi Robot Vacuum-Mop Essential</td>
       <td>mijia.vacuum.v2</td>
-      <td></td>
+      <td>MJSTG1</td>
     </tr>
     <tr>
       <th>665</th>
@@ -5294,7 +5294,7 @@
       <td><img src="./assets/icons/raw/viomi.vacuum.v19.png"></td>
       <td>Viomi SE</td>
       <td>viomi.vacuum.v19</td>
-      <td></td>
+      <td>V-RVCLM21A (EU)</td>
     </tr>
     <tr>
       <th>698</th>
@@ -5575,7 +5575,7 @@
       <td><img src="./assets/icons/raw/lumi.airrtc.vrfegl01.png"></td>
       <td>VRF Air Conditioning Controller</td>
       <td>lumi.airrtc.vrfegl01</td>
-      <td></td>
+      <td>KTBL01LM</td>
     </tr>
   </tbody>
 </table>
@@ -8976,7 +8976,7 @@
       <td><img src="./assets/icons/raw/lumi.sensor_cube.v1.png"></td>
       <td>Mi Cube</td>
       <td>lumi.sensor_cube.v1</td>
-      <td></td>
+      <td>XMMF01JQD</td>
     </tr>
   </tbody>
 </table>
@@ -9294,7 +9294,7 @@
       <td><img src="./assets/icons/raw/lumi.magnet.agl02.png"></td>
       <td>Aqara Door and Window Sensor T1</td>
       <td>lumi.magnet.agl02</td>
-      <td></td>
+      <td>MCCGQ12LM</td>
     </tr>
     <tr>
       <th>1252</th>
@@ -9414,14 +9414,14 @@
       <td><img src="./assets/icons/raw/lumi.lock.bzacn2.png"></td>
       <td>Aqara smart door lock N100</td>
       <td>lumi.lock.bzacn2</td>
-      <td></td>
+      <td>ZNMS16LM</td>
     </tr>
     <tr>
       <th>1267</th>
       <td><img src="./assets/icons/raw/lumi.lock.bzacn1.png"></td>
       <td>Aqara smart door lock N200</td>
       <td>lumi.lock.bzacn1</td>
-      <td></td>
+      <td>ZNMS17LM</td>
     </tr>
     <tr>
       <th>1268</th>
@@ -9973,7 +9973,7 @@
       <td><img src="./assets/icons/raw/lumi.gateway.aqhm01.png"></td>
       <td>Aqara Hub</td>
       <td>lumi.gateway.aqhm01</td>
-      <td></td>
+      <td>ZHWG11LM</td>
     </tr>
     <tr>
       <th>1334</th>
@@ -9987,14 +9987,14 @@
       <td><img src="./assets/icons/raw/lumi.gateway.acn01.png"></td>
       <td>Aqara Hub M1S</td>
       <td>lumi.gateway.acn01</td>
-      <td></td>
+      <td>ZHWG15LM</td>
     </tr>
     <tr>
       <th>1336</th>
       <td><img src="./assets/icons/raw/lumi.gateway.aeu01.png"></td>
       <td>Aqara Hub M1S</td>
       <td>lumi.gateway.aeu01</td>
-      <td></td>
+      <td>HM1S-G01</td>
     </tr>
     <tr>
       <th>1337</th>
@@ -10064,7 +10064,7 @@
       <td><img src="./assets/icons/raw/lumi.gateway.mieu01.png"></td>
       <td>Mi Control Hub</td>
       <td>lumi.gateway.mieu01</td>
-      <td></td>
+      <td>ZHWG11LM-763 / DGNWQ05LM</td>
     </tr>
     <tr>
       <th>1347</th>
@@ -10099,7 +10099,7 @@
       <td><img src="./assets/icons/raw/lumi.gateway.v3.png"></td>
       <td>Mi Control Hub</td>
       <td>lumi.gateway.v3</td>
-      <td></td>
+      <td>DGNWG02LM</td>
     </tr>
     <tr>
       <th>1352</th>
@@ -10213,7 +10213,7 @@
       <td><img src="./assets/icons/raw/zimi.mosq.v1.png"></td>
       <td>Mijia smart mosquito repellent</td>
       <td>zimi.mosq.v1</td>
-      <td></td>
+      <td>WX08ZM</td>
     </tr>
     <tr>
       <th>1364</th>
@@ -10285,49 +10285,49 @@
       <td><img src="./assets/icons/raw/ikea.light.led1649c5.png"></td>
       <td>IKEA E14 warm white</td>
       <td>ikea.light.led1649c5</td>
-      <td></td>
+      <td>LED1649C5</td>
     </tr>
     <tr>
       <th>1370</th>
       <td><img src="./assets/icons/raw/ikea.light.led1536g5.png"></td>
       <td>IKEA E14 white spectrum</td>
       <td>ikea.light.led1536g5</td>
-      <td></td>
+      <td>LED1536G5</td>
     </tr>
     <tr>
       <th>1371</th>
       <td><img src="./assets/icons/raw/ikea.light.led1623g12.png"></td>
       <td>IKEA E27 warm white</td>
       <td>ikea.light.led1623g12</td>
-      <td></td>
+      <td>LED1623G12</td>
     </tr>
     <tr>
       <th>1372</th>
       <td><img src="./assets/icons/raw/ikea.light.led1546g12.png"></td>
       <td>IKEA E27 white spectrum clear</td>
       <td>ikea.light.led1546g12</td>
-      <td></td>
+      <td>LED1546G12</td>
     </tr>
     <tr>
       <th>1373</th>
       <td><img src="./assets/icons/raw/ikea.light.led1545g12.png"></td>
       <td>IKEA E27 white spectrum opal</td>
       <td>ikea.light.led1545g12</td>
-      <td></td>
+      <td>LED1545G12</td>
     </tr>
     <tr>
       <th>1374</th>
       <td><img src="./assets/icons/raw/ikea.light.led1650r5.png"></td>
       <td>IKEA GU10 warm white</td>
       <td>ikea.light.led1650r5</td>
-      <td></td>
+      <td>LED1650R5</td>
     </tr>
     <tr>
       <th>1375</th>
       <td><img src="./assets/icons/raw/ikea.light.led1537r6.png"></td>
       <td>IKEA GU10 white spectrum</td>
       <td>ikea.light.led1537r6</td>
-      <td></td>
+      <td>LED1537R6</td>
     </tr>
     <tr>
       <th>1376</th>
@@ -10897,7 +10897,7 @@
       <td><img src="./assets/icons/raw/lumi.motion.agl02.png"></td>
       <td>Aqara Motion Sensor T1</td>
       <td>lumi.motion.agl02</td>
-      <td></td>
+      <td>RTCGQ12LM</td>
     </tr>
     <tr>
       <th>1451</th>
@@ -10939,7 +10939,7 @@
       <td><img src="./assets/icons/raw/lumi.motion.bmgl01.png"></td>
       <td>Mi Motion Sensor 2</td>
       <td>lumi.motion.bmgl01</td>
-      <td></td>
+      <td>RTCGQ02LM</td>
     </tr>
     <tr>
       <th>1457</th>
@@ -11059,7 +11059,7 @@
       <td><img src="./assets/icons/raw/lumi.curtain.aq2.png"></td>
       <td>Aqara Roller Shade Controller</td>
       <td>lumi.curtain.aq2</td>
-      <td>ZNCLDJ11LM</td>
+      <td>ZNCLDJ11LM/ZNGZDJ11LM</td>
     </tr>
     <tr>
       <th>1472</th>
@@ -12089,7 +12089,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.nl1.png"></td>
       <td>Mi Motion-Activated Night Light 2 (Bluetooth)</td>
       <td>yeelink.light.nl1</td>
-      <td></td>
+      <td>MJYD02YL-A</td>
     </tr>
     <tr>
       <th>1617</th>
@@ -12371,7 +12371,7 @@
       <td><img src="./assets/icons/raw/cuco.plug.cp1.png"></td>
       <td>Gosund Smart Plug</td>
       <td>cuco.plug.cp1</td>
-      <td></td>
+      <td>CP1</td>
     </tr>
     <tr>
       <th>1653</th>
@@ -12532,21 +12532,21 @@
       <td><img src="./assets/icons/raw/chuangmi.plug.hmi206.png"></td>
       <td>Mi Smart Plug (WiFi)</td>
       <td>chuangmi.plug.hmi206</td>
-      <td>ZNCZ07CM</td>
+      <td>ZNCZ05CM</td>
     </tr>
     <tr>
       <th>1676</th>
       <td><img src="./assets/icons/raw/lumi.plug.mmeu01.png"></td>
       <td>Mi Smart Plug (Zigbee)</td>
       <td>lumi.plug.mmeu01</td>
-      <td>ZNCZ04LM</td>
+      <td>ZNCZ04LM/GMR4014GL</td>
     </tr>
     <tr>
       <th>1677</th>
       <td><img src="./assets/icons/raw/chuangmi.plug.hmi205.png"></td>
       <td>Mi Smart Plug WiFi</td>
       <td>chuangmi.plug.hmi205</td>
-      <td>ZNCZ06CM</td>
+      <td>ZNCZ03CM</td>
     </tr>
     <tr>
       <th>1678</th>
@@ -12560,7 +12560,7 @@
       <td><img src="./assets/icons/raw/chuangmi.plug.212a01.png"></td>
       <td>Mi Smart Power Plug 2 (Wi-Fi and Bluetooth Gateway)</td>
       <td>chuangmi.plug.212a01</td>
-      <td></td>
+      <td>ZNCZ07CM</td>
     </tr>
     <tr>
       <th>1680</th>
@@ -12924,7 +12924,7 @@
       <td><img src="./assets/icons/raw/lumi.ctrl_86plug.es1.png"></td>
       <td>Wall socket (Zigbee version)</td>
       <td>lumi.ctrl_86plug.es1</td>
-      <td></td>
+      <td>QBCZ11LM</td>
     </tr>
     <tr>
       <th>1732</th>
@@ -13394,7 +13394,7 @@
       <td><img src="./assets/icons/raw/qmi.powerstrip.v1.png"></td>
       <td>CHINGMI Smart Power Strip</td>
       <td>qmi.powerstrip.v1</td>
-      <td></td>
+      <td>QMCXB01ZN</td>
     </tr>
     <tr>
       <th>1797</th>
@@ -14016,7 +14016,7 @@
       <td><img src="./assets/icons/raw/lumi.ctrl_ln2.aq1.png"></td>
       <td>Aqara Wall Switch (With Neutral, Double Rocker)</td>
       <td>lumi.ctrl_ln2.aq1</td>
-      <td></td>
+      <td>QBKG12LM</td>
     </tr>
     <tr>
       <th>1873</th>
@@ -14317,7 +14317,7 @@
       <td><img src="./assets/icons/raw/lumi.relay.c4acn01.png"></td>
       <td>Four-way control module</td>
       <td>lumi.relay.c4acn01</td>
-      <td></td>
+      <td>LLKZMK11LM (Dev)</td>
     </tr>
     <tr>
       <th>1916</th>
@@ -15101,7 +15101,7 @@
       <td><img src="./assets/icons/raw/lumi.switch.n4acn4.png"></td>
       <td>Smart scene panel switch S1 three-open version</td>
       <td>lumi.switch.n4acn4</td>
-      <td></td>
+      <td>ZNCJMB14LM</td>
     </tr>
     <tr>
       <th>2028</th>
@@ -16383,7 +16383,7 @@
       <td><img src="./assets/icons/raw/lumi.sensor_ht.agl02.png"></td>
       <td>Aqara Temperature and Humidity Sensor T1</td>
       <td>lumi.sensor_ht.agl02</td>
-      <td></td>
+      <td>WSDCGQ12LM</td>
     </tr>
     <tr>
       <th>2209</th>
@@ -16679,14 +16679,14 @@
       <td><img src="./assets/icons/raw/lumi.flood.agl02.png"></td>
       <td>Aqara Water Leak Sensor T1</td>
       <td>lumi.flood.agl02</td>
-      <td></td>
+      <td>SJCGQ12LM</td>
     </tr>
     <tr>
       <th>2247</th>
       <td><img src="./assets/icons/raw/lumi.flood.bmcn01.png"></td>
       <td>Mi Flood Detector</td>
       <td>lumi.flood.bmcn01</td>
-      <td></td>
+      <td>SJWS01LM</td>
     </tr>
     <tr>
       <th>2248</th>
@@ -16750,7 +16750,7 @@
       <td><img src="./assets/icons/raw/lumi.remote.b286opcn01.png"></td>
       <td>Wireless Scene Switch (Two Button Edition)</td>
       <td>lumi.remote.b286opcn01</td>
-      <td></td>
+      <td>WXCJKG11LM</td>
     </tr>
     <tr>
       <th>2255</th>
@@ -17271,7 +17271,7 @@
       <td><img src="./assets/icons/raw/viomi.fridge.v3.png"></td>
       <td>Viomi Internet refrigerator iLive (French style 462L)</td>
       <td>viomi.fridge.v3</td>
-      <td></td>
+      <td>BCD-462WMBA</td>
     </tr>
     <tr>
       <th>2312</th>
@@ -17749,7 +17749,7 @@
       <td><img src="./assets/icons/raw/chunmi.ihcooker.v1.png"></td>
       <td>Mi Induction Cooker</td>
       <td>chunmi.ihcooker.v1</td>
-      <td></td>
+      <td>DCL01CM</td>
     </tr>
     <tr>
       <th>2376</th>
@@ -17926,7 +17926,7 @@
       <td><img src="./assets/icons/raw/chunmi.cooker.eh1.png"></td>
       <td>Mi Smart MultiCooker 1.6L</td>
       <td>chunmi.cooker.eh1</td>
-      <td></td>
+      <td>DFB201CM</td>
     </tr>
     <tr>
       <th>2397</th>
@@ -18116,7 +18116,7 @@
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx11.png"></td>
       <td>Mi Water Purifier C1 (Triple Setting)</td>
       <td>yunmi.waterpuri.lx11</td>
-      <td></td>
+      <td>MRB33</td>
     </tr>
     <tr>
       <th>2422</th>
@@ -18525,7 +18525,7 @@
       <td><img src="./assets/icons/raw/yeelink.bhf_light.v2.png"></td>
       <td>Yeelight Smart Bath Heater</td>
       <td>yeelink.bhf_light.v2</td>
-      <td></td>
+      <td>YLYB01YL</td>
     </tr>
     <tr>
       <th>2478</th>
@@ -19169,7 +19169,7 @@
       <td><img src="./assets/icons/raw/nwt.derh.312en.png"></td>
       <td>NEW WIDETECH Internet Dehumidifier 12L</td>
       <td>nwt.derh.312en</td>
-      <td></td>
+      <td>WDH312ENW1</td>
     </tr>
     <tr>
       <th>2555</th>
@@ -19354,7 +19354,7 @@
       <td><img src="./assets/icons/raw/linp.doorbell.g03.png"></td>
       <td>Self-Powered Wirelss Doorbell</td>
       <td>linp.doorbell.g03</td>
-      <td></td>
+      <td>G6L-WIFI-SW</td>
     </tr>
   </tbody>
 </table>
@@ -19789,7 +19789,7 @@
       <td><img src="./assets/icons/raw/lumi.sen_ill.agl01.png"></td>
       <td>Aqara Light Detection Sensor T1</td>
       <td>lumi.sen_ill.agl01</td>
-      <td></td>
+      <td>GZCGQ11LM</td>
     </tr>
     <tr>
       <th>2620</th>
@@ -20216,7 +20216,7 @@
       <td><img src="./assets/icons/raw/mmgg.pet_waterer.s1.png"></td>
       <td>Mijia Smart Pet Water Dispenser</td>
       <td>mmgg.pet_waterer.s1</td>
-      <td></td>
+      <td>XWWF01MG</td>
     </tr>
     <tr>
       <th>2666</th>
@@ -21277,7 +21277,7 @@
       <td><img src="./assets/icons/raw/xjx.toilet.pro.png"></td>
       <td>Uclean Smart Toilet Seat</td>
       <td>xjx.toilet.pro</td>
-      <td></td>
+      <td>LY-ST1808-008B</td>
     </tr>
   </tbody>
 </table>
