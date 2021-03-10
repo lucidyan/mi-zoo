@@ -1,6 +1,9 @@
 # Custom section
 *.apk
 .idea/
+data/raw/MiHome
+utils/
+ideas.md
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,pycharm,vscode,git,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,pycharm,vscode,git,python
