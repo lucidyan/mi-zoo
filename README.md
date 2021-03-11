@@ -3171,7 +3171,7 @@
       <td><img src="./assets/icons/raw/deerma.humidifier.jsq1.png"></td>
       <td>Mi S Smart humidifer</td>
       <td>deerma.humidifier.jsq1</td>
-      <td></td>
+      <td>MJJSQ03DY</td>
     </tr>
     <tr>
       <th>414</th>
@@ -3494,7 +3494,7 @@
       <td><img src="./assets/icons/raw/zhimi.airpurifier.mb4.png"></td>
       <td>Mi Air Purifier 3C</td>
       <td>zhimi.airpurifier.mb4</td>
-      <td></td>
+      <td>AC-M14-SC</td>
     </tr>
     <tr>
       <th>458</th>
@@ -3902,7 +3902,7 @@
       <td><img src="./assets/icons/raw/zhimi.heater.ma3.png"></td>
       <td>Mi Smart Baseboard Heater E</td>
       <td>zhimi.heater.ma3</td>
-      <td></td>
+      <td>TJXDNQ01ZM</td>
     </tr>
     <tr>
       <th>512</th>
@@ -4246,7 +4246,7 @@
       <td><img src="./assets/icons/raw/dmaker.fan.p11.png"></td>
       <td>Mi Smart Standing Fan Pro</td>
       <td>dmaker.fan.p11</td>
-      <td></td>
+      <td>BPLDS03DM</td>
     </tr>
     <tr>
       <th>559</th>
@@ -4795,14 +4795,14 @@
       <td><img src="./assets/icons/raw/zhimi.airfresh.va4.png"></td>
       <td>Smartmi Fresh Air System (Heating)</td>
       <td>zhimi.airfresh.va4</td>
-      <td></td>
+      <td>XFXTDFR02ZM</td>
     </tr>
     <tr>
       <th>631</th>
       <td><img src="./assets/icons/raw/zhimi.airfresh.va2.png"></td>
       <td>Smartmi Ventilation System</td>
       <td>zhimi.airfresh.va2</td>
-      <td></td>
+      <td>XFXT01ZM</td>
     </tr>
     <tr>
       <th>632</th>
@@ -5649,7 +5649,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.bslamp1.png"></td>
       <td>Mi Bedside Lamp</td>
       <td>yeelink.light.bslamp1</td>
-      <td></td>
+      <td>MJCTD01YL</td>
     </tr>
     <tr>
       <th>742</th>
@@ -5684,7 +5684,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.bslamp3.png"></td>
       <td>Yeelight Bedside Lamp II</td>
       <td>yeelink.light.bslamp3</td>
-      <td></td>
+      <td>YLCT01YL</td>
     </tr>
   </tbody>
 </table>
@@ -6700,7 +6700,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.ceiling8.png"></td>
       <td>LED Ceiling Light Crystal Plus</td>
       <td>yeelink.light.ceiling8</td>
-      <td></td>
+      <td>YLXD10YL</td>
     </tr>
     <tr>
       <th>890</th>
@@ -6973,14 +6973,14 @@
       <td><img src="./assets/icons/raw/yeelink.light.color5.png"></td>
       <td>Mi Smart LED Bulb Essential (White and Color)</td>
       <td>yeelink.light.color5</td>
-      <td></td>
+      <td>MJDPL01YL</td>
     </tr>
     <tr>
       <th>929</th>
       <td><img src="./assets/icons/raw/yeelink.light.ceiling22.png"></td>
       <td>Mi Smart LED Ceiling Light</td>
       <td>yeelink.light.ceiling22</td>
-      <td></td>
+      <td>MJXDD01YL (CN) / MJXDD01SYL (EU)</td>
     </tr>
     <tr>
       <th>930</th>
@@ -8226,21 +8226,21 @@
       <td><img src="./assets/icons/raw/yeelink.light.ceilc.png"></td>
       <td>Yeelight Arwen Ceiling Light 450C/550C</td>
       <td>yeelink.light.ceilc</td>
-      <td></td>
+      <td>YLXD013-B / YLXD013-C</td>
     </tr>
     <tr>
       <th>1108</th>
       <td><img src="./assets/icons/raw/yeelink.light.ceilb.png"></td>
       <td>Yeelight Arwen Ceiling Light 450S/550S</td>
       <td>yeelink.light.ceilb</td>
-      <td></td>
+      <td>YLXD013 / YLXD013-A</td>
     </tr>
     <tr>
       <th>1109</th>
       <td><img src="./assets/icons/raw/yeelink.light.ceiling1.png"></td>
       <td>Yeelight Ceiling Light</td>
       <td>yeelink.light.ceiling1</td>
-      <td></td>
+      <td>YLXD01YL</td>
     </tr>
     <tr>
       <th>1110</th>
@@ -8254,14 +8254,14 @@
       <td><img src="./assets/icons/raw/yeelink.light.ceiling20.png"></td>
       <td>Yeelight Ceiling Light</td>
       <td>yeelink.light.ceiling20</td>
-      <td></td>
+      <td>YLXD50YL</td>
     </tr>
     <tr>
       <th>1112</th>
       <td><img src="./assets/icons/raw/yeelink.light.ceiling11.png"></td>
       <td>Yeelight Ceiling Light 320 1S</td>
       <td>yeelink.light.ceiling11</td>
-      <td></td>
+      <td>YLXD41YL</td>
     </tr>
     <tr>
       <th>1113</th>
@@ -8289,7 +8289,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.ceiling18.png"></td>
       <td>Yeelight Ceiling Light Pro</td>
       <td>yeelink.light.ceiling18</td>
-      <td></td>
+      <td>YLXD08YL</td>
     </tr>
     <tr>
       <th>1117</th>
@@ -8324,14 +8324,14 @@
       <td><img src="./assets/icons/raw/yeelink.light.monob.png"></td>
       <td>Yeelight GU10 Smart Bulb W1 (dimmable)</td>
       <td>yeelink.light.monob</td>
-      <td></td>
+      <td>YLDP004</td>
     </tr>
     <tr>
       <th>1122</th>
       <td><img src="./assets/icons/raw/yeelink.light.colorc.png"></td>
       <td>Yeelight GU10 smart bulb W1 (multicolor)</td>
       <td>yeelink.light.colorc</td>
-      <td></td>
+      <td>YLDP004-A</td>
     </tr>
     <tr>
       <th>1123</th>
@@ -8373,21 +8373,21 @@
       <td><img src="./assets/icons/raw/yeelink.light.ceiling24.png"></td>
       <td>Yeelight Jiaoyue LED ceiling light 260</td>
       <td>yeelink.light.ceiling24</td>
-      <td></td>
+      <td>YLXD61YL</td>
     </tr>
     <tr>
       <th>1129</th>
       <td><img src="./assets/icons/raw/yeelink.light.ceiling3.png"></td>
       <td>Yeelight LED Ceiling Light</td>
       <td>yeelink.light.ceiling3</td>
-      <td></td>
+      <td>YLXD17YL</td>
     </tr>
     <tr>
       <th>1130</th>
       <td><img src="./assets/icons/raw/yeelink.light.ceiling4.png"></td>
       <td>Yeelight LED Ceiling Light</td>
       <td>yeelink.light.ceiling4</td>
-      <td></td>
+      <td>YLXD02YL</td>
     </tr>
     <tr>
       <th>1131</th>
@@ -8401,7 +8401,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.strip6.png"></td>
       <td>Yeelight LED Lightstrip 1S</td>
       <td>yeelink.light.strip6</td>
-      <td></td>
+      <td>YLDD05YL</td>
     </tr>
     <tr>
       <th>1133</th>
@@ -8436,7 +8436,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.cta.png"></td>
       <td>Yeelight LED smart bulb W3 (tunable white)</td>
       <td>yeelink.light.cta</td>
-      <td></td>
+      <td>YLDP05YL</td>
     </tr>
     <tr>
       <th>1138</th>
@@ -8478,7 +8478,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.colora.png"></td>
       <td>Yeelight Smart LED Bulb 1SE (color)</td>
       <td>yeelink.light.colora</td>
-      <td></td>
+      <td>YLDP001</td>
     </tr>
     <tr>
       <th>1144</th>
@@ -8506,7 +8506,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.lamp17.png"></td>
       <td>Yeelight Wireless Charging Table Lamp</td>
       <td>yeelink.light.lamp17</td>
-      <td></td>
+      <td>YLYD04YI</td>
     </tr>
     <tr>
       <th>1148</th>
@@ -9153,7 +9153,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.lamp4.png"></td>
       <td>Mi LED Desk Lamp 1S</td>
       <td>yeelink.light.lamp4</td>
-      <td></td>
+      <td>MJTD01SYL / MUE4105GL</td>
     </tr>
     <tr>
       <th>1234</th>
@@ -9230,7 +9230,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.lamp3.png"></td>
       <td>Yeelight LED Lamp</td>
       <td>yeelink.light.lamp3</td>
-      <td></td>
+      <td>YLTD03YL / YLTD04YL</td>
     </tr>
     <tr>
       <th>1245</th>
@@ -9251,7 +9251,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.lamp9.png"></td>
       <td>Yeelight Star LED Table Lamp</td>
       <td>yeelink.light.lamp9</td>
-      <td></td>
+      <td>YLCT03YL</td>
     </tr>
     <tr>
       <th>1248</th>
@@ -9779,7 +9779,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.ceiling10.png"></td>
       <td>Yeelight Crystal Pendant Lamp</td>
       <td>yeelink.light.ceiling10</td>
-      <td></td>
+      <td>YLDL01YL</td>
     </tr>
     <tr>
       <th>1317</th>
@@ -9922,7 +9922,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.lamp10.png"></td>
       <td>Yeelight Star Floor Lamp</td>
       <td>yeelink.light.lamp10</td>
-      <td></td>
+      <td>YLLD01YL</td>
     </tr>
   </tbody>
 </table>
@@ -10134,7 +10134,7 @@
       <td><img src="./assets/icons/raw/yeelink.gateway.v1.png"></td>
       <td>Yeelight Mesh Hub</td>
       <td>yeelink.gateway.v1</td>
-      <td></td>
+      <td>YLWG01YL</td>
     </tr>
     <tr>
       <th>1357</th>
@@ -10376,7 +10376,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.color3.png"></td>
       <td>Mi LED Smart Bulb (White and Color)</td>
       <td>yeelink.light.color3</td>
-      <td></td>
+      <td>MJDP02YL / GPX4013IN</td>
     </tr>
     <tr>
       <th>1383</th>
@@ -10537,14 +10537,14 @@
       <td><img src="./assets/icons/raw/yeelink.light.mono1.png"></td>
       <td>Yeelight Bulb</td>
       <td>yeelink.light.mono1</td>
-      <td></td>
+      <td>YLDP01YL</td>
     </tr>
     <tr>
       <th>1406</th>
       <td><img src="./assets/icons/raw/yeelink.light.color1.png"></td>
       <td>Yeelight Color Bulb</td>
       <td>yeelink.light.color1</td>
-      <td></td>
+      <td>YLDP02YL</td>
     </tr>
     <tr>
       <th>1407</th>
@@ -10565,7 +10565,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.color4.png"></td>
       <td>Yeelight LED Bulb 1S (Color)</td>
       <td>yeelink.light.color4</td>
-      <td></td>
+      <td>YLDP13YL</td>
     </tr>
     <tr>
       <th>1410</th>
@@ -10586,7 +10586,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.mono5.png"></td>
       <td>Yeelight LED Filament Bulb</td>
       <td>yeelink.light.mono5</td>
-      <td></td>
+      <td>YLDP12YL</td>
     </tr>
     <tr>
       <th>1413</th>
@@ -10840,7 +10840,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.strip1.png"></td>
       <td>Yeelight Lightstrip</td>
       <td>yeelink.light.strip1</td>
-      <td></td>
+      <td>YLDD01YL/YLDD02YL</td>
     </tr>
     <tr>
       <th>1445</th>
@@ -11724,7 +11724,7 @@
       <td><img src="./assets/icons/raw/lumi.curtain.hagl05.png"></td>
       <td>Xiaomiyoupin Curtain Controller (Wi-Fi)</td>
       <td>lumi.curtain.hagl05</td>
-      <td></td>
+      <td>ZNCLDJ11LM</td>
     </tr>
     <tr>
       <th>1567</th>
@@ -12574,7 +12574,7 @@
       <td><img src="./assets/icons/raw/chuangmi.plug.hmi208.png"></td>
       <td>Mi Smart Wi-Fi Plug (Bluetooth Gateway)</td>
       <td>chuangmi.plug.hmi208</td>
-      <td></td>
+      <td>ZNCZ06CM</td>
     </tr>
     <tr>
       <th>1682</th>
@@ -13985,2365 +13985,2372 @@
     </tr>
     <tr>
       <th>1868</th>
+      <td><img src="./assets/icons/raw/lumi.switch.n0acn2.png"></td>
+      <td>Aqara Single Switch Module T1 (With Neutral)</td>
+      <td>lumi.switch.n0acn2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>1869</th>
       <td><img src="./assets/icons/raw/lumi.switch.l3acn3.png"></td>
       <td>Aqara Smart Wall Switch D1 (No Neutral, Triple Rocker)</td>
       <td>lumi.switch.l3acn3</td>
       <td>QBKG25LM</td>
     </tr>
     <tr>
-      <th>1869</th>
+      <th>1870</th>
       <td><img src="./assets/icons/raw/lumi.switch.n3acn3.png"></td>
       <td>Aqara Smart Wall Switch D1 (With Neutral, Triple Rocker)</td>
       <td>lumi.switch.n3acn3</td>
       <td>QBKG26LM</td>
     </tr>
     <tr>
-      <th>1870</th>
+      <th>1871</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_neutral2.v1.png"></td>
       <td>Aqara Wall Switch (No Neutral, Double Rocker)</td>
       <td>lumi.ctrl_neutral2.v1</td>
       <td>QBKG03LM</td>
     </tr>
     <tr>
-      <th>1871</th>
+      <th>1872</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_neutral1.v1.png"></td>
       <td>Aqara Wall Switch (No Neutral, Single Rocker)</td>
       <td>lumi.ctrl_neutral1.v1</td>
       <td>QBKG04LM</td>
     </tr>
     <tr>
-      <th>1872</th>
+      <th>1873</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_ln2.aq1.png"></td>
       <td>Aqara Wall Switch (With Neutral, Double Rocker)</td>
       <td>lumi.ctrl_ln2.aq1</td>
       <td>QBKG12LM</td>
     </tr>
     <tr>
-      <th>1873</th>
+      <th>1874</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_ln2.v1.png"></td>
       <td>Aqara Wall Switch (With Neutral, Double Rocker)</td>
       <td>lumi.ctrl_ln2.v1</td>
       <td>QBKG12LM</td>
     </tr>
     <tr>
-      <th>1874</th>
+      <th>1875</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_ln1.aq1.png"></td>
       <td>Aqara Wall Switch (With Neutral, Single Rocker)</td>
       <td>lumi.ctrl_ln1.aq1</td>
       <td>QBKG11LM</td>
     </tr>
     <tr>
-      <th>1875</th>
+      <th>1876</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_ln1.v1.png"></td>
       <td>Aqara Wall Switch (With Neutral, Single Rocker)</td>
       <td>lumi.ctrl_ln1.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1876</th>
+      <th>1877</th>
       <td><img src="./assets/icons/raw/lumi.switch.b2lacn02.png"></td>
       <td>Aqara Wall Switch D1 (No Neutral, Double Rocker)</td>
       <td>lumi.switch.b2lacn02</td>
       <td>QBKG22LM</td>
     </tr>
     <tr>
-      <th>1877</th>
+      <th>1878</th>
       <td><img src="./assets/icons/raw/lumi.switch.b1lacn02.png"></td>
       <td>Aqara Wall Switch D1 (No Neutral, Single Rocker)</td>
       <td>lumi.switch.b1lacn02</td>
       <td>QBKG21LM</td>
     </tr>
     <tr>
-      <th>1878</th>
+      <th>1879</th>
       <td><img src="./assets/icons/raw/lumi.switch.b2nacn02.png"></td>
       <td>Aqara Wall Switch D1 (With Neutral, Double Rocker)</td>
       <td>lumi.switch.b2nacn02</td>
       <td>QBKG24LM</td>
     </tr>
     <tr>
-      <th>1879</th>
+      <th>1880</th>
       <td><img src="./assets/icons/raw/lumi.switch.b1nacn02.png"></td>
       <td>Aqara Wall Switch D1 (With Neutral, Single Rocker)</td>
       <td>lumi.switch.b1nacn02</td>
       <td>QBKG23LM</td>
     </tr>
     <tr>
-      <th>1880</th>
+      <th>1881</th>
       <td><img src="./assets/icons/raw/lumi.remote.b286acn01.png"></td>
       <td>Aqara Wireless Remote Switch (Double Rocker)</td>
       <td>lumi.remote.b286acn01</td>
       <td>WXKG02LM</td>
     </tr>
     <tr>
-      <th>1881</th>
+      <th>1882</th>
       <td><img src="./assets/icons/raw/lumi.sensor_86sw2.v1.png"></td>
       <td>Aqara Wireless Remote Switch (Double Rocker)</td>
       <td>lumi.sensor_86sw2.v1</td>
       <td>WXKG02LM</td>
     </tr>
     <tr>
-      <th>1882</th>
+      <th>1883</th>
       <td><img src="./assets/icons/raw/lumi.remote.b186acn01.png"></td>
       <td>Aqara Wireless Remote Switch (Single Rocker)</td>
       <td>lumi.remote.b186acn01</td>
       <td>WXKG03LM</td>
     </tr>
     <tr>
-      <th>1883</th>
+      <th>1884</th>
       <td><img src="./assets/icons/raw/lumi.sensor_86sw1.v1.png"></td>
       <td>Aqara Wireless Remote Switch (Single Rocker)</td>
       <td>lumi.sensor_86sw1.v1</td>
       <td>WXKG03LM</td>
     </tr>
     <tr>
-      <th>1884</th>
+      <th>1885</th>
       <td><img src="./assets/icons/raw/lumi.remote.b286acn02.png"></td>
       <td>Aqara Wireless Remote Switch D1 (Double Rocker)</td>
       <td>lumi.remote.b286acn02</td>
       <td>WXKG07LM</td>
     </tr>
     <tr>
-      <th>1885</th>
+      <th>1886</th>
       <td><img src="./assets/icons/raw/lumi.remote.b186acn02.png"></td>
       <td>Aqara Wireless Remote Switch D1 (Single Rocker)</td>
       <td>lumi.remote.b186acn02</td>
       <td>WXKG06LM</td>
     </tr>
     <tr>
-      <th>1886</th>
+      <th>1887</th>
       <td><img src="./assets/icons/raw/rjkj.switch.b105.png"></td>
       <td>B105 circuit breaker</td>
       <td>rjkj.switch.b105</td>
       <td></td>
     </tr>
     <tr>
-      <th>1887</th>
+      <th>1888</th>
       <td><img src="./assets/icons/raw/btzn.switch.cardv1.png"></td>
       <td>Bit card power switch</td>
       <td>btzn.switch.cardv1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1888</th>
+      <th>1889</th>
       <td><img src="./assets/icons/raw/btzn.switch.2key.png"></td>
       <td>Bit double key weak current switch</td>
       <td>btzn.switch.2key</td>
       <td></td>
     </tr>
     <tr>
-      <th>1889</th>
+      <th>1890</th>
       <td><img src="./assets/icons/raw/btzn.switch.4key.png"></td>
       <td>Bit four-button weak current switch</td>
       <td>btzn.switch.4key</td>
       <td></td>
     </tr>
     <tr>
-      <th>1890</th>
+      <th>1891</th>
       <td><img src="./assets/icons/raw/btzn.switch.1key.png"></td>
       <td>Bit single key weak current switch</td>
       <td>btzn.switch.1key</td>
       <td></td>
     </tr>
     <tr>
-      <th>1891</th>
+      <th>1892</th>
       <td><img src="./assets/icons/raw/sykj.switch.030009.png"></td>
       <td>Breaker</td>
       <td>sykj.switch.030009</td>
       <td></td>
     </tr>
     <tr>
-      <th>1892</th>
+      <th>1893</th>
       <td><img src="./assets/icons/raw/szsy.switch.030009.png"></td>
       <td>Breaker</td>
       <td>szsy.switch.030009</td>
       <td></td>
     </tr>
     <tr>
-      <th>1893</th>
+      <th>1894</th>
       <td><img src="./assets/icons/raw/yaguan.switch.relay.png"></td>
       <td>Breaker</td>
       <td>yaguan.switch.relay</td>
       <td></td>
     </tr>
     <tr>
-      <th>1894</th>
+      <th>1895</th>
       <td><img src="./assets/icons/raw/ezhome.switch.yy0001.png"></td>
       <td>Cloud access switch</td>
       <td>ezhome.switch.yy0001</td>
       <td></td>
     </tr>
     <tr>
-      <th>1895</th>
+      <th>1896</th>
       <td><img src="./assets/icons/raw/ftnet.switch.xh01s.png"></td>
       <td>Cloud switch</td>
       <td>ftnet.switch.xh01s</td>
       <td></td>
     </tr>
     <tr>
-      <th>1896</th>
+      <th>1897</th>
       <td><img src="./assets/icons/raw/xbyk.switch.xh01s.png"></td>
       <td>Cloud switch</td>
       <td>xbyk.switch.xh01s</td>
       <td></td>
     </tr>
     <tr>
-      <th>1897</th>
+      <th>1898</th>
       <td><img src="./assets/icons/raw/scmkcz.switch.cr2p.png"></td>
       <td>Dimmer switch</td>
       <td>scmkcz.switch.cr2p</td>
       <td></td>
     </tr>
     <tr>
-      <th>1898</th>
+      <th>1899</th>
       <td><img src="./assets/icons/raw/xkwl.switch.donoff.png"></td>
       <td>Domoticz-switch</td>
       <td>xkwl.switch.donoff</td>
       <td></td>
     </tr>
     <tr>
-      <th>1899</th>
+      <th>1900</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_dualchn.aq1.png"></td>
       <td>Dual control module</td>
       <td>lumi.ctrl_dualchn.aq1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1900</th>
+      <th>1901</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_dualchn.es1.png"></td>
       <td>Dual control module</td>
       <td>lumi.ctrl_dualchn.es1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1901</th>
+      <th>1902</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_dualchn.v1.png"></td>
       <td>Dual control module</td>
       <td>lumi.ctrl_dualchn.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1902</th>
+      <th>1903</th>
       <td><img src="./assets/icons/raw/lumi.switch.n2eic2.png"></td>
       <td>ES Scene Switch (With Neutral, Double Rocker)</td>
       <td>lumi.switch.n2eic2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1903</th>
+      <th>1904</th>
       <td><img src="./assets/icons/raw/lumi.switch.n4eic2.png"></td>
       <td>ES Scene Switch (With Neutral, Quadruple Rocker)</td>
       <td>lumi.switch.n4eic2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1904</th>
+      <th>1905</th>
       <td><img src="./assets/icons/raw/lumi.switch.n6eic2.png"></td>
       <td>ES Scene Switch (With Neutral, Sextuple Rocker)</td>
       <td>lumi.switch.n6eic2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1905</th>
+      <th>1906</th>
       <td><img src="./assets/icons/raw/lumi.switch.n1eic2.png"></td>
       <td>ES Scene Switch (With Neutral, Single Rocker)</td>
       <td>lumi.switch.n1eic2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1906</th>
+      <th>1907</th>
       <td><img src="./assets/icons/raw/lumi.switch.n3eic2.png"></td>
       <td>ES Scene Switch (With Neutral, Triple Rocker)</td>
       <td>lumi.switch.n3eic2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1907</th>
+      <th>1908</th>
       <td><img src="./assets/icons/raw/lumi.switch.n2eic1.png"></td>
       <td>ES Wall Switch (With Neutral, Double Rocker)</td>
       <td>lumi.switch.n2eic1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1908</th>
+      <th>1909</th>
       <td><img src="./assets/icons/raw/lumi.switch.n4eic1.png"></td>
       <td>ES Wall Switch (With Neutral, Quadruple Rocker)</td>
       <td>lumi.switch.n4eic1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1909</th>
+      <th>1910</th>
       <td><img src="./assets/icons/raw/lumi.switch.n6eic1.png"></td>
       <td>ES Wall Switch (With Neutral, Sextuple Rocker)</td>
       <td>lumi.switch.n6eic1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1910</th>
+      <th>1911</th>
       <td><img src="./assets/icons/raw/lumi.switch.n1eic1.png"></td>
       <td>ES Wall Switch (With Neutral, Single Rocker)</td>
       <td>lumi.switch.n1eic1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1911</th>
+      <th>1912</th>
       <td><img src="./assets/icons/raw/lumi.switch.n3eic1.png"></td>
       <td>ES Wall Switch (With Neutral, Triple Rocker)</td>
       <td>lumi.switch.n3eic1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1912</th>
+      <th>1913</th>
       <td><img src="./assets/icons/raw/yeelink.switch.prosw1.png"></td>
       <td>Easy to switch</td>
       <td>yeelink.switch.prosw1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1913</th>
+      <th>1914</th>
       <td><img src="./assets/icons/raw/szsy.switch.090005.png"></td>
       <td>Eight-key scene switch</td>
       <td>szsy.switch.090005</td>
       <td></td>
     </tr>
     <tr>
-      <th>1914</th>
+      <th>1915</th>
       <td><img src="./assets/icons/raw/bymiot.switch.4keyv1.png"></td>
       <td>Four-button strong electric switch in the future</td>
       <td>bymiot.switch.4keyv1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1915</th>
+      <th>1916</th>
       <td><img src="./assets/icons/raw/lumi.relay.c4acn01.png"></td>
       <td>Four-way control module</td>
       <td>lumi.relay.c4acn01</td>
       <td>LLKZMK11LM (Dev)</td>
     </tr>
     <tr>
-      <th>1916</th>
+      <th>1917</th>
       <td><img src="./assets/icons/raw/bull.switch.s312c.png"></td>
       <td>G27_Smart Switch_Three Open_Down Button</td>
       <td>bull.switch.s312c</td>
       <td></td>
     </tr>
     <tr>
-      <th>1917</th>
+      <th>1918</th>
       <td><img src="./assets/icons/raw/bull.switch.s312b.png"></td>
       <td>G27_Smart Switch_Three Open_Middle Button</td>
       <td>bull.switch.s312b</td>
       <td></td>
     </tr>
     <tr>
-      <th>1918</th>
+      <th>1919</th>
       <td><img src="./assets/icons/raw/bull.switch.s312a.png"></td>
       <td>G27_Smart Switch_Three Open_Up Button</td>
       <td>bull.switch.s312a</td>
       <td></td>
     </tr>
     <tr>
-      <th>1919</th>
+      <th>1920</th>
       <td><img src="./assets/icons/raw/bull.switch.gn004.png"></td>
       <td>G27_Smart socket_10A five holes</td>
       <td>bull.switch.gn004</td>
       <td></td>
     </tr>
     <tr>
-      <th>1920</th>
+      <th>1921</th>
       <td><img src="./assets/icons/raw/bull.switch.s112.png"></td>
       <td>G27_smart switch_one open</td>
       <td>bull.switch.s112</td>
       <td></td>
     </tr>
     <tr>
-      <th>1921</th>
+      <th>1922</th>
       <td><img src="./assets/icons/raw/bull.switch.s212b.png"></td>
       <td>G27_smart switch_two open_down button</td>
       <td>bull.switch.s212b</td>
       <td></td>
     </tr>
     <tr>
-      <th>1922</th>
+      <th>1923</th>
       <td><img src="./assets/icons/raw/bull.switch.s212.png"></td>
       <td>G27_smart switch_two open_up button</td>
       <td>bull.switch.s212</td>
       <td></td>
     </tr>
     <tr>
-      <th>1923</th>
+      <th>1924</th>
       <td><img src="./assets/icons/raw/jilian.switch.fb.png"></td>
       <td>Geeklink_FB</td>
       <td>jilian.switch.fb</td>
       <td></td>
     </tr>
     <tr>
-      <th>1924</th>
+      <th>1925</th>
       <td><img src="./assets/icons/raw/jrnet.switch.sw1.png"></td>
       <td>Golden Soft Network Smart Switch Box 1</td>
       <td>jrnet.switch.sw1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1925</th>
+      <th>1926</th>
       <td><img src="./assets/icons/raw/jrnet.switch.sw2.png"></td>
       <td>Golden Soft Network Smart Switch Box 2</td>
       <td>jrnet.switch.sw2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1926</th>
+      <th>1927</th>
       <td><img src="./assets/icons/raw/cuco.switch.cs2.png"></td>
       <td>Gosund Smart Switch-Double Open</td>
       <td>cuco.switch.cs2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1927</th>
+      <th>1928</th>
       <td><img src="./assets/icons/raw/cuco.switch.cs1.png"></td>
       <td>Gosund Smart Switch-Single Open</td>
       <td>cuco.switch.cs1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1928</th>
+      <th>1929</th>
       <td><img src="./assets/icons/raw/cuco.switch.cs3.png"></td>
       <td>Gosund Smart Switch-Three Open</td>
       <td>cuco.switch.cs3</td>
       <td></td>
     </tr>
     <tr>
-      <th>1929</th>
+      <th>1930</th>
       <td><img src="./assets/icons/raw/zdzn.switch.66749.png"></td>
       <td>Guangzhou Zhunde Switch</td>
       <td>zdzn.switch.66749</td>
       <td></td>
     </tr>
     <tr>
-      <th>1930</th>
+      <th>1931</th>
       <td><img src="./assets/icons/raw/090615.switch.hmb022.png"></td>
       <td>H intelligent double key switch (mesh)</td>
       <td>090615.switch.hmb022</td>
       <td></td>
     </tr>
     <tr>
-      <th>1931</th>
+      <th>1932</th>
       <td><img src="./assets/icons/raw/090615.switch.hmb012.png"></td>
       <td>H intelligent single key switch (mesh)</td>
       <td>090615.switch.hmb012</td>
       <td></td>
     </tr>
     <tr>
-      <th>1932</th>
+      <th>1933</th>
       <td><img src="./assets/icons/raw/090615.switch.hmb032.png"></td>
       <td>H intelligent three key switch (mesh)</td>
       <td>090615.switch.hmb032</td>
       <td></td>
     </tr>
     <tr>
-      <th>1933</th>
+      <th>1934</th>
       <td><img src="./assets/icons/raw/huayi.switch.v0002.png"></td>
       <td>HUIZUO Switch (Double Key)</td>
       <td>huayi.switch.v0002</td>
       <td></td>
     </tr>
     <tr>
-      <th>1934</th>
+      <th>1935</th>
       <td><img src="./assets/icons/raw/huayi.switch.v0001.png"></td>
       <td>HUIZUO Switch (Single Key)</td>
       <td>huayi.switch.v0001</td>
       <td></td>
     </tr>
     <tr>
-      <th>1935</th>
+      <th>1936</th>
       <td><img src="./assets/icons/raw/schyrl.switch.sw12.png"></td>
       <td>Huayu Ruilian Smart Switch</td>
       <td>schyrl.switch.sw12</td>
       <td></td>
     </tr>
     <tr>
-      <th>1936</th>
+      <th>1937</th>
       <td><img src="./assets/icons/raw/chuangmi.switch.mesh.png"></td>
       <td>IMILAB Smart switch K1-A</td>
       <td>chuangmi.switch.mesh</td>
       <td></td>
     </tr>
     <tr>
-      <th>1937</th>
+      <th>1938</th>
       <td><img src="./assets/icons/raw/chuangmi.switch.meshb01.png"></td>
       <td>IMILAB Smart switch K1-B</td>
       <td>chuangmi.switch.meshb01</td>
       <td></td>
     </tr>
     <tr>
-      <th>1938</th>
+      <th>1939</th>
       <td><img src="./assets/icons/raw/chuangmi.switch.meshc01.png"></td>
       <td>IMILAB Smart switch K1-C</td>
       <td>chuangmi.switch.meshc01</td>
       <td></td>
     </tr>
     <tr>
-      <th>1939</th>
+      <th>1940</th>
       <td><img src="./assets/icons/raw/yugang.switch.switch.png"></td>
       <td>Intelligent dual control switch</td>
       <td>yugang.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>1940</th>
+      <th>1941</th>
       <td><img src="./assets/icons/raw/zhijia.switch.dgmbl102.png"></td>
       <td>Intelligent feedback light panel (2-way)</td>
       <td>zhijia.switch.dgmbl102</td>
       <td></td>
     </tr>
     <tr>
-      <th>1941</th>
+      <th>1942</th>
       <td><img src="./assets/icons/raw/693948.switch.khkz.png"></td>
       <td>KH Zero Fire Switch</td>
       <td>693948.switch.khkz</td>
       <td></td>
     </tr>
     <tr>
-      <th>1942</th>
+      <th>1943</th>
       <td><img src="./assets/icons/raw/hotata.switch.ls011.png"></td>
       <td>Kollini all the way light control panel</td>
       <td>hotata.switch.ls011</td>
       <td></td>
     </tr>
     <tr>
-      <th>1943</th>
+      <th>1944</th>
       <td><img src="./assets/icons/raw/hotata.switch.ls012.png"></td>
       <td>Kollini second road light control panel</td>
       <td>hotata.switch.ls012</td>
       <td></td>
     </tr>
     <tr>
-      <th>1944</th>
+      <th>1945</th>
       <td><img src="./assets/icons/raw/hotata.switch.ls022.png"></td>
       <td>Kollini second road light control panel</td>
       <td>hotata.switch.ls022</td>
       <td></td>
     </tr>
     <tr>
-      <th>1945</th>
+      <th>1946</th>
       <td><img src="./assets/icons/raw/hotata.switch.ls013.png"></td>
       <td>Kollini three-way light control panel</td>
       <td>hotata.switch.ls013</td>
       <td></td>
     </tr>
     <tr>
-      <th>1946</th>
+      <th>1947</th>
       <td><img src="./assets/icons/raw/hotata.switch.ls023.png"></td>
       <td>Kollini three-way light control panel</td>
       <td>hotata.switch.ls023</td>
       <td></td>
     </tr>
     <tr>
-      <th>1947</th>
+      <th>1948</th>
       <td><img src="./assets/icons/raw/lonink.switch.ln064.png"></td>
       <td>LONINK Intelligent one key switch WIFI</td>
       <td>lonink.switch.ln064</td>
       <td></td>
     </tr>
     <tr>
-      <th>1948</th>
+      <th>1949</th>
       <td><img src="./assets/icons/raw/lonink.switch.ln066.png"></td>
       <td>LONINK Intelligent three key switch WIFI</td>
       <td>lonink.switch.ln066</td>
       <td></td>
     </tr>
     <tr>
-      <th>1949</th>
+      <th>1950</th>
       <td><img src="./assets/icons/raw/lonink.switch.ln065.png"></td>
       <td>LONINK Intelligent two key switch WIFI</td>
       <td>lonink.switch.ln065</td>
       <td></td>
     </tr>
     <tr>
-      <th>1950</th>
+      <th>1951</th>
       <td><img src="./assets/icons/raw/lonink.switch.ln084.png"></td>
       <td>LONINK One key switch (WiFi)</td>
       <td>lonink.switch.ln084</td>
       <td></td>
     </tr>
     <tr>
-      <th>1951</th>
+      <th>1952</th>
       <td><img src="./assets/icons/raw/lonink.switch.ln086.png"></td>
       <td>LONINK Three key switch (WiFi)</td>
       <td>lonink.switch.ln086</td>
       <td></td>
     </tr>
     <tr>
-      <th>1952</th>
+      <th>1953</th>
       <td><img src="./assets/icons/raw/lonink.switch.ln085.png"></td>
       <td>LONINK Two key switch (WiFi)</td>
       <td>lonink.switch.ln085</td>
       <td></td>
     </tr>
     <tr>
-      <th>1953</th>
+      <th>1954</th>
       <td><img src="./assets/icons/raw/dhzn.switch.sw0a01.png"></td>
       <td>Lezhigou WiFi light switch</td>
       <td>dhzn.switch.sw0a01</td>
       <td></td>
     </tr>
     <tr>
-      <th>1954</th>
+      <th>1955</th>
       <td><img src="./assets/icons/raw/linp.switch.q31.png"></td>
       <td>Linptech Smart Wall Switch (1 Key)</td>
       <td>linp.switch.q31</td>
       <td></td>
     </tr>
     <tr>
-      <th>1955</th>
+      <th>1956</th>
       <td><img src="./assets/icons/raw/linp.switch.q32.png"></td>
       <td>Linptech Smart Wall Switch (2 Keys)</td>
       <td>linp.switch.q32</td>
       <td></td>
     </tr>
     <tr>
-      <th>1956</th>
+      <th>1957</th>
       <td><img src="./assets/icons/raw/linp.switch.q33.png"></td>
       <td>Linptech Smart Wall Switch (3 Keys)</td>
       <td>linp.switch.q33</td>
       <td></td>
     </tr>
     <tr>
-      <th>1957</th>
+      <th>1958</th>
       <td><img src="./assets/icons/raw/zimi.switch.dhkg02.png"></td>
       <td>Mi Smart Dual one way Wall Switch</td>
       <td>zimi.switch.dhkg02</td>
       <td></td>
     </tr>
     <tr>
-      <th>1958</th>
+      <th>1959</th>
       <td><img src="./assets/icons/raw/zimi.switch.dhkg01.png"></td>
       <td>Mi Smart Single one way Wall Switch</td>
       <td>zimi.switch.dhkg01</td>
       <td></td>
     </tr>
     <tr>
-      <th>1959</th>
+      <th>1960</th>
       <td><img src="./assets/icons/raw/isa.switch.kg03hl.png"></td>
       <td>Mi Smart Triple One Way Wall Switch with Display</td>
       <td>isa.switch.kg03hl</td>
       <td></td>
     </tr>
     <tr>
-      <th>1960</th>
+      <th>1961</th>
       <td><img src="./assets/icons/raw/orvibo.switch.mixpad.png"></td>
       <td>MixPad Mini Super Smart Switch</td>
       <td>orvibo.switch.mixpad</td>
       <td></td>
     </tr>
     <tr>
-      <th>1961</th>
+      <th>1962</th>
       <td><img src="./assets/icons/raw/scmkcz.switch.4msw.png"></td>
       <td>Multiplexer</td>
       <td>scmkcz.switch.4msw</td>
       <td></td>
     </tr>
     <tr>
-      <th>1962</th>
+      <th>1963</th>
       <td><img src="./assets/icons/raw/090615.switch.switch01.png"></td>
       <td>One Intelligent switch (WIFI)</td>
       <td>090615.switch.switch01</td>
       <td></td>
     </tr>
     <tr>
-      <th>1963</th>
+      <th>1964</th>
       <td><img src="./assets/icons/raw/leshi.switch.sw1b01.png"></td>
       <td>One Key Touch Switch X1 (WiFi)</td>
       <td>leshi.switch.sw1b01</td>
       <td></td>
     </tr>
     <tr>
-      <th>1964</th>
+      <th>1965</th>
       <td><img src="./assets/icons/raw/huazhu.switch.1keyv2.png"></td>
       <td>One button switch</td>
       <td>huazhu.switch.1keyv2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1965</th>
+      <th>1966</th>
       <td><img src="./assets/icons/raw/lxk.switch.djkg.png"></td>
       <td>One button switch</td>
       <td>lxk.switch.djkg</td>
       <td></td>
     </tr>
     <tr>
-      <th>1966</th>
+      <th>1967</th>
       <td><img src="./assets/icons/raw/ghome.switch.sf001.png"></td>
       <td>One key single fire switch</td>
       <td>ghome.switch.sf001</td>
       <td></td>
     </tr>
     <tr>
-      <th>1967</th>
+      <th>1968</th>
       <td><img src="./assets/icons/raw/leshi.switch.v0003.png"></td>
       <td>One key smart switch WIFI X1</td>
       <td>leshi.switch.v0003</td>
       <td></td>
     </tr>
     <tr>
-      <th>1968</th>
+      <th>1969</th>
       <td><img src="./assets/icons/raw/ezhome.switch.z4001.png"></td>
       <td>One touch switch panel</td>
       <td>ezhome.switch.z4001</td>
       <td></td>
     </tr>
     <tr>
-      <th>1969</th>
+      <th>1970</th>
       <td><img src="./assets/icons/raw/bright.switch.v100.png"></td>
       <td>One way switch</td>
       <td>bright.switch.v100</td>
       <td></td>
     </tr>
     <tr>
-      <th>1970</th>
+      <th>1971</th>
       <td><img src="./assets/icons/raw/milamp.switch.switch.png"></td>
       <td>One way switch</td>
       <td>milamp.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>1971</th>
+      <th>1972</th>
       <td><img src="./assets/icons/raw/lemesh.switch.sw1a02.png"></td>
       <td>One-click Smart Switch Mesh version</td>
       <td>lemesh.switch.sw1a02</td>
       <td></td>
     </tr>
     <tr>
-      <th>1972</th>
+      <th>1973</th>
       <td><img src="./assets/icons/raw/090615.switch.mesw1.png"></td>
       <td>PTX Mesh intelligent one switch</td>
       <td>090615.switch.mesw1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1973</th>
+      <th>1974</th>
       <td><img src="./assets/icons/raw/090615.switch.mesw3.png"></td>
       <td>PTX Mesh intelligent three switch</td>
       <td>090615.switch.mesw3</td>
       <td></td>
     </tr>
     <tr>
-      <th>1974</th>
+      <th>1975</th>
       <td><img src="./assets/icons/raw/090615.switch.mesw2.png"></td>
       <td>PTX Mesh intelligent two switch</td>
       <td>090615.switch.mesw2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1975</th>
+      <th>1976</th>
       <td><img src="./assets/icons/raw/090615.switch.xswitch01.png"></td>
       <td>PTX OneKey Switch (WIFI)</td>
       <td>090615.switch.xswitch01</td>
       <td></td>
     </tr>
     <tr>
-      <th>1976</th>
+      <th>1977</th>
       <td><img src="./assets/icons/raw/090615.switch.mhrsw1.png"></td>
       <td>PTX Sle Bluetooth intelligent switch moduleing</td>
       <td>090615.switch.mhrsw1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1977</th>
+      <th>1978</th>
       <td><img src="./assets/icons/raw/090615.switch.xswitch03.png"></td>
       <td>PTX ThreeKey Switch (WIFI)</td>
       <td>090615.switch.xswitch03</td>
       <td></td>
     </tr>
     <tr>
-      <th>1978</th>
+      <th>1979</th>
       <td><img src="./assets/icons/raw/090615.switch.xswitch02.png"></td>
       <td>PTX Twokey switch (wifi)</td>
       <td>090615.switch.xswitch02</td>
       <td></td>
     </tr>
     <tr>
-      <th>1979</th>
+      <th>1980</th>
       <td><img src="./assets/icons/raw/090615.switch.mhrsw2.png"></td>
       <td>PTX dual Bluetooth intelligent switch module</td>
       <td>090615.switch.mhrsw2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1980</th>
+      <th>1981</th>
       <td><img src="./assets/icons/raw/090615.switch.ptxtc1.png"></td>
       <td>PTX intelligent touch switch on (mesh)</td>
       <td>090615.switch.ptxtc1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1981</th>
+      <th>1982</th>
       <td><img src="./assets/icons/raw/090615.switch.ptxtc3.png"></td>
       <td>PTX intelligent touch switch three on (mesh)</td>
       <td>090615.switch.ptxtc3</td>
       <td></td>
     </tr>
     <tr>
-      <th>1982</th>
+      <th>1983</th>
       <td><img src="./assets/icons/raw/090615.switch.ptxtc2.png"></td>
       <td>PTX intelligent touch two on (mesh)</td>
       <td>090615.switch.ptxtc2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1983</th>
+      <th>1984</th>
       <td><img src="./assets/icons/raw/090615.switch.mets1.png"></td>
       <td>PTX one key intelligent switch (mesh)</td>
       <td>090615.switch.mets1</td>
       <td></td>
     </tr>
     <tr>
-      <th>1984</th>
+      <th>1985</th>
       <td><img src="./assets/icons/raw/090615.switch.mets3.png"></td>
       <td>PTX three key intelligent switch (mesh)</td>
       <td>090615.switch.mets3</td>
       <td></td>
     </tr>
     <tr>
-      <th>1985</th>
+      <th>1986</th>
       <td><img src="./assets/icons/raw/090615.switch.mets2.png"></td>
       <td>PTX two key intelligent switch (mesh)</td>
       <td>090615.switch.mets2</td>
       <td></td>
     </tr>
     <tr>
-      <th>1986</th>
+      <th>1987</th>
       <td><img src="./assets/icons/raw/park.switch.fp509.png"></td>
       <td>Parking spaces are intelligently locked</td>
       <td>park.switch.fp509</td>
       <td></td>
     </tr>
     <tr>
-      <th>1987</th>
+      <th>1988</th>
       <td><img src="./assets/icons/raw/090615.switch.piak01.png"></td>
       <td>Piak intelligent one switch</td>
       <td>090615.switch.piak01</td>
       <td></td>
     </tr>
     <tr>
-      <th>1988</th>
+      <th>1989</th>
       <td><img src="./assets/icons/raw/090615.switch.piak03.png"></td>
       <td>Piak intelligent three switch</td>
       <td>090615.switch.piak03</td>
       <td></td>
     </tr>
     <tr>
-      <th>1989</th>
+      <th>1990</th>
       <td><img src="./assets/icons/raw/090615.switch.piak02.png"></td>
       <td>Piak intelligent two switch</td>
       <td>090615.switch.piak02</td>
       <td></td>
     </tr>
     <tr>
-      <th>1990</th>
+      <th>1991</th>
       <td><img src="./assets/icons/raw/pinelc.switch.001.png"></td>
       <td>Pinecone WiFi boot card</td>
       <td>pinelc.switch.001</td>
       <td></td>
     </tr>
     <tr>
-      <th>1991</th>
+      <th>1992</th>
       <td><img src="./assets/icons/raw/raymo.switch.000101.png"></td>
       <td>Remo Smart Switch</td>
       <td>raymo.switch.000101</td>
       <td></td>
     </tr>
     <tr>
-      <th>1992</th>
+      <th>1993</th>
       <td><img src="./assets/icons/raw/coolki.switch.yk0003.png"></td>
       <td>Remote control master-wifi to infrared-DVD</td>
       <td>coolki.switch.yk0003</td>
       <td></td>
     </tr>
     <tr>
-      <th>1993</th>
+      <th>1994</th>
       <td><img src="./assets/icons/raw/zhihw.switch.yk0003.png"></td>
       <td>Remote control master-wifi to infrared-DVD</td>
       <td>zhihw.switch.yk0003</td>
       <td></td>
     </tr>
     <tr>
-      <th>1994</th>
+      <th>1995</th>
       <td><img src="./assets/icons/raw/coolki.switch.yk0005.png"></td>
       <td>Remote control master-wifi to infrared-projector</td>
       <td>coolki.switch.yk0005</td>
       <td></td>
     </tr>
     <tr>
-      <th>1995</th>
+      <th>1996</th>
       <td><img src="./assets/icons/raw/zhihw.switch.yk0005.png"></td>
       <td>Remote control master-wifi to infrared-projector</td>
       <td>zhihw.switch.yk0005</td>
       <td></td>
     </tr>
     <tr>
-      <th>1996</th>
+      <th>1997</th>
       <td><img src="./assets/icons/raw/ezhome.switch.zhyapp06.png"></td>
       <td>Reset-Switch</td>
       <td>ezhome.switch.zhyapp06</td>
       <td></td>
     </tr>
     <tr>
-      <th>1997</th>
+      <th>1998</th>
       <td><img src="./assets/icons/raw/lemesh.switch.sw0a01.png"></td>
       <td>Scene mesh breaker</td>
       <td>lemesh.switch.sw0a01</td>
       <td></td>
     </tr>
     <tr>
-      <th>1998</th>
+      <th>1999</th>
       <td><img src="./assets/icons/raw/dwdz.switch.sw0a01.png"></td>
       <td>Scene mesh breaker DBS</td>
       <td>dwdz.switch.sw0a01</td>
       <td></td>
     </tr>
     <tr>
-      <th>1999</th>
+      <th>2000</th>
       <td><img src="./assets/icons/raw/hosjoy.switch.1245.png"></td>
       <td>Scenes</td>
       <td>hosjoy.switch.1245</td>
       <td></td>
     </tr>
     <tr>
-      <th>2000</th>
+      <th>2001</th>
       <td><img src="./assets/icons/raw/scmkcz.switch.scene.png"></td>
       <td>Scenes</td>
       <td>scmkcz.switch.scene</td>
       <td></td>
     </tr>
     <tr>
-      <th>2001</th>
+      <th>2002</th>
       <td><img src="./assets/icons/raw/shanhe.switch.1.png"></td>
       <td>Shanhe IOT</td>
       <td>shanhe.switch.1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2002</th>
+      <th>2003</th>
       <td><img src="./assets/icons/raw/shanhe.switch.v1.png"></td>
       <td>Shanhe IOT</td>
       <td>shanhe.switch.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2003</th>
+      <th>2004</th>
       <td><img src="./assets/icons/raw/lumi.relay.c1acn01.png"></td>
       <td>Single control module</td>
       <td>lumi.relay.c1acn01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2004</th>
+      <th>2005</th>
       <td><img src="./assets/icons/raw/edaltd.switch.switch.png"></td>
       <td>Single fire switch</td>
       <td>edaltd.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>2005</th>
+      <th>2006</th>
       <td><img src="./assets/icons/raw/sini.switch.495246.png"></td>
       <td>Sinilink</td>
       <td>sini.switch.495246</td>
       <td></td>
     </tr>
     <tr>
-      <th>2006</th>
+      <th>2007</th>
       <td><img src="./assets/icons/raw/bymiot.switch.6keyv1.png"></td>
       <td>Six-key strong electric switch in the future</td>
       <td>bymiot.switch.6keyv1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2007</th>
+      <th>2008</th>
       <td><img src="./assets/icons/raw/h2t.switch.h2tdp.png"></td>
       <td>Smart Access Control Module</td>
       <td>h2t.switch.h2tdp</td>
       <td></td>
     </tr>
     <tr>
-      <th>2008</th>
+      <th>2009</th>
       <td><img src="./assets/icons/raw/lfsmt.switch.ls055.png"></td>
       <td>Smart Light Switch (1-way)</td>
       <td>lfsmt.switch.ls055</td>
       <td></td>
     </tr>
     <tr>
-      <th>2009</th>
+      <th>2010</th>
       <td><img src="./assets/icons/raw/lfsmt.switch.ls056.png"></td>
       <td>Smart Light Switch (2-way)</td>
       <td>lfsmt.switch.ls056</td>
       <td></td>
     </tr>
     <tr>
-      <th>2010</th>
+      <th>2011</th>
       <td><img src="./assets/icons/raw/lfsmt.switch.ls057.png"></td>
       <td>Smart Light Switch (3-way)</td>
       <td>lfsmt.switch.ls057</td>
       <td></td>
     </tr>
     <tr>
-      <th>2011</th>
+      <th>2012</th>
       <td><img src="./assets/icons/raw/881878.switch.ddkgznljq.png"></td>
       <td>Smart Module for Electric Switch</td>
       <td>881878.switch.ddkgznljq</td>
       <td></td>
     </tr>
     <tr>
-      <th>2012</th>
+      <th>2013</th>
       <td><img src="./assets/icons/raw/cchome.switch.86l2v1.png"></td>
       <td>Smart Switch (Double)</td>
       <td>cchome.switch.86l2v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2013</th>
+      <th>2014</th>
       <td><img src="./assets/icons/raw/cchome.switch.86l1v1.png"></td>
       <td>Smart Switch (Single)</td>
       <td>cchome.switch.86l1v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2014</th>
+      <th>2015</th>
       <td><img src="./assets/icons/raw/cchome.switch.86l3v1.png"></td>
       <td>Smart Switch (Three)</td>
       <td>cchome.switch.86l3v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2015</th>
+      <th>2016</th>
       <td><img src="./assets/icons/raw/leshi.switch.v0001.png"></td>
       <td>Smart Switch WIFI X</td>
       <td>leshi.switch.v0001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2016</th>
+      <th>2017</th>
       <td><img src="./assets/icons/raw/lumi.switch.b3n01.png"></td>
       <td>Smart Wall Switch (Zero Fire Wire Three-Key Version)</td>
       <td>lumi.switch.b3n01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2017</th>
+      <th>2018</th>
       <td><img src="./assets/icons/raw/lumi.switch.b3lacn02.png"></td>
       <td>Smart Wall Switch D1 (Single FireWire Three Button Version)</td>
       <td>lumi.switch.b3lacn02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2018</th>
+      <th>2019</th>
       <td><img src="./assets/icons/raw/lumi.switch.l2acn1.png"></td>
       <td>Smart Wall Switch H1 (Single FireWire Double Button Version)</td>
       <td>lumi.switch.l2acn1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2019</th>
+      <th>2020</th>
       <td><img src="./assets/icons/raw/lumi.switch.l3acn1.png"></td>
       <td>Smart Wall Switch H1 (Single FireWire Three Button Version)</td>
       <td>lumi.switch.l3acn1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2020</th>
+      <th>2021</th>
       <td><img src="./assets/icons/raw/lumi.switch.n2acn1.png"></td>
       <td>Smart Wall Switch H1 (Zero Fire Double Button)</td>
       <td>lumi.switch.n2acn1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2021</th>
+      <th>2022</th>
       <td><img src="./assets/icons/raw/lumi.switch.n3acn1.png"></td>
       <td>Smart Wall Switch H1 (Zero Fire Wire Three Button Version)</td>
       <td>lumi.switch.n3acn1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2022</th>
+      <th>2023</th>
       <td><img src="./assets/icons/raw/lumi.switch.b2nacn01.png"></td>
       <td>Smart Wall Switch T1 (Zero Fire Wire Double Button Version)</td>
       <td>lumi.switch.b2nacn01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2023</th>
+      <th>2024</th>
       <td><img src="./assets/icons/raw/juzi.switch.010101.png"></td>
       <td>Smart panel</td>
       <td>juzi.switch.010101</td>
       <td></td>
     </tr>
     <tr>
-      <th>2024</th>
+      <th>2025</th>
       <td><img src="./assets/icons/raw/lumi.controller.n4acn3.png"></td>
       <td>Smart scene panel switch S1 double version</td>
       <td>lumi.controller.n4acn3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2025</th>
+      <th>2026</th>
       <td><img src="./assets/icons/raw/lumi.controller.n4acn2.png"></td>
       <td>Smart scene panel switch S1 single version</td>
       <td>lumi.controller.n4acn2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2026</th>
+      <th>2027</th>
       <td><img src="./assets/icons/raw/lumi.controller.n4acn4.png"></td>
       <td>Smart scene panel switch S1 three-open version</td>
       <td>lumi.controller.n4acn4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2027</th>
+      <th>2028</th>
       <td><img src="./assets/icons/raw/lumi.switch.n4acn4.png"></td>
       <td>Smart scene panel switch S1 three-open version</td>
       <td>lumi.switch.n4acn4</td>
       <td>ZNCJMB14LM</td>
     </tr>
     <tr>
-      <th>2028</th>
+      <th>2029</th>
       <td><img src="./assets/icons/raw/lwkj.switch.2410.png"></td>
       <td>Smart socket</td>
       <td>lwkj.switch.2410</td>
       <td></td>
     </tr>
     <tr>
-      <th>2029</th>
+      <th>2030</th>
       <td><img src="./assets/icons/raw/yszj.switch.2410.png"></td>
       <td>Smart socket</td>
       <td>yszj.switch.2410</td>
       <td></td>
     </tr>
     <tr>
-      <th>2030</th>
+      <th>2031</th>
       <td><img src="./assets/icons/raw/ecloud.switch.eq.png"></td>
       <td>Smart switch</td>
       <td>ecloud.switch.eq</td>
       <td></td>
     </tr>
     <tr>
-      <th>2031</th>
+      <th>2032</th>
       <td><img src="./assets/icons/raw/etlink.switch.swt001.png"></td>
       <td>Smart switch</td>
       <td>etlink.switch.swt001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2032</th>
+      <th>2033</th>
       <td><img src="./assets/icons/raw/kiwik.switch.kt2.png"></td>
       <td>Smart touch switch double button</td>
       <td>kiwik.switch.kt2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2033</th>
+      <th>2034</th>
       <td><img src="./assets/icons/raw/kiwik.switch.kt1.png"></td>
       <td>Smart touch switch single button</td>
       <td>kiwik.switch.kt1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2034</th>
+      <th>2035</th>
       <td><img src="./assets/icons/raw/kiwik.switch.kt3.png"></td>
       <td>Smart touch switch three keys</td>
       <td>kiwik.switch.kt3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2035</th>
+      <th>2036</th>
       <td><img src="./assets/icons/raw/lumi.switch.b3nacn02.png"></td>
       <td>Smart wall switch D1 (zero fire wire three-button version)</td>
       <td>lumi.switch.b3nacn02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2036</th>
+      <th>2037</th>
       <td><img src="./assets/icons/raw/lumi.switch.l1acn1.png"></td>
       <td>Smart wall switch H1 (single live wire single key version)</td>
       <td>lumi.switch.l1acn1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2037</th>
+      <th>2038</th>
       <td><img src="./assets/icons/raw/lumi.switch.n1acn1.png"></td>
       <td>Smart wall switch H1 (zero fire wire one-key version)</td>
       <td>lumi.switch.n1acn1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2038</th>
+      <th>2039</th>
       <td><img src="./assets/icons/raw/lumi.switch.b2lacn01.png"></td>
       <td>Smart wall switch T1 (single live wire double key version)</td>
       <td>lumi.switch.b2lacn01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2039</th>
+      <th>2040</th>
       <td><img src="./assets/icons/raw/lumi.switch.b1lacn01.png"></td>
       <td>Smart wall switch T1 (single live wire single key version)</td>
       <td>lumi.switch.b1lacn01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2040</th>
+      <th>2041</th>
       <td><img src="./assets/icons/raw/lumi.switch.b1nacn01.png"></td>
       <td>Smart wall switch T1 (zero fire wire single key version)</td>
       <td>lumi.switch.b1nacn01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2041</th>
+      <th>2042</th>
       <td><img src="./assets/icons/raw/smartj.switch.sjlh1s.png"></td>
       <td>SmartJoy Zhizhen wall switch (one key Mesh)</td>
       <td>smartj.switch.sjlh1s</td>
       <td></td>
     </tr>
     <tr>
-      <th>2042</th>
+      <th>2043</th>
       <td><img src="./assets/icons/raw/smartj.switch.sjlh3s.png"></td>
       <td>SmartJoy Zhizhen wall switch (three key Mesh)</td>
       <td>smartj.switch.sjlh3s</td>
       <td></td>
     </tr>
     <tr>
-      <th>2043</th>
+      <th>2044</th>
       <td><img src="./assets/icons/raw/smartj.switch.sjlh2s.png"></td>
       <td>SmartJoy Zhizhen wall switch (two key Mesh)</td>
       <td>smartj.switch.sjlh2s</td>
       <td></td>
     </tr>
     <tr>
-      <th>2044</th>
+      <th>2045</th>
       <td><img src="./assets/icons/raw/smartj.switch.sjlh3e.png"></td>
       <td>SmartJoy wisdom at wall switch (Three key WiFi)</td>
       <td>smartj.switch.sjlh3e</td>
       <td></td>
     </tr>
     <tr>
-      <th>2045</th>
+      <th>2046</th>
       <td><img src="./assets/icons/raw/smartj.switch.sjlh1e.png"></td>
       <td>SmartJoy wisdom at wall switch (one key WiFi)</td>
       <td>smartj.switch.sjlh1e</td>
       <td></td>
     </tr>
     <tr>
-      <th>2046</th>
+      <th>2047</th>
       <td><img src="./assets/icons/raw/smartj.switch.sjlh2e.png"></td>
       <td>SmartJoy wisdom at wall switch (two key WiFi)</td>
       <td>smartj.switch.sjlh2e</td>
       <td></td>
     </tr>
     <tr>
-      <th>2047</th>
+      <th>2048</th>
       <td><img src="./assets/icons/raw/smartj.switch.sjlh01.png"></td>
       <td>SmartJoy zhijian wall switch (one key WiFi)</td>
       <td>smartj.switch.sjlh01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2048</th>
+      <th>2049</th>
       <td><img src="./assets/icons/raw/smartj.switch.sjlh03.png"></td>
       <td>SmartJoy zhijian wall switch (three key WiFi )</td>
       <td>smartj.switch.sjlh03</td>
       <td></td>
     </tr>
     <tr>
-      <th>2049</th>
+      <th>2050</th>
       <td><img src="./assets/icons/raw/smartj.switch.sjlh02.png"></td>
       <td>SmartJoy zhijian wall switch (two key WiFi)</td>
       <td>smartj.switch.sjlh02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2050</th>
+      <th>2051</th>
       <td><img src="./assets/icons/raw/oge.switch.seetime0300.png"></td>
       <td>SmartSwitch</td>
       <td>oge.switch.seetime0300</td>
       <td></td>
     </tr>
     <tr>
-      <th>2051</th>
+      <th>2052</th>
       <td><img src="./assets/icons/raw/090615.switch.smbt02.png"></td>
       <td>Sumi A1 Bluetooth mesh switch (double key)</td>
       <td>090615.switch.smbt02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2052</th>
+      <th>2053</th>
       <td><img src="./assets/icons/raw/090615.switch.smbt01.png"></td>
       <td>Sumi A1 Bluetooth mesh switch (single key)</td>
       <td>090615.switch.smbt01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2053</th>
+      <th>2054</th>
       <td><img src="./assets/icons/raw/090615.switch.smbt03.png"></td>
       <td>Sumi A1 Bluetooth mesh switch (three key)</td>
       <td>090615.switch.smbt03</td>
       <td></td>
     </tr>
     <tr>
-      <th>2054</th>
+      <th>2055</th>
       <td><img src="./assets/icons/raw/090615.switch.smb1s2.png"></td>
       <td>Sumi B1 Bluetooth mesh switch (double key)</td>
       <td>090615.switch.smb1s2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2055</th>
+      <th>2056</th>
       <td><img src="./assets/icons/raw/090615.switch.smb1s1.png"></td>
       <td>Sumi B1 Bluetooth mesh switch (single key)</td>
       <td>090615.switch.smb1s1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2056</th>
+      <th>2057</th>
       <td><img src="./assets/icons/raw/090615.switch.smb1s3.png"></td>
       <td>Sumi B1 Bluetooth mesh switch (three key)</td>
       <td>090615.switch.smb1s3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2057</th>
+      <th>2058</th>
       <td><img src="./assets/icons/raw/p2c.switch.201144.png"></td>
       <td>Super switch</td>
       <td>p2c.switch.201144</td>
       <td></td>
     </tr>
     <tr>
-      <th>2058</th>
+      <th>2059</th>
       <td><img src="./assets/icons/raw/chuan.switch.0300.png"></td>
       <td>Switch</td>
       <td>chuan.switch.0300</td>
       <td></td>
     </tr>
     <tr>
-      <th>2059</th>
+      <th>2060</th>
       <td><img src="./assets/icons/raw/ezhome.switch.zhyapp01.png"></td>
       <td>Switch</td>
       <td>ezhome.switch.zhyapp01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2060</th>
+      <th>2061</th>
       <td><img src="./assets/icons/raw/zengge.switch.switch.png"></td>
       <td>Switch</td>
       <td>zengge.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>2061</th>
+      <th>2062</th>
       <td><img src="./assets/icons/raw/permay.switch.pmswch.png"></td>
       <td>Switch 5</td>
       <td>permay.switch.pmswch</td>
       <td></td>
     </tr>
     <tr>
-      <th>2062</th>
+      <th>2063</th>
       <td><img src="./assets/icons/raw/leshi.switch.v002.png"></td>
       <td>Switch Breaker WIFI X</td>
       <td>leshi.switch.v002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2063</th>
+      <th>2064</th>
       <td><img src="./assets/icons/raw/ufun.switch.board.png"></td>
       <td>Switch control board</td>
       <td>ufun.switch.board</td>
       <td></td>
     </tr>
     <tr>
-      <th>2064</th>
+      <th>2065</th>
       <td><img src="./assets/icons/raw/smyoo.switch.syn020.png"></td>
       <td>Switch with restart</td>
       <td>smyoo.switch.syn020</td>
       <td></td>
     </tr>
     <tr>
-      <th>2065</th>
+      <th>2066</th>
       <td><img src="./assets/icons/raw/terncy.switch.ws01.png"></td>
       <td>Terncy Wall Switch</td>
       <td>terncy.switch.ws01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2066</th>
+      <th>2067</th>
       <td><img src="./assets/icons/raw/bymiot.switch.1keyv1.png"></td>
       <td>The future is a single-key strong current switch</td>
       <td>bymiot.switch.1keyv1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2067</th>
+      <th>2068</th>
       <td><img src="./assets/icons/raw/bymiot.switch.2keyv1.png"></td>
       <td>The future is home to double-key power switch</td>
       <td>bymiot.switch.2keyv1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2068</th>
+      <th>2069</th>
       <td><img src="./assets/icons/raw/babai.switch.th01a.png"></td>
       <td>ThoughtHome Switch module</td>
       <td>babai.switch.th01a</td>
       <td></td>
     </tr>
     <tr>
-      <th>2069</th>
+      <th>2070</th>
       <td><img src="./assets/icons/raw/090615.switch.switch03.png"></td>
       <td>Three Intelligent switch (WIFI)</td>
       <td>090615.switch.switch03</td>
       <td></td>
     </tr>
     <tr>
-      <th>2070</th>
+      <th>2071</th>
       <td><img src="./assets/icons/raw/leshi.switch.sw3b01.png"></td>
       <td>Three Key Touch Switch X1 (WiFi)</td>
       <td>leshi.switch.sw3b01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2071</th>
+      <th>2072</th>
       <td><img src="./assets/icons/raw/lxk.switch.klsjkg.png"></td>
       <td>Three button switch</td>
       <td>lxk.switch.klsjkg</td>
       <td></td>
     </tr>
     <tr>
-      <th>2072</th>
+      <th>2073</th>
       <td><img src="./assets/icons/raw/lxk.switch.sanjkg.png"></td>
       <td>Three button switch</td>
       <td>lxk.switch.sanjkg</td>
       <td></td>
     </tr>
     <tr>
-      <th>2073</th>
+      <th>2074</th>
       <td><img src="./assets/icons/raw/ddwl.switch.030003.png"></td>
       <td>Three button wall switch</td>
       <td>ddwl.switch.030003</td>
       <td></td>
     </tr>
     <tr>
-      <th>2074</th>
+      <th>2075</th>
       <td><img src="./assets/icons/raw/mpkx.switch.030003.png"></td>
       <td>Three button wall switch</td>
       <td>mpkx.switch.030003</td>
       <td></td>
     </tr>
     <tr>
-      <th>2075</th>
+      <th>2076</th>
       <td><img src="./assets/icons/raw/nvcls.switch.030003.png"></td>
       <td>Three button wall switch</td>
       <td>nvcls.switch.030003</td>
       <td></td>
     </tr>
     <tr>
-      <th>2076</th>
+      <th>2077</th>
       <td><img src="./assets/icons/raw/sykj.switch.030003.png"></td>
       <td>Three button wall switch</td>
       <td>sykj.switch.030003</td>
       <td></td>
     </tr>
     <tr>
-      <th>2077</th>
+      <th>2078</th>
       <td><img src="./assets/icons/raw/szsy.switch.030003.png"></td>
       <td>Three button wall switch</td>
       <td>szsy.switch.030003</td>
       <td></td>
     </tr>
     <tr>
-      <th>2078</th>
+      <th>2079</th>
       <td><img src="./assets/icons/raw/bright.switch.double.png"></td>
       <td>Three way switch</td>
       <td>bright.switch.double</td>
       <td></td>
     </tr>
     <tr>
-      <th>2079</th>
+      <th>2080</th>
       <td><img src="./assets/icons/raw/milamp.switch.3lkg.png"></td>
       <td>Three way switch</td>
       <td>milamp.switch.3lkg</td>
       <td></td>
     </tr>
     <tr>
-      <th>2080</th>
+      <th>2081</th>
       <td><img src="./assets/icons/raw/scmkcz.switch.3msw.png"></td>
       <td>Three way switch</td>
       <td>scmkcz.switch.3msw</td>
       <td></td>
     </tr>
     <tr>
-      <th>2081</th>
+      <th>2082</th>
       <td><img src="./assets/icons/raw/lemesh.switch.sw3a02.png"></td>
       <td>Three-button Smart Switch (Mesh)</td>
       <td>lemesh.switch.sw3a02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2082</th>
+      <th>2083</th>
       <td><img src="./assets/icons/raw/bymiot.switch.3keyv1.png"></td>
       <td>Three-key power switch in the future</td>
       <td>bymiot.switch.3keyv1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2083</th>
+      <th>2084</th>
       <td><img src="./assets/icons/raw/ezhome.switch.z4003.png"></td>
       <td>Three-position touch switch panel</td>
       <td>ezhome.switch.z4003</td>
       <td></td>
     </tr>
     <tr>
-      <th>2084</th>
+      <th>2085</th>
       <td><img src="./assets/icons/raw/090615.switch.switch02.png"></td>
       <td>Two Intelligent Switch (WIFI)</td>
       <td>090615.switch.switch02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2085</th>
+      <th>2086</th>
       <td><img src="./assets/icons/raw/leshi.switch.sw2b01.png"></td>
       <td>Two Key Touch Switch X1 (WiFi)</td>
       <td>leshi.switch.sw2b01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2086</th>
+      <th>2087</th>
       <td><img src="./assets/icons/raw/leshi.switch.v0002.png"></td>
       <td>Two keys smart switch WIFI X1</td>
       <td>leshi.switch.v0002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2087</th>
+      <th>2088</th>
       <td><img src="./assets/icons/raw/ezhome.switch.z4002.png"></td>
       <td>Two touch switch panel</td>
       <td>ezhome.switch.z4002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2088</th>
+      <th>2089</th>
       <td><img src="./assets/icons/raw/bright.switch.switch.png"></td>
       <td>Two way switch</td>
       <td>bright.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>2089</th>
+      <th>2090</th>
       <td><img src="./assets/icons/raw/milamp.switch.2lkg.png"></td>
       <td>Two way switch</td>
       <td>milamp.switch.2lkg</td>
       <td></td>
     </tr>
     <tr>
-      <th>2090</th>
+      <th>2091</th>
       <td><img src="./assets/icons/raw/scmkcz.switch.2msw.png"></td>
       <td>Two way switch</td>
       <td>scmkcz.switch.2msw</td>
       <td></td>
     </tr>
     <tr>
-      <th>2091</th>
+      <th>2092</th>
       <td><img src="./assets/icons/raw/lemesh.switch.sw2a02.png"></td>
       <td>Two-button Smart Switch (Mesh)</td>
       <td>lemesh.switch.sw2a02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2092</th>
+      <th>2093</th>
       <td><img src="./assets/icons/raw/lxk.switch.sjkg.png"></td>
       <td>Two-button switch</td>
       <td>lxk.switch.sjkg</td>
       <td></td>
     </tr>
     <tr>
-      <th>2093</th>
+      <th>2094</th>
       <td><img src="./assets/icons/raw/ddwl.switch.030002.png"></td>
       <td>Two-button wall switch</td>
       <td>ddwl.switch.030002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2094</th>
+      <th>2095</th>
       <td><img src="./assets/icons/raw/mpkx.switch.030002.png"></td>
       <td>Two-button wall switch</td>
       <td>mpkx.switch.030002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2095</th>
+      <th>2096</th>
       <td><img src="./assets/icons/raw/nvcls.switch.030002.png"></td>
       <td>Two-button wall switch</td>
       <td>nvcls.switch.030002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2096</th>
+      <th>2097</th>
       <td><img src="./assets/icons/raw/sykj.switch.030002.png"></td>
       <td>Two-button wall switch</td>
       <td>sykj.switch.030002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2097</th>
+      <th>2098</th>
       <td><img src="./assets/icons/raw/szsy.switch.030002.png"></td>
       <td>Two-button wall switch</td>
       <td>szsy.switch.030002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2098</th>
+      <th>2099</th>
       <td><img src="./assets/icons/raw/zinguo.switch.k2.png"></td>
       <td>WIFI Switch</td>
       <td>zinguo.switch.k2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2099</th>
+      <th>2100</th>
       <td><img src="./assets/icons/raw/lumi.switch.b1laus01.png"></td>
       <td>Wall Switch (Single FireWire, Single Key Version) (US Version)</td>
       <td>lumi.switch.b1laus01</td>
       <td>WS-USC01</td>
     </tr>
     <tr>
-      <th>2100</th>
+      <th>2101</th>
       <td><img src="./assets/icons/raw/lumi.switch.b2laus01.png"></td>
       <td>Wall Switch (Single Firewire and Dual Key Version) (US Version)</td>
       <td>lumi.switch.b2laus01</td>
       <td>WS-USC02</td>
     </tr>
     <tr>
-      <th>2101</th>
+      <th>2102</th>
       <td><img src="./assets/icons/raw/lumi.switch.b2naus01.png"></td>
       <td>Wall Switch (Zero Fire Wire Double Key Version) (US Version)</td>
       <td>lumi.switch.b2naus01</td>
       <td>WS-USC04</td>
     </tr>
     <tr>
-      <th>2102</th>
+      <th>2103</th>
       <td><img src="./assets/icons/raw/lumi.switch.b1naus01.png"></td>
       <td>Wall Switch (Zero Fire Wire Single Key Version) (US Version)</td>
       <td>lumi.switch.b1naus01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2103</th>
+      <th>2104</th>
       <td><img src="./assets/icons/raw/nvcls.switch.010001.png"></td>
       <td>Wall socket</td>
       <td>nvcls.switch.010001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2104</th>
+      <th>2105</th>
       <td><img src="./assets/icons/raw/lumi.switch.b3l01.png"></td>
       <td>Wall switch (single live wire three key version)</td>
       <td>lumi.switch.b3l01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2105</th>
+      <th>2106</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_ln1.es1.png"></td>
       <td>Wall switch (zero fire wire one-touch version)</td>
       <td>lumi.ctrl_ln1.es1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2106</th>
+      <th>2107</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_ln2.es1.png"></td>
       <td>Wall switch (zero fire wire two-key version)</td>
       <td>lumi.ctrl_ln2.es1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2107</th>
+      <th>2108</th>
       <td><img src="./assets/icons/raw/xqh.switch.a20121.png"></td>
       <td>Wall switch double button</td>
       <td>xqh.switch.a20121</td>
       <td></td>
     </tr>
     <tr>
-      <th>2108</th>
+      <th>2109</th>
       <td><img src="./assets/icons/raw/xqh.switch.a20111.png"></td>
       <td>Wall switch single button</td>
       <td>xqh.switch.a20111</td>
       <td></td>
     </tr>
     <tr>
-      <th>2109</th>
+      <th>2110</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_neutral2.aq1.png"></td>
       <td>Wall switch single live wire double key version</td>
       <td>lumi.ctrl_neutral2.aq1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2110</th>
+      <th>2111</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_neutral2.es1.png"></td>
       <td>Wall switch single live wire double key version</td>
       <td>lumi.ctrl_neutral2.es1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2111</th>
+      <th>2112</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_neutral1.aq1.png"></td>
       <td>Wall switch single live wire single key version</td>
       <td>lumi.ctrl_neutral1.aq1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2112</th>
+      <th>2113</th>
       <td><img src="./assets/icons/raw/lumi.ctrl_neutral1.es1.png"></td>
       <td>Wall switch single live wire single key version</td>
       <td>lumi.ctrl_neutral1.es1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2113</th>
+      <th>2114</th>
       <td><img src="./assets/icons/raw/lumi.switch.v1.png"></td>
       <td>Wall switch single live wire single key version</td>
       <td>lumi.switch.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2114</th>
+      <th>2115</th>
       <td><img src="./assets/icons/raw/xqh.switch.a20131.png"></td>
       <td>Wall switch three keys</td>
       <td>xqh.switch.a20131</td>
       <td></td>
     </tr>
     <tr>
-      <th>2115</th>
+      <th>2116</th>
       <td><img src="./assets/icons/raw/creiot.switch.kg1.png"></td>
       <td>Wall touch switch 1</td>
       <td>creiot.switch.kg1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2116</th>
+      <th>2117</th>
       <td><img src="./assets/icons/raw/lxk.switch.kg1.png"></td>
       <td>Wall touch switch 1</td>
       <td>lxk.switch.kg1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2117</th>
+      <th>2118</th>
       <td><img src="./assets/icons/raw/creiot.switch.kg2.png"></td>
       <td>Wall touch switch 2</td>
       <td>creiot.switch.kg2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2118</th>
+      <th>2119</th>
       <td><img src="./assets/icons/raw/lxk.switch.kg2.png"></td>
       <td>Wall touch switch 2</td>
       <td>lxk.switch.kg2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2119</th>
+      <th>2120</th>
       <td><img src="./assets/icons/raw/creiot.switch.kg3.png"></td>
       <td>Wall touch switch-3</td>
       <td>creiot.switch.kg3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2120</th>
+      <th>2121</th>
       <td><img src="./assets/icons/raw/pingke.switch.7b01.png"></td>
       <td>Water leakage protector</td>
       <td>pingke.switch.7b01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2121</th>
+      <th>2122</th>
       <td><img src="./assets/icons/raw/coolki.switch.t3uk1c.png"></td>
       <td>Wi-Fi Smart Wall Switch</td>
       <td>coolki.switch.t3uk1c</td>
       <td></td>
     </tr>
     <tr>
-      <th>2122</th>
+      <th>2123</th>
       <td><img src="./assets/icons/raw/coolki.switch.t3uk2c.png"></td>
       <td>Wi-Fi Smart Wall Switch</td>
       <td>coolki.switch.t3uk2c</td>
       <td></td>
     </tr>
     <tr>
-      <th>2123</th>
+      <th>2124</th>
       <td><img src="./assets/icons/raw/coolki.switch.t3uk3c.png"></td>
       <td>Wi-Fi Smart Wall Switch</td>
       <td>coolki.switch.t3uk3c</td>
       <td></td>
     </tr>
     <tr>
-      <th>2124</th>
+      <th>2125</th>
       <td><img src="./assets/icons/raw/tuya.switch.tyws02.png"></td>
       <td>Wi-Fi Switch</td>
       <td>tuya.switch.tyws02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2125</th>
+      <th>2126</th>
       <td><img src="./assets/icons/raw/babai.switch.bb101s.png"></td>
       <td>WiFi Wall Switch A1</td>
       <td>babai.switch.bb101s</td>
       <td></td>
     </tr>
     <tr>
-      <th>2126</th>
+      <th>2127</th>
       <td><img src="./assets/icons/raw/babai.switch.bb102s.png"></td>
       <td>WiFi Wall Switch A2</td>
       <td>babai.switch.bb102s</td>
       <td></td>
     </tr>
     <tr>
-      <th>2127</th>
+      <th>2128</th>
       <td><img src="./assets/icons/raw/babai.switch.bb103s.png"></td>
       <td>WiFi Wall Switch A3</td>
       <td>babai.switch.bb103s</td>
       <td></td>
     </tr>
     <tr>
-      <th>2128</th>
+      <th>2129</th>
       <td><img src="./assets/icons/raw/mhiot.switch.mc01w.png"></td>
       <td>WiFi smart switch</td>
       <td>mhiot.switch.mc01w</td>
       <td></td>
     </tr>
     <tr>
-      <th>2129</th>
+      <th>2130</th>
       <td><img src="./assets/icons/raw/bull.switch.bull01.png"></td>
       <td>WiFi socket_metered version</td>
       <td>bull.switch.bull01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2130</th>
+      <th>2131</th>
       <td><img src="./assets/icons/raw/bull.switch.001.png"></td>
       <td>WiFi socket_non-metered version</td>
       <td>bull.switch.001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2131</th>
+      <th>2132</th>
       <td><img src="./assets/icons/raw/lumi.sensor_switch.v1.png"></td>
       <td>Wireless switch</td>
       <td>lumi.sensor_switch.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2132</th>
+      <th>2133</th>
       <td><img src="./assets/icons/raw/terncy.switch.scene.png"></td>
       <td>Xiaoyan scene switch</td>
       <td>terncy.switch.scene</td>
       <td></td>
     </tr>
     <tr>
-      <th>2133</th>
+      <th>2134</th>
       <td><img src="./assets/icons/raw/terncy.switch.tsm01.png"></td>
       <td>Xiaoyan switch module</td>
       <td>terncy.switch.tsm01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2134</th>
+      <th>2135</th>
       <td><img src="./assets/icons/raw/wainft.switch.sw0a01.png"></td>
       <td>Xinguang Bluetooth mesh switch</td>
       <td>wainft.switch.sw0a01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2135</th>
+      <th>2136</th>
       <td><img src="./assets/icons/raw/yaguan.switch.test.png"></td>
       <td>Yaguan access test</td>
       <td>yaguan.switch.test</td>
       <td></td>
     </tr>
     <tr>
-      <th>2136</th>
+      <th>2137</th>
       <td><img src="./assets/icons/raw/yeelink.switch.sw1.png"></td>
       <td>Yeelight Smart Dual Control Module</td>
       <td>yeelink.switch.sw1</td>
-      <td></td>
+      <td>YLAI002</td>
     </tr>
     <tr>
-      <th>2137</th>
+      <th>2138</th>
       <td><img src="./assets/icons/raw/evecca.switch.sw001a.png"></td>
       <td>Yihuijia Smart Switch</td>
       <td>evecca.switch.sw001a</td>
       <td></td>
     </tr>
     <tr>
-      <th>2138</th>
+      <th>2139</th>
       <td><img src="./assets/icons/raw/evecca.switch.evecca.png"></td>
       <td>Yihuijia smart doors and windows products</td>
       <td>evecca.switch.evecca</td>
       <td></td>
     </tr>
     <tr>
-      <th>2139</th>
+      <th>2140</th>
       <td><img src="./assets/icons/raw/coolki.switch.uid105.png"></td>
       <td>Yuba switch (105)</td>
       <td>coolki.switch.uid105</td>
       <td></td>
     </tr>
     <tr>
-      <th>2140</th>
+      <th>2141</th>
       <td><img src="./assets/icons/raw/coolki.switch.ui105.png"></td>
       <td>Yuba switch (new)</td>
       <td>coolki.switch.ui105</td>
       <td></td>
     </tr>
     <tr>
-      <th>2141</th>
+      <th>2142</th>
       <td><img src="./assets/icons/raw/viomi.switch.s1.png"></td>
       <td>Yunmi wireless switch inkRock (single button version)</td>
       <td>viomi.switch.s1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2142</th>
+      <th>2143</th>
       <td><img src="./assets/icons/raw/roome.switch.v2.png"></td>
       <td>Zhiru Yiyun Docking Switch</td>
       <td>roome.switch.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2143</th>
+      <th>2144</th>
       <td><img src="./assets/icons/raw/roome.switch.v3.png"></td>
       <td>Zhiru Yiyun Docking Switch</td>
       <td>roome.switch.v3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2144</th>
+      <th>2145</th>
       <td><img src="./assets/icons/raw/roome.switch.v4.png"></td>
       <td>Zhiru Yiyun Docking Switch</td>
       <td>roome.switch.v4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2145</th>
+      <th>2146</th>
       <td><img src="./assets/icons/raw/espush.switch.zy01.png"></td>
       <td>Zhiyun IoT</td>
       <td>espush.switch.zy01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2146</th>
+      <th>2147</th>
       <td><img src="./assets/icons/raw/scinan.switch.panel.png"></td>
       <td>ZigBee One Panel Switch</td>
       <td>scinan.switch.panel</td>
       <td></td>
     </tr>
     <tr>
-      <th>2147</th>
+      <th>2148</th>
       <td><img src="./assets/icons/raw/yuerzj.switch.yuers1.png"></td>
       <td>ZigBee One Wall Switch</td>
       <td>yuerzj.switch.yuers1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2148</th>
+      <th>2149</th>
       <td><img src="./assets/icons/raw/delian.switch.delian.png"></td>
       <td>delian_kaiguan</td>
       <td>delian.switch.delian</td>
       <td></td>
     </tr>
     <tr>
-      <th>2149</th>
+      <th>2150</th>
       <td><img src="./assets/icons/raw/heiman.switch.hs2sw.png"></td>
       <td>dfg</td>
       <td>heiman.switch.hs2sw</td>
       <td></td>
     </tr>
     <tr>
-      <th>2150</th>
+      <th>2151</th>
       <td><img src="./assets/icons/raw/ipuray.switch.e108.png"></td>
       <td>e108</td>
       <td>ipuray.switch.e108</td>
       <td></td>
     </tr>
     <tr>
-      <th>2151</th>
+      <th>2152</th>
       <td><img src="./assets/icons/raw/ipuray.switch.e112.png"></td>
       <td>e112</td>
       <td>ipuray.switch.e112</td>
       <td></td>
     </tr>
     <tr>
-      <th>2152</th>
+      <th>2153</th>
       <td><img src="./assets/icons/raw/ipuray.switch.e370.png"></td>
       <td>e370</td>
       <td>ipuray.switch.e370</td>
       <td></td>
     </tr>
     <tr>
-      <th>2153</th>
+      <th>2154</th>
       <td><img src="./assets/icons/raw/ipuray.switch.e380.png"></td>
       <td>e380</td>
       <td>ipuray.switch.e380</td>
       <td></td>
     </tr>
     <tr>
-      <th>2154</th>
+      <th>2155</th>
       <td><img src="./assets/icons/raw/coolki.switch.uiid31.png"></td>
       <td>gsm_switch_four</td>
       <td>coolki.switch.uiid31</td>
       <td></td>
     </tr>
     <tr>
-      <th>2155</th>
+      <th>2156</th>
       <td><img src="./assets/icons/raw/coolki.switch.uiid24.png"></td>
       <td>gsm_switch_one</td>
       <td>coolki.switch.uiid24</td>
       <td></td>
     </tr>
     <tr>
-      <th>2156</th>
+      <th>2157</th>
       <td><img src="./assets/icons/raw/coolki.switch.uiid30.png"></td>
       <td>gsm_switch_three</td>
       <td>coolki.switch.uiid30</td>
       <td></td>
     </tr>
     <tr>
-      <th>2157</th>
+      <th>2158</th>
       <td><img src="./assets/icons/raw/coolki.switch.uiid29.png"></td>
       <td>gsm_switch_two</td>
       <td>coolki.switch.uiid29</td>
       <td></td>
     </tr>
     <tr>
-      <th>2158</th>
+      <th>2159</th>
       <td><img src="./assets/icons/raw/julun.switch.jlsw01.png"></td>
       <td>julun smart switch</td>
       <td>julun.switch.jlsw01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2159</th>
+      <th>2160</th>
       <td><img src="./assets/icons/raw/zunder.light.zun111.png"></td>
       <td>light</td>
       <td>zunder.light.zun111</td>
       <td></td>
     </tr>
     <tr>
-      <th>2160</th>
+      <th>2161</th>
       <td><img src="./assets/icons/raw/coolki.switch.uiid14.png"></td>
       <td>modification_switch_one</td>
       <td>coolki.switch.uiid14</td>
       <td></td>
     </tr>
     <tr>
-      <th>2161</th>
+      <th>2162</th>
       <td><img src="./assets/icons/raw/feibit.switch.tzsw21hb.png"></td>
       <td>one gang smart switch</td>
       <td>feibit.switch.tzsw21hb</td>
       <td></td>
     </tr>
     <tr>
-      <th>2162</th>
+      <th>2163</th>
       <td><img src="./assets/icons/raw/zunder.switch.onoff.png"></td>
       <td>out</td>
       <td>zunder.switch.onoff</td>
       <td></td>
     </tr>
     <tr>
-      <th>2163</th>
+      <th>2164</th>
       <td><img src="./assets/icons/raw/coolki.switch.four.png"></td>
       <td>plug_four</td>
       <td>coolki.switch.four</td>
       <td></td>
     </tr>
     <tr>
-      <th>2164</th>
+      <th>2165</th>
       <td><img src="./assets/icons/raw/zhu123.switch.1.png"></td>
       <td>smart light</td>
       <td>zhu123.switch.1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2165</th>
+      <th>2166</th>
       <td><img src="./assets/icons/raw/ohh.switch.slc03w.png"></td>
       <td>smart lighting panel</td>
       <td>ohh.switch.slc03w</td>
       <td></td>
     </tr>
     <tr>
-      <th>2166</th>
+      <th>2167</th>
       <td><img src="./assets/icons/raw/huihe.switch.plug.png"></td>
       <td>smart pulg</td>
       <td>huihe.switch.plug</td>
       <td></td>
     </tr>
     <tr>
-      <th>2167</th>
+      <th>2168</th>
       <td><img src="./assets/icons/raw/bzhome.switch.sz010.png"></td>
       <td>switch</td>
       <td>bzhome.switch.sz010</td>
       <td></td>
     </tr>
     <tr>
-      <th>2168</th>
+      <th>2169</th>
       <td><img src="./assets/icons/raw/cgzn.switch.onoff.png"></td>
       <td>switch</td>
       <td>cgzn.switch.onoff</td>
       <td></td>
     </tr>
     <tr>
-      <th>2169</th>
+      <th>2170</th>
       <td><img src="./assets/icons/raw/dctrls.switch.test1.png"></td>
       <td>switch</td>
       <td>dctrls.switch.test1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2170</th>
+      <th>2171</th>
       <td><img src="./assets/icons/raw/deocea.switch.cq.png"></td>
       <td>switch</td>
       <td>deocea.switch.cq</td>
       <td></td>
     </tr>
     <tr>
-      <th>2171</th>
+      <th>2172</th>
       <td><img src="./assets/icons/raw/fine.switch.switch.png"></td>
       <td>switch</td>
       <td>fine.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>2172</th>
+      <th>2173</th>
       <td><img src="./assets/icons/raw/girt.switch.switch.png"></td>
       <td>switch</td>
       <td>girt.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>2173</th>
+      <th>2174</th>
       <td><img src="./assets/icons/raw/giz.switch.switch.png"></td>
       <td>switch</td>
       <td>giz.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>2174</th>
+      <th>2175</th>
       <td><img src="./assets/icons/raw/hbkj1.switch.v1.png"></td>
       <td>switch</td>
       <td>hbkj1.switch.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2175</th>
+      <th>2176</th>
       <td><img src="./assets/icons/raw/hosjoy.switch.hoc.png"></td>
       <td>switch</td>
       <td>hosjoy.switch.hoc</td>
       <td></td>
     </tr>
     <tr>
-      <th>2176</th>
+      <th>2177</th>
       <td><img src="./assets/icons/raw/ihome.switch.switch.png"></td>
       <td>switch</td>
       <td>ihome.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>2177</th>
+      <th>2178</th>
       <td><img src="./assets/icons/raw/ikecin.switch.ir10.png"></td>
       <td>switch</td>
       <td>ikecin.switch.ir10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2178</th>
+      <th>2179</th>
       <td><img src="./assets/icons/raw/jusval.switch.1.png"></td>
       <td>switch</td>
       <td>jusval.switch.1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2179</th>
+      <th>2180</th>
       <td><img src="./assets/icons/raw/jyx.switch.000201.png"></td>
       <td>switch</td>
       <td>jyx.switch.000201</td>
       <td></td>
     </tr>
     <tr>
-      <th>2180</th>
+      <th>2181</th>
       <td><img src="./assets/icons/raw/kongke.switch.light.png"></td>
       <td>switch</td>
       <td>kongke.switch.light</td>
       <td></td>
     </tr>
     <tr>
-      <th>2181</th>
+      <th>2182</th>
       <td><img src="./assets/icons/raw/mkzn.switch.switch.png"></td>
       <td>switch</td>
       <td>mkzn.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>2182</th>
+      <th>2183</th>
       <td><img src="./assets/icons/raw/orvibo.switch.switch.png"></td>
       <td>switch</td>
       <td>orvibo.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>2183</th>
+      <th>2184</th>
       <td><img src="./assets/icons/raw/permay.switch.kgkgk.png"></td>
       <td>switch</td>
       <td>permay.switch.kgkgk</td>
       <td></td>
     </tr>
     <tr>
-      <th>2184</th>
+      <th>2185</th>
       <td><img src="./assets/icons/raw/scmkcz.switch.chsw.png"></td>
       <td>switch</td>
       <td>scmkcz.switch.chsw</td>
       <td></td>
     </tr>
     <tr>
-      <th>2185</th>
+      <th>2186</th>
       <td><img src="./assets/icons/raw/tyzhjt.switch.000001.png"></td>
       <td>switch</td>
       <td>tyzhjt.switch.000001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2186</th>
+      <th>2187</th>
       <td><img src="./assets/icons/raw/wfiot.switch.switch.png"></td>
       <td>switch</td>
       <td>wfiot.switch.switch</td>
       <td></td>
     </tr>
     <tr>
-      <th>2187</th>
+      <th>2188</th>
       <td><img src="./assets/icons/raw/xinrui.switch.lh001.png"></td>
       <td>switch</td>
       <td>xinrui.switch.lh001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2188</th>
+      <th>2189</th>
       <td><img src="./assets/icons/raw/xzh.switch.onoff.png"></td>
       <td>switch</td>
       <td>xzh.switch.onoff</td>
       <td></td>
     </tr>
     <tr>
-      <th>2189</th>
+      <th>2190</th>
       <td><img src="./assets/icons/raw/ykkj.switch.ykm121.png"></td>
       <td>switch</td>
       <td>ykkj.switch.ykm121</td>
       <td></td>
     </tr>
     <tr>
-      <th>2190</th>
+      <th>2191</th>
       <td><img src="./assets/icons/raw/yongqi.switch.yq0001.png"></td>
       <td>switch</td>
       <td>yongqi.switch.yq0001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2191</th>
+      <th>2192</th>
       <td><img src="./assets/icons/raw/wxzn.switch.801438.png"></td>
       <td>switch panel</td>
       <td>wxzn.switch.801438</td>
       <td></td>
     </tr>
     <tr>
-      <th>2192</th>
+      <th>2193</th>
       <td><img src="./assets/icons/raw/zhimai.switch.zm004.png"></td>
       <td>switch'</td>
       <td>zhimai.switch.zm004</td>
       <td></td>
     </tr>
     <tr>
-      <th>2193</th>
+      <th>2194</th>
       <td><img src="./assets/icons/raw/coolki.switch.uiid78.png"></td>
       <td>switch78</td>
       <td>coolki.switch.uiid78</td>
       <td></td>
     </tr>
     <tr>
-      <th>2194</th>
+      <th>2195</th>
       <td><img src="./assets/icons/raw/zhihw.switch.uiid9.png"></td>
       <td>switch_four</td>
       <td>zhihw.switch.uiid9</td>
       <td></td>
     </tr>
     <tr>
-      <th>2195</th>
+      <th>2196</th>
       <td><img src="./assets/icons/raw/coolki.switch.test.png"></td>
       <td>switch_one</td>
       <td>coolki.switch.test</td>
       <td></td>
     </tr>
     <tr>
-      <th>2196</th>
+      <th>2197</th>
       <td><img src="./assets/icons/raw/zhihw.switch.uiid6.png"></td>
       <td>switch_one</td>
       <td>zhihw.switch.uiid6</td>
       <td></td>
     </tr>
     <tr>
-      <th>2197</th>
+      <th>2198</th>
       <td><img src="./assets/icons/raw/coolki.switch.three.png"></td>
       <td>switch_three</td>
       <td>coolki.switch.three</td>
       <td></td>
     </tr>
     <tr>
-      <th>2198</th>
+      <th>2199</th>
       <td><img src="./assets/icons/raw/zhihw.switch.uiid8.png"></td>
       <td>switch_three</td>
       <td>zhihw.switch.uiid8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2199</th>
+      <th>2200</th>
       <td><img src="./assets/icons/raw/coolki.switch.two.png"></td>
       <td>switch_two</td>
       <td>coolki.switch.two</td>
       <td></td>
     </tr>
     <tr>
-      <th>2200</th>
+      <th>2201</th>
       <td><img src="./assets/icons/raw/zhihw.switch.uiid7.png"></td>
       <td>switch_two</td>
       <td>zhihw.switch.uiid7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2201</th>
+      <th>2202</th>
       <td><img src="./assets/icons/raw/syniot.switch.s1.png"></td>
       <td>synIOT switch 1 key</td>
       <td>syniot.switch.s1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2202</th>
+      <th>2203</th>
       <td><img src="./assets/icons/raw/syniot.switch.s2.png"></td>
       <td>synIOT switch 2 key</td>
       <td>syniot.switch.s2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2203</th>
+      <th>2204</th>
       <td><img src="./assets/icons/raw/syniot.switch.s3.png"></td>
       <td>synIOT switch 3 key</td>
       <td>syniot.switch.s3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2204</th>
+      <th>2205</th>
       <td><img src="./assets/icons/raw/ezhome.switch.zhyapp03.png"></td>
       <td>touch-panel</td>
       <td>ezhome.switch.zhyapp03</td>
       <td></td>
     </tr>
     <tr>
-      <th>2205</th>
+      <th>2206</th>
       <td><img src="./assets/icons/raw/hsmart.switch.hs2sw.png"></td>
       <td>wireless switch</td>
       <td>hsmart.switch.hs2sw</td>
@@ -16365,189 +16372,189 @@
   </thead>
   <tbody>
     <tr>
-      <th>2206</th>
+      <th>2207</th>
       <td><img src="./assets/icons/raw/espush.sensor_ht.es03.png"></td>
       <td>Air detector</td>
       <td>espush.sensor_ht.es03</td>
       <td></td>
     </tr>
     <tr>
-      <th>2207</th>
+      <th>2208</th>
       <td><img src="./assets/icons/raw/lumi.weather.v1.png"></td>
       <td>Aqara Temperature and Humidity Sensor</td>
       <td>lumi.weather.v1</td>
       <td>WSDCGQ11LM</td>
     </tr>
     <tr>
-      <th>2208</th>
+      <th>2209</th>
       <td><img src="./assets/icons/raw/lumi.sensor_ht.agl02.png"></td>
       <td>Aqara Temperature and Humidity Sensor T1</td>
       <td>lumi.sensor_ht.agl02</td>
       <td>WSDCGQ12LM</td>
     </tr>
     <tr>
-      <th>2209</th>
+      <th>2210</th>
       <td><img src="./assets/icons/raw/lfsmt.sensor_ht.ls063wh.png"></td>
       <td>CUBE Environmental Sensor</td>
       <td>lfsmt.sensor_ht.ls063wh</td>
       <td></td>
     </tr>
     <tr>
-      <th>2210</th>
+      <th>2211</th>
       <td><img src="./assets/icons/raw/heiman.sensor_ht.hs2th.png"></td>
       <td>GFH</td>
       <td>heiman.sensor_ht.hs2th</td>
       <td></td>
     </tr>
     <tr>
-      <th>2211</th>
+      <th>2212</th>
       <td><img src="./assets/icons/raw/bright.sensor_ht.humit.png"></td>
       <td>Humidifier</td>
       <td>bright.sensor_ht.humit</td>
       <td></td>
     </tr>
     <tr>
-      <th>2212</th>
+      <th>2213</th>
       <td><img src="./assets/icons/raw/milamp.sensor_ht.sensor.png"></td>
       <td>Humidifier</td>
       <td>milamp.sensor_ht.sensor</td>
       <td></td>
     </tr>
     <tr>
-      <th>2213</th>
+      <th>2214</th>
       <td><img src="./assets/icons/raw/kongke.sensor_ht.humi.png"></td>
       <td>Humidity Sensor</td>
       <td>kongke.sensor_ht.humi</td>
       <td></td>
     </tr>
     <tr>
-      <th>2214</th>
+      <th>2215</th>
       <td><img src="./assets/icons/raw/cgllc.sensor_ht.cgm1.png"></td>
       <td>LEE GUITARS Bluetooth Thermo-Hygrometer</td>
       <td>cgllc.sensor_ht.cgm1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2215</th>
+      <th>2216</th>
       <td><img src="./assets/icons/raw/cleargrass.sensor_ht.dk1.png"></td>
       <td>Mi Temperature and Humidity Monitor</td>
       <td>cleargrass.sensor_ht.dk1</td>
       <td>CGG1</td>
     </tr>
     <tr>
-      <th>2216</th>
+      <th>2217</th>
       <td><img src="./assets/icons/raw/miaomiaoce.sensor_ht.t2.png"></td>
       <td>Mi Temperature and Humidity Monitor 2</td>
       <td>miaomiaoce.sensor_ht.t2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2217</th>
+      <th>2218</th>
       <td><img src="./assets/icons/raw/miaomiaoce.sensor_ht.t1.png"></td>
       <td>Mi Temperature and Humidity Monitor Digital Clock</td>
       <td>miaomiaoce.sensor_ht.t1</td>
       <td>LYWSD03MMC/NUN4126GL</td>
     </tr>
     <tr>
-      <th>2218</th>
+      <th>2219</th>
       <td><img src="./assets/icons/raw/lumi.sensor_ht.v1.png"></td>
       <td>Mi Temperature and Humidity Sensor</td>
       <td>lumi.sensor_ht.v1</td>
       <td>WSDCGQ01LM</td>
     </tr>
     <tr>
-      <th>2219</th>
+      <th>2220</th>
       <td><img src="./assets/icons/raw/cgllc.sensor_ht.qpg1.png"></td>
       <td>Qingping Temp & RH Monitor</td>
       <td>cgllc.sensor_ht.qpg1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2220</th>
+      <th>2221</th>
       <td><img src="./assets/icons/raw/cgllc.sensor_ht.dk2.png"></td>
       <td>Qingping Temp & RH Monitor Lite</td>
       <td>cgllc.sensor_ht.dk2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2221</th>
+      <th>2222</th>
       <td><img src="./assets/icons/raw/cgllc.sensor_ht.g1.png"></td>
       <td>Qingping Temp & RH Monitor M Version</td>
       <td>cgllc.sensor_ht.g1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2222</th>
+      <th>2223</th>
       <td><img src="./assets/icons/raw/kongke.sensor_ht.temp.png"></td>
       <td>Temperature Sensor</td>
       <td>kongke.sensor_ht.temp</td>
       <td></td>
     </tr>
     <tr>
-      <th>2223</th>
+      <th>2224</th>
       <td><img src="./assets/icons/raw/feibit.sensor_ht.fzb870.png"></td>
       <td>Temperature and humidity sensor</td>
       <td>feibit.sensor_ht.fzb870</td>
       <td></td>
     </tr>
     <tr>
-      <th>2224</th>
+      <th>2225</th>
       <td><img src="./assets/icons/raw/fine.sensor_ht.th.png"></td>
       <td>Temperature and humidity sensor</td>
       <td>fine.sensor_ht.th</td>
       <td></td>
     </tr>
     <tr>
-      <th>2225</th>
+      <th>2226</th>
       <td><img src="./assets/icons/raw/hsmart.sensor_ht.hs2th.png"></td>
       <td>Temperature and humidity sensor</td>
       <td>hsmart.sensor_ht.hs2th</td>
       <td></td>
     </tr>
     <tr>
-      <th>2226</th>
+      <th>2227</th>
       <td><img src="./assets/icons/raw/jrnet.sensor_ht.senws1.png"></td>
       <td>Temperature and humidity sensor</td>
       <td>jrnet.sensor_ht.senws1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2227</th>
+      <th>2228</th>
       <td><img src="./assets/icons/raw/jyx.sensor_ht.030201.png"></td>
       <td>Temperature and humidity sensor</td>
       <td>jyx.sensor_ht.030201</td>
       <td></td>
     </tr>
     <tr>
-      <th>2228</th>
+      <th>2229</th>
       <td><img src="./assets/icons/raw/sxmiot.sensor_ht.th0001.png"></td>
       <td>Xunming Thermometer</td>
       <td>sxmiot.sensor_ht.th0001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2229</th>
+      <th>2230</th>
       <td><img src="./assets/icons/raw/miaomiaoce.sensor_ht.h1.png"></td>
       <td>ZenMeasure Bluetooth Hygrometer Thermometer</td>
       <td>miaomiaoce.sensor_ht.h1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2230</th>
+      <th>2231</th>
       <td><img src="./assets/icons/raw/coolki.sensor_ht.ui1770.png"></td>
       <td>Zigbee sub-device temperature and humidity sensor (1770)</td>
       <td>coolki.sensor_ht.ui1770</td>
       <td></td>
     </tr>
     <tr>
-      <th>2231</th>
+      <th>2232</th>
       <td><img src="./assets/icons/raw/bemfa.sensor_ht.dht11.png"></td>
       <td>sensor</td>
       <td>bemfa.sensor_ht.dht11</td>
       <td></td>
     </tr>
     <tr>
-      <th>2232</th>
+      <th>2233</th>
       <td><img src="./assets/icons/raw/zhimai.sensor_ht.zm003.png"></td>
       <td>sensor</td>
       <td>zhimai.sensor_ht.zm003</td>
@@ -16569,91 +16576,91 @@
   </thead>
   <tbody>
     <tr>
-      <th>2233</th>
+      <th>2234</th>
       <td><img src="./assets/icons/raw/madv.cateye.dlowlse.png"></td>
       <td>Dling Smart Video Doorbell C3</td>
       <td>madv.cateye.dlowlse</td>
       <td></td>
     </tr>
     <tr>
-      <th>2234</th>
+      <th>2235</th>
       <td><img src="./assets/icons/raw/madv.cateye.dlowlse2.png"></td>
       <td>Dling Smart Video Doorbell C5</td>
       <td>madv.cateye.dlowlse2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2235</th>
+      <th>2236</th>
       <td><img src="./assets/icons/raw/madv.cateye.dlowle.png"></td>
       <td>Dling Smart Video Doorbell E3</td>
       <td>madv.cateye.dlowle</td>
       <td></td>
     </tr>
     <tr>
-      <th>2236</th>
+      <th>2237</th>
       <td><img src="./assets/icons/raw/madv.cateye.dlowlplus.png"></td>
       <td>Dling Smart Video Doorbell Plus</td>
       <td>madv.cateye.dlowlplus</td>
       <td></td>
     </tr>
     <tr>
-      <th>2237</th>
+      <th>2238</th>
       <td><img src="./assets/icons/raw/chuangmi.cateye.ipc508.png"></td>
       <td>IMILAB Intelligent Door Visual System H1</td>
       <td>chuangmi.cateye.ipc508</td>
       <td></td>
     </tr>
     <tr>
-      <th>2238</th>
+      <th>2239</th>
       <td><img src="./assets/icons/raw/madv.cateye.miowl.png"></td>
       <td>Mi Smart Video Doorbell</td>
       <td>madv.cateye.miowl</td>
       <td></td>
     </tr>
     <tr>
-      <th>2239</th>
+      <th>2240</th>
       <td><img src="./assets/icons/raw/madv.cateye.mi2gt.png"></td>
       <td>Mi Smart Video Doorbell 2</td>
       <td>madv.cateye.mi2gt</td>
       <td></td>
     </tr>
     <tr>
-      <th>2240</th>
+      <th>2241</th>
       <td><img src="./assets/icons/raw/madv.cateye.miowlv2.png"></td>
       <td>Mi Smart Video Doorbell 2</td>
       <td>madv.cateye.miowlv2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2241</th>
+      <th>2242</th>
       <td><img src="./assets/icons/raw/madv.cateye.miowlv2l.png"></td>
       <td>Mi Smart Video Doorbell 2 Lite</td>
       <td>madv.cateye.miowlv2l</td>
       <td></td>
     </tr>
     <tr>
-      <th>2242</th>
+      <th>2243</th>
       <td><img src="./assets/icons/raw/ydhome.cateye.pr1.png"></td>
       <td>Uodi Smart Doorbell R1</td>
       <td>ydhome.cateye.pr1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2243</th>
+      <th>2244</th>
       <td><img src="./assets/icons/raw/mxiang.cateye.mdb10.png"></td>
       <td>Xiaomo Smart Video Doorbell</td>
       <td>mxiang.cateye.mdb10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2244</th>
+      <th>2245</th>
       <td><img src="./assets/icons/raw/madv.cateye.dlowl.png"></td>
       <td>dling Smart Video Doorbell</td>
       <td>madv.cateye.dlowl</td>
       <td></td>
     </tr>
     <tr>
-      <th>2245</th>
+      <th>2246</th>
       <td><img src="./assets/icons/raw/chuangmi.cateye.i023a01.png"></td>
       <td>imilab video doorbell</td>
       <td>chuangmi.cateye.i023a01</td>
@@ -16675,21 +16682,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2246</th>
+      <th>2247</th>
       <td><img src="./assets/icons/raw/lumi.flood.agl02.png"></td>
       <td>Aqara Water Leak Sensor T1</td>
       <td>lumi.flood.agl02</td>
       <td>SJCGQ12LM</td>
     </tr>
     <tr>
-      <th>2247</th>
+      <th>2248</th>
       <td><img src="./assets/icons/raw/lumi.flood.bmcn01.png"></td>
       <td>Mi Flood Detector</td>
       <td>lumi.flood.bmcn01</td>
       <td>SJWS01LM</td>
     </tr>
     <tr>
-      <th>2248</th>
+      <th>2249</th>
       <td><img src="./assets/icons/raw/lumi.sensor_wleak.aq1.png"></td>
       <td>Water Leak Sensor</td>
       <td>lumi.sensor_wleak.aq1</td>
@@ -16711,63 +16718,63 @@
   </thead>
   <tbody>
     <tr>
-      <th>2249</th>
+      <th>2250</th>
       <td><img src="./assets/icons/raw/lumi.remote.b1acn01.png"></td>
       <td>Aqara Wireless Mini Switch</td>
       <td>lumi.remote.b1acn01</td>
       <td>WXKG11LM</td>
     </tr>
     <tr>
-      <th>2250</th>
+      <th>2251</th>
       <td><img src="./assets/icons/raw/lumi.sensor_switch.aq2.png"></td>
       <td>Aqara Wireless Mini Switch</td>
       <td>lumi.sensor_switch.aq2</td>
       <td>WXKG11LM</td>
     </tr>
     <tr>
-      <th>2251</th>
+      <th>2252</th>
       <td><img src="./assets/icons/raw/lumi.sensor_switch.aq3.png"></td>
       <td>Aqara Wireless Mini Switch (Advanced)</td>
       <td>lumi.sensor_switch.aq3</td>
       <td>WXKG12LM</td>
     </tr>
     <tr>
-      <th>2252</th>
+      <th>2253</th>
       <td><img src="./assets/icons/raw/lumi.sensor_switch.v2.png"></td>
       <td>Mi Wireless Switch</td>
       <td>lumi.sensor_switch.v2</td>
       <td>WXKG01LM</td>
     </tr>
     <tr>
-      <th>2253</th>
+      <th>2254</th>
       <td><img src="./assets/icons/raw/lumi.remote.b486opcn01.png"></td>
       <td>Wireless Scene Switch (Four Button Edition)</td>
       <td>lumi.remote.b486opcn01</td>
       <td>WXCJKG12LM</td>
     </tr>
     <tr>
-      <th>2254</th>
+      <th>2255</th>
       <td><img src="./assets/icons/raw/lumi.remote.b286opcn01.png"></td>
       <td>Wireless Scene Switch (Two Button Edition)</td>
       <td>lumi.remote.b286opcn01</td>
       <td>WXCJKG11LM</td>
     </tr>
     <tr>
-      <th>2255</th>
+      <th>2256</th>
       <td><img src="./assets/icons/raw/ydhome.switch.s1.png"></td>
       <td>Youdian Smart Bluetooth Mesh Switch</td>
       <td>ydhome.switch.s1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2256</th>
+      <th>2257</th>
       <td><img src="./assets/icons/raw/ydhome.switch.s2.png"></td>
       <td>Youdian Smart Bluetooth Mesh Switch</td>
       <td>ydhome.switch.s2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2257</th>
+      <th>2258</th>
       <td><img src="./assets/icons/raw/ydhome.switch.s3.png"></td>
       <td>Youdian Smart Bluetooth Mesh Switch</td>
       <td>ydhome.switch.s3</td>
@@ -16789,7 +16796,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2258</th>
+      <th>2259</th>
       <td><img src="./assets/icons/raw/lumi.sensor_cube.aqgl01.png"></td>
       <td>Aqara Cube</td>
       <td>lumi.sensor_cube.aqgl01</td>
@@ -16811,7 +16818,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2259</th>
+      <th>2260</th>
       <td><img src="./assets/icons/raw/lumi.remote.b686opcn01.png"></td>
       <td>Wireless Scene Switch (Six Button Edition)</td>
       <td>lumi.remote.b686opcn01</td>
@@ -16835,11 +16842,11 @@
   </thead>
   <tbody>
     <tr>
-      <th>2260</th>
+      <th>2261</th>
       <td><img src="./assets/icons/raw/scishare.coffee.s1102.png"></td>
       <td>SCISHARE Smart Capsule Coffee Machine</td>
       <td>scishare.coffee.s1102</td>
-      <td></td>
+      <td>Scishare S1102</td>
     </tr>
   </tbody>
 </table>
@@ -16857,112 +16864,112 @@
   </thead>
   <tbody>
     <tr>
-      <th>2261</th>
+      <th>2262</th>
       <td><img src="./assets/icons/raw/lxk.kettle.ysj.png"></td>
       <td>Drinking fountain</td>
       <td>lxk.kettle.ysj</td>
       <td>WD01Ei</td>
     </tr>
     <tr>
-      <th>2262</th>
+      <th>2263</th>
       <td><img src="./assets/icons/raw/ghome.kettle.sf009.png"></td>
       <td>Kettle</td>
       <td>ghome.kettle.sf009</td>
       <td></td>
     </tr>
     <tr>
-      <th>2263</th>
+      <th>2264</th>
       <td><img src="./assets/icons/raw/morfun.kettle.mf809.png"></td>
       <td>MORFUN Smart Instant Heating Water Dispenser</td>
       <td>morfun.kettle.mf809</td>
       <td></td>
     </tr>
     <tr>
-      <th>2264</th>
+      <th>2265</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.v1.png"></td>
       <td>Mi Smart Kettle</td>
       <td>yunmi.kettle.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2265</th>
+      <th>2266</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.v2.png"></td>
       <td>Mi Smart Kettle</td>
       <td>yunmi.kettle.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2266</th>
+      <th>2267</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.v3.png"></td>
       <td>Mi Smart Kettle</td>
       <td>yunmi.kettle.v3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2267</th>
+      <th>2268</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.v5.png"></td>
       <td>Mi Smart Kettle</td>
       <td>yunmi.kettle.v5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2268</th>
+      <th>2269</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.v10.png"></td>
       <td>Mi Smart Kettle Pro</td>
       <td>yunmi.kettle.v10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2269</th>
+      <th>2270</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.v11.png"></td>
       <td>Mi Smart Kettle Pro</td>
       <td>yunmi.kettle.v11</td>
       <td></td>
     </tr>
     <tr>
-      <th>2270</th>
+      <th>2271</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.v12.png"></td>
       <td>Mi Smart Kettle Pro</td>
       <td>yunmi.kettle.v12</td>
       <td></td>
     </tr>
     <tr>
-      <th>2271</th>
+      <th>2272</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.v9.png"></td>
       <td>Mi Smart Kettle Pro</td>
       <td>yunmi.kettle.v9</td>
       <td></td>
     </tr>
     <tr>
-      <th>2272</th>
+      <th>2273</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.r5.png"></td>
       <td>VIOMI Smart Instant Heating Water Dispenser</td>
       <td>yunmi.kettle.r5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2273</th>
+      <th>2274</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.r7.png"></td>
       <td>Viomi Instant Heating Water Dispenser</td>
       <td>yunmi.kettle.r7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2274</th>
+      <th>2275</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.v6.png"></td>
       <td>Viomi smart kettle</td>
       <td>yunmi.kettle.v6</td>
       <td></td>
     </tr>
     <tr>
-      <th>2275</th>
+      <th>2276</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.v7.png"></td>
       <td>Viomi smart kettle</td>
       <td>yunmi.kettle.v7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2276</th>
+      <th>2277</th>
       <td><img src="./assets/icons/raw/golden.kettle.wd01ei.png"></td>
       <td>drinking</td>
       <td>golden.kettle.wd01ei</td>
@@ -16984,168 +16991,168 @@
   </thead>
   <tbody>
     <tr>
-      <th>2277</th>
+      <th>2278</th>
       <td><img src="./assets/icons/raw/fotile.hood.emd1tmi.png"></td>
       <td>CXW-200-EMD1T.MI</td>
       <td>fotile.hood.emd1tmi</td>
       <td></td>
     </tr>
     <tr>
-      <th>2278</th>
+      <th>2279</th>
       <td><img src="./assets/icons/raw/viomi.hood.v1.png"></td>
       <td>Exhaust Hood & Stovetop</td>
       <td>viomi.hood.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2279</th>
+      <th>2280</th>
       <td><img src="./assets/icons/raw/hxrcj.hood.e5.png"></td>
       <td>Hood</td>
       <td>hxrcj.hood.e5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2280</th>
+      <th>2281</th>
       <td><img src="./assets/icons/raw/lxk.hood.n909i.png"></td>
       <td>Hood</td>
       <td>lxk.hood.n909i</td>
       <td></td>
     </tr>
     <tr>
-      <th>2281</th>
+      <th>2282</th>
       <td><img src="./assets/icons/raw/lxk.hood.n913i.png"></td>
       <td>Hood</td>
       <td>lxk.hood.n913i</td>
       <td></td>
     </tr>
     <tr>
-      <th>2282</th>
+      <th>2283</th>
       <td><img src="./assets/icons/raw/lxk.hood.yj.png"></td>
       <td>Hood</td>
       <td>lxk.hood.yj</td>
       <td></td>
     </tr>
     <tr>
-      <th>2283</th>
+      <th>2284</th>
       <td><img src="./assets/icons/raw/viomi.hood.v2.png"></td>
       <td>Mi Smart Side-Draft Range Hood</td>
       <td>viomi.hood.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2284</th>
+      <th>2285</th>
       <td><img src="./assets/icons/raw/xckj.hood.s9001.png"></td>
       <td>Ocooker</td>
       <td>xckj.hood.s9001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2285</th>
+      <th>2286</th>
       <td><img src="./assets/icons/raw/xckj.hood.z9001.png"></td>
       <td>Ocooker</td>
       <td>xckj.hood.z9001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2286</th>
+      <th>2287</th>
       <td><img src="./assets/icons/raw/hzft.hood.em52i.png"></td>
       <td>Range hood EM52.i</td>
       <td>hzft.hood.em52i</td>
       <td></td>
     </tr>
     <tr>
-      <th>2287</th>
+      <th>2288</th>
       <td><img src="./assets/icons/raw/viomi.hood.c1.png"></td>
       <td>VIOMI Smart Rang Hood Cross</td>
       <td>viomi.hood.c1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2288</th>
+      <th>2289</th>
       <td><img src="./assets/icons/raw/viomi.hood.h5.png"></td>
       <td>Viomi Internet Hood Flash</td>
       <td>viomi.hood.h5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2289</th>
+      <th>2290</th>
       <td><img src="./assets/icons/raw/viomi.hood.c4.png"></td>
       <td>Viomi Internet Hood Flash Pro</td>
       <td>viomi.hood.c4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2290</th>
+      <th>2291</th>
       <td><img src="./assets/icons/raw/viomi.hood.c8.png"></td>
       <td>Viomi Internet Hood VK 707</td>
       <td>viomi.hood.c8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2291</th>
+      <th>2292</th>
       <td><img src="./assets/icons/raw/viomi.hood.h1.png"></td>
       <td>Viomi Internet hood Hurri standard</td>
       <td>viomi.hood.h1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2292</th>
+      <th>2293</th>
       <td><img src="./assets/icons/raw/viomi.hood.c7.png"></td>
       <td>Viomi Smart Hood</td>
       <td>viomi.hood.c7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2293</th>
+      <th>2294</th>
       <td><img src="./assets/icons/raw/viomi.hood.a9.png"></td>
       <td>Viomi Smart Hood (European style)</td>
       <td>viomi.hood.a9</td>
       <td></td>
     </tr>
     <tr>
-      <th>2294</th>
+      <th>2295</th>
       <td><img src="./assets/icons/raw/viomi.hood.a11.png"></td>
       <td>Viomi Smart Hood (VC302)</td>
       <td>viomi.hood.a11</td>
       <td></td>
     </tr>
     <tr>
-      <th>2295</th>
+      <th>2296</th>
       <td><img src="./assets/icons/raw/viomi.hood.a12.png"></td>
       <td>Viomi Smart Hood (VC303)</td>
       <td>viomi.hood.a12</td>
       <td></td>
     </tr>
     <tr>
-      <th>2296</th>
+      <th>2297</th>
       <td><img src="./assets/icons/raw/viomi.hood.c3.png"></td>
       <td>Viomi Smart Hood (VK501)</td>
       <td>viomi.hood.c3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2297</th>
+      <th>2298</th>
       <td><img src="./assets/icons/raw/viomi.hood.c2.png"></td>
       <td>Viomi Smart Hood Cross 2</td>
       <td>viomi.hood.c2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2298</th>
+      <th>2299</th>
       <td><img src="./assets/icons/raw/viomi.hood.a10.png"></td>
       <td>Viomi Smart Hood Free 3</td>
       <td>viomi.hood.a10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2299</th>
+      <th>2300</th>
       <td><img src="./assets/icons/raw/viomi.hood.h3.png"></td>
       <td>Viomi Smart Hood Hurri 2</td>
       <td>viomi.hood.h3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2300</th>
+      <th>2301</th>
       <td><img src="./assets/icons/raw/viomi.hood.h4.png"></td>
       <td>Viomi Smart Hood Wing</td>
       <td>viomi.hood.h4</td>
@@ -17167,7 +17174,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2301</th>
+      <th>2302</th>
       <td><img src="./assets/icons/raw/kola.milk.v1.png"></td>
       <td>Kola Mother Smart Milking Machine</td>
       <td>kola.milk.v1</td>
@@ -17189,7 +17196,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2302</th>
+      <th>2303</th>
       <td><img src="./assets/icons/raw/xckj.fridge.111wg2.png"></td>
       <td>Ocooker Freezer</td>
       <td>xckj.fridge.111wg2</td>
@@ -17211,441 +17218,441 @@
   </thead>
   <tbody>
     <tr>
-      <th>2303</th>
+      <th>2304</th>
       <td><img src="./assets/icons/raw/xckj.fridge.448ws4.png"></td>
       <td>French refrigerator with four doors</td>
       <td>xckj.fridge.448ws4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2304</th>
+      <th>2305</th>
       <td><img src="./assets/icons/raw/schmzn.fridge.ml48x.png"></td>
       <td>MeiLing-Fridge</td>
       <td>schmzn.fridge.ml48x</td>
       <td></td>
     </tr>
     <tr>
-      <th>2305</th>
+      <th>2306</th>
       <td><img src="./assets/icons/raw/viomi.fridge.m1.png"></td>
       <td>Mi 4-Door Refrigerator 486L</td>
       <td>viomi.fridge.m1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2306</th>
+      <th>2307</th>
       <td><img src="./assets/icons/raw/mibx2.fridge.v1.png"></td>
       <td>Mi Internet Refrigerator 450L</td>
       <td>mibx2.fridge.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2307</th>
+      <th>2308</th>
       <td><img src="./assets/icons/raw/midjd6.fridge.v1.png"></td>
       <td>Mi Internet Refrigerator 540L</td>
       <td>midjd6.fridge.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2308</th>
+      <th>2309</th>
       <td><img src="./assets/icons/raw/xckj.fridge.151wg1.png"></td>
       <td>Smart refrigerator for kitchen</td>
       <td>xckj.fridge.151wg1</td>
       <td>BC-151WG1</td>
     </tr>
     <tr>
-      <th>2309</th>
+      <th>2310</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x4.png"></td>
       <td>Viomi Internet refrigerator 21 face (side by side 450L)</td>
       <td>viomi.fridge.x4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2310</th>
+      <th>2311</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u1.png"></td>
       <td>Viomi Internet refrigerator iLive</td>
       <td>viomi.fridge.u1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2311</th>
+      <th>2312</th>
       <td><img src="./assets/icons/raw/viomi.fridge.v3.png"></td>
       <td>Viomi Internet refrigerator iLive (French style 462L)</td>
       <td>viomi.fridge.v3</td>
       <td>BCD-462WMBA</td>
     </tr>
     <tr>
-      <th>2312</th>
+      <th>2313</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u7.png"></td>
       <td>Viomi Internet refrigerator iLive (side by side 545L)</td>
       <td>viomi.fridge.u7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2313</th>
+      <th>2314</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u2.png"></td>
       <td>Viomi Internet refrigerator iLive (side by side)</td>
       <td>viomi.fridge.u2</td>
       <td>BCD-456WMSD</td>
     </tr>
     <tr>
-      <th>2314</th>
+      <th>2315</th>
       <td><img src="./assets/icons/raw/viomi.fridge.b3.png"></td>
       <td>Viomi Refrigerator (Cross Door 408L)</td>
       <td>viomi.fridge.b3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2315</th>
+      <th>2316</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u35.png"></td>
       <td>Viomi Refrigerator (Cross Door 410L)</td>
       <td>viomi.fridge.u35</td>
       <td></td>
     </tr>
     <tr>
-      <th>2316</th>
+      <th>2317</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u28.png"></td>
       <td>Viomi Refrigerator (Cross Door 450L)</td>
       <td>viomi.fridge.u28</td>
       <td></td>
     </tr>
     <tr>
-      <th>2317</th>
+      <th>2318</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u39.png"></td>
       <td>Viomi Refrigerator (Cross Door 485L)</td>
       <td>viomi.fridge.u39</td>
       <td></td>
     </tr>
     <tr>
-      <th>2318</th>
+      <th>2319</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u36.png"></td>
       <td>Viomi Refrigerator (Cross Door 506L)</td>
       <td>viomi.fridge.u36</td>
       <td></td>
     </tr>
     <tr>
-      <th>2319</th>
+      <th>2320</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u31.png"></td>
       <td>Viomi Refrigerator (Cross Door 508L)</td>
       <td>viomi.fridge.u31</td>
       <td></td>
     </tr>
     <tr>
-      <th>2320</th>
+      <th>2321</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u42.png"></td>
       <td>Viomi Refrigerator (Cross Door 509L)</td>
       <td>viomi.fridge.u42</td>
       <td></td>
     </tr>
     <tr>
-      <th>2321</th>
+      <th>2322</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x23.png"></td>
       <td>Viomi Refrigerator (Cross Door 510L)</td>
       <td>viomi.fridge.x23</td>
       <td></td>
     </tr>
     <tr>
-      <th>2322</th>
+      <th>2323</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u44.png"></td>
       <td>Viomi Refrigerator (Cross Door 513L)</td>
       <td>viomi.fridge.u44</td>
       <td></td>
     </tr>
     <tr>
-      <th>2323</th>
+      <th>2324</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u25.png"></td>
       <td>Viomi Refrigerator (French Door 345L)</td>
       <td>viomi.fridge.u25</td>
       <td></td>
     </tr>
     <tr>
-      <th>2324</th>
+      <th>2325</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u29.png"></td>
       <td>Viomi Refrigerator (French Door 355L)</td>
       <td>viomi.fridge.u29</td>
       <td></td>
     </tr>
     <tr>
-      <th>2325</th>
+      <th>2326</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u43.png"></td>
       <td>Viomi Refrigerator (French Door 445L)</td>
       <td>viomi.fridge.u43</td>
       <td></td>
     </tr>
     <tr>
-      <th>2326</th>
+      <th>2327</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u45.png"></td>
       <td>Viomi Refrigerator (French Door 508L)</td>
       <td>viomi.fridge.u45</td>
       <td></td>
     </tr>
     <tr>
-      <th>2327</th>
+      <th>2328</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u37.png"></td>
       <td>Viomi Refrigerator (SBS 528L)</td>
       <td>viomi.fridge.u37</td>
       <td></td>
     </tr>
     <tr>
-      <th>2328</th>
+      <th>2329</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u30.png"></td>
       <td>Viomi Refrigerator (SBS 566L)</td>
       <td>viomi.fridge.u30</td>
       <td></td>
     </tr>
     <tr>
-      <th>2329</th>
+      <th>2330</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u38.png"></td>
       <td>Viomi Refrigerator (SBS 568L)</td>
       <td>viomi.fridge.u38</td>
       <td></td>
     </tr>
     <tr>
-      <th>2330</th>
+      <th>2331</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u41.png"></td>
       <td>Viomi Refrigerator (SBS 639L)</td>
       <td>viomi.fridge.u41</td>
       <td></td>
     </tr>
     <tr>
-      <th>2331</th>
+      <th>2332</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u32.png"></td>
       <td>Viomi Refrigerator (SBS456L)</td>
       <td>viomi.fridge.u32</td>
       <td></td>
     </tr>
     <tr>
-      <th>2332</th>
+      <th>2333</th>
       <td><img src="./assets/icons/raw/viomi.fridge.b4.png"></td>
       <td>Viomi Refrigerator (SBS458L)</td>
       <td>viomi.fridge.b4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2333</th>
+      <th>2334</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x21.png"></td>
       <td>Viomi Refrigerator (SBS630L)</td>
       <td>viomi.fridge.x21</td>
       <td></td>
     </tr>
     <tr>
-      <th>2334</th>
+      <th>2335</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u34.png"></td>
       <td>Viomi Refrigerator (SBS640L)</td>
       <td>viomi.fridge.u34</td>
       <td></td>
     </tr>
     <tr>
-      <th>2335</th>
+      <th>2336</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x22.png"></td>
       <td>Viomi Refrigerator 21 Face (French 510L)</td>
       <td>viomi.fridge.x22</td>
       <td></td>
     </tr>
     <tr>
-      <th>2336</th>
+      <th>2337</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x19.png"></td>
       <td>Viomi Refrigerator 21FACE (SBS 635L)</td>
       <td>viomi.fridge.x19</td>
       <td></td>
     </tr>
     <tr>
-      <th>2337</th>
+      <th>2338</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x17.png"></td>
       <td>Viomi Refrigerator 21FACE (SBS450L)</td>
       <td>viomi.fridge.x17</td>
       <td></td>
     </tr>
     <tr>
-      <th>2338</th>
+      <th>2339</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x25.png"></td>
       <td>Viomi Refrigerator 21FACE (SBS456L)</td>
       <td>viomi.fridge.x25</td>
       <td></td>
     </tr>
     <tr>
-      <th>2339</th>
+      <th>2340</th>
       <td><img src="./assets/icons/raw/viomi.fridge.b5.png"></td>
       <td>Viomi Refrigerator 21Face (451L)</td>
       <td>viomi.fridge.b5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2340</th>
+      <th>2341</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x14.png"></td>
       <td>Viomi Refrigerator 21Face (516L)</td>
       <td>viomi.fridge.x14</td>
       <td></td>
     </tr>
     <tr>
-      <th>2341</th>
+      <th>2342</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x13.png"></td>
       <td>Viomi Refrigerator 21Face (520L)</td>
       <td>viomi.fridge.x13</td>
       <td></td>
     </tr>
     <tr>
-      <th>2342</th>
+      <th>2343</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x20.png"></td>
       <td>Viomi Refrigerator 21Face (CrossDoor502L)</td>
       <td>viomi.fridge.x20</td>
       <td></td>
     </tr>
     <tr>
-      <th>2343</th>
+      <th>2344</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x15.png"></td>
       <td>Viomi Refrigerator 21Face (SBS 522L)</td>
       <td>viomi.fridge.x15</td>
       <td></td>
     </tr>
     <tr>
-      <th>2344</th>
+      <th>2345</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x11.png"></td>
       <td>Viomi Refrigerator 21Face (SBS 525L-M)</td>
       <td>viomi.fridge.x11</td>
       <td></td>
     </tr>
     <tr>
-      <th>2345</th>
+      <th>2346</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u40.png"></td>
       <td>Viomi Refrigerator iLive (French Door 416L)</td>
       <td>viomi.fridge.u40</td>
       <td></td>
     </tr>
     <tr>
-      <th>2346</th>
+      <th>2347</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u26.png"></td>
       <td>Viomi Refrigerator iLive (SBS 552L)</td>
       <td>viomi.fridge.u26</td>
       <td></td>
     </tr>
     <tr>
-      <th>2347</th>
+      <th>2348</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x24.png"></td>
       <td>Viomi Smart Refrigerator (French 516L)</td>
       <td>viomi.fridge.x24</td>
       <td></td>
     </tr>
     <tr>
-      <th>2348</th>
+      <th>2349</th>
       <td><img src="./assets/icons/raw/viomi.fridge.b1.png"></td>
       <td>Viomi Smart Refrigerator (SBS 380L)</td>
       <td>viomi.fridge.b1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2349</th>
+      <th>2350</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u24.png"></td>
       <td>Viomi Smart Refrigerator (SBS 450L)</td>
       <td>viomi.fridge.u24</td>
       <td></td>
     </tr>
     <tr>
-      <th>2350</th>
+      <th>2351</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x12.png"></td>
       <td>Viomi Smart Refrigerator 21 Face (T-type three doors 408L)</td>
       <td>viomi.fridge.x12</td>
       <td></td>
     </tr>
     <tr>
-      <th>2351</th>
+      <th>2352</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x28.png"></td>
       <td>Viomi Smart Refrigerator 21Face (502L)</td>
       <td>viomi.fridge.x28</td>
       <td></td>
     </tr>
     <tr>
-      <th>2352</th>
+      <th>2353</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x29.png"></td>
       <td>Viomi Smart Refrigerator 21Face (505L)</td>
       <td>viomi.fridge.x29</td>
       <td></td>
     </tr>
     <tr>
-      <th>2353</th>
+      <th>2354</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u17.png"></td>
       <td>Viomi Smart Refrigerator ILive BCD-398/415L</td>
       <td>viomi.fridge.u17</td>
       <td></td>
     </tr>
     <tr>
-      <th>2354</th>
+      <th>2355</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u12.png"></td>
       <td>Viomi Smart Refrigerator ILive BCD-398/415WMSD</td>
       <td>viomi.fridge.u12</td>
       <td></td>
     </tr>
     <tr>
-      <th>2355</th>
+      <th>2356</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x26.png"></td>
       <td>Viomi Smart Refrigerator YMDK01</td>
       <td>viomi.fridge.x26</td>
       <td></td>
     </tr>
     <tr>
-      <th>2356</th>
+      <th>2357</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u6.png"></td>
       <td>Viomi Smart Refrigerator iLive (4-door 486L)</td>
       <td>viomi.fridge.u6</td>
       <td></td>
     </tr>
     <tr>
-      <th>2357</th>
+      <th>2358</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u13.png"></td>
       <td>Viomi Smart Refrigerator iLive (Cross Four Door 415L/416L)</td>
       <td>viomi.fridge.u13</td>
       <td></td>
     </tr>
     <tr>
-      <th>2358</th>
+      <th>2359</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u15.png"></td>
       <td>Viomi Smart Refrigerator iLive (French Style 365L)</td>
       <td>viomi.fridge.u15</td>
       <td></td>
     </tr>
     <tr>
-      <th>2359</th>
+      <th>2360</th>
       <td><img src="./assets/icons/raw/viomi.fridge.p1.png"></td>
       <td>Viomi Smart Refrigerator iLive (SBS 598L)</td>
       <td>viomi.fridge.p1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2360</th>
+      <th>2361</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u8.png"></td>
       <td>Viomi Smart Refrigerator iLive (SBS 603L)</td>
       <td>viomi.fridge.u8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2361</th>
+      <th>2362</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u4.png"></td>
       <td>Viomi Smart Refrigerator iLive (side-by-side 483L)</td>
       <td>viomi.fridge.u4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2362</th>
+      <th>2363</th>
       <td><img src="./assets/icons/raw/viomi.fridge.w2.png"></td>
       <td>Viomi Smart Refrigerator iLive2 (Double Door 272L)</td>
       <td>viomi.fridge.w2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2363</th>
+      <th>2364</th>
       <td><img src="./assets/icons/raw/viomi.fridge.w1.png"></td>
       <td>Viomi Smart Refrigerator iLive2 (Three Door 301L)</td>
       <td>viomi.fridge.w1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2364</th>
+      <th>2365</th>
       <td><img src="./assets/icons/raw/viomi.fridge.x7.png"></td>
       <td>Viomi Smart refrigerator 21 face (428L)</td>
       <td>viomi.fridge.x7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2365</th>
+      <th>2366</th>
       <td><img src="./assets/icons/raw/viomi.fridge.u18.png"></td>
       <td>Viomi smart refrigerator iLive (SBS 485L)</td>
       <td>viomi.fridge.u18</td>
@@ -17667,21 +17674,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2366</th>
+      <th>2367</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.r1.png"></td>
       <td>VIOMI Smart Instant Heating Water Dispenser (MINI)</td>
       <td>yunmi.kettle.r1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2367</th>
+      <th>2368</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.r2.png"></td>
       <td>VIOMI Smart Instant Heating Water Dispenser (MINI)</td>
       <td>yunmi.kettle.r2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2368</th>
+      <th>2369</th>
       <td><img src="./assets/icons/raw/yunmi.kettle.r3.png"></td>
       <td>VIOMI Smart Instant Heating Water Dispenser 1A (4L Ver.)</td>
       <td>yunmi.kettle.r3</td>
@@ -17703,84 +17710,84 @@
   </thead>
   <tbody>
     <tr>
-      <th>2369</th>
+      <th>2370</th>
       <td><img src="./assets/icons/raw/chunmi.ihcooker.double.png"></td>
       <td>Mi Dual Burner Induction Cooker</td>
       <td>chunmi.ihcooker.double</td>
       <td></td>
     </tr>
     <tr>
-      <th>2370</th>
+      <th>2371</th>
       <td><img src="./assets/icons/raw/chunmi.ihcooker.eg1.png"></td>
       <td>Mi Induction Cooker</td>
       <td>chunmi.ihcooker.eg1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2371</th>
+      <th>2372</th>
       <td><img src="./assets/icons/raw/chunmi.ihcooker.exp1.png"></td>
       <td>Mi Induction Cooker</td>
       <td>chunmi.ihcooker.exp1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2372</th>
+      <th>2373</th>
       <td><img src="./assets/icons/raw/chunmi.ihcooker.hk1.png"></td>
       <td>Mi Induction Cooker</td>
       <td>chunmi.ihcooker.hk1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2373</th>
+      <th>2374</th>
       <td><img src="./assets/icons/raw/chunmi.ihcooker.korea1.png"></td>
       <td>Mi Induction Cooker</td>
       <td>chunmi.ihcooker.korea1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2374</th>
+      <th>2375</th>
       <td><img src="./assets/icons/raw/chunmi.ihcooker.tw1.png"></td>
       <td>Mi Induction Cooker</td>
       <td>chunmi.ihcooker.tw1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2375</th>
+      <th>2376</th>
       <td><img src="./assets/icons/raw/chunmi.ihcooker.v1.png"></td>
       <td>Mi Induction Cooker</td>
       <td>chunmi.ihcooker.v1</td>
       <td>DCL01CM</td>
     </tr>
     <tr>
-      <th>2376</th>
+      <th>2377</th>
       <td><img src="./assets/icons/raw/chunmi.ihcooker.chefnic.png"></td>
       <td>Mi Induction Cooker Set Chef Nic Edition</td>
       <td>chunmi.ihcooker.chefnic</td>
       <td></td>
     </tr>
     <tr>
-      <th>2377</th>
+      <th>2378</th>
       <td><img src="./assets/icons/raw/tokit.ihcooker.tkv1.png"></td>
       <td>TOKIT Smart Induction Cooker Entry</td>
       <td>tokit.ihcooker.tkv1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2378</th>
+      <th>2379</th>
       <td><img src="./assets/icons/raw/chunmi.ihcooker.tkpro1.png"></td>
       <td>TOKIT Smart Induction Cooker Pro</td>
       <td>chunmi.ihcooker.tkpro1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2379</th>
+      <th>2380</th>
       <td><img src="./assets/icons/raw/tokit.ihcooker.tkpro1.png"></td>
       <td>TOKIT Smart Induction Cooker Pro</td>
       <td>tokit.ihcooker.tkpro1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2380</th>
+      <th>2381</th>
       <td><img src="./assets/icons/raw/chunmi.ihcooker.tkv1.png"></td>
       <td>TOKIT-Smart induction Cooker Entry-chunmi</td>
       <td>chunmi.ihcooker.tkv1</td>
@@ -17802,14 +17809,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2381</th>
+      <th>2382</th>
       <td><img src="./assets/icons/raw/chunmi.microwave.n20l01.png"></td>
       <td>Mi Smart Microwave Oven</td>
       <td>chunmi.microwave.n20l01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2382</th>
+      <th>2383</th>
       <td><img src="./assets/icons/raw/chunmi.microwave.n23l01.png"></td>
       <td>Mi Smart Microwave Oven with Grill</td>
       <td>chunmi.microwave.n23l01</td>
@@ -17831,161 +17838,161 @@
   </thead>
   <tbody>
     <tr>
-      <th>2383</th>
+      <th>2384</th>
       <td><img src="./assets/icons/raw/imibar.cooker.mbihr3.png"></td>
       <td>Cooking robot</td>
       <td>imibar.cooker.mbihr3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2384</th>
+      <th>2385</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.press1.png"></td>
       <td>Mi IH Pressure Rice Cooker</td>
       <td>chunmi.cooker.press1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2385</th>
+      <th>2386</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.press2.png"></td>
       <td>Mi IH Pressure Rice Cooker</td>
       <td>chunmi.cooker.press2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2386</th>
+      <th>2387</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.naeg1.png"></td>
       <td>Mi IH Rice Cooker</td>
       <td>chunmi.cooker.naeg1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2387</th>
+      <th>2388</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.najpn1.png"></td>
       <td>Mi IH Rice Cooker</td>
       <td>chunmi.cooker.najpn1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2388</th>
+      <th>2389</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.normal1.png"></td>
       <td>Mi IH Rice Cooker</td>
       <td>chunmi.cooker.normal1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2389</th>
+      <th>2390</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.normal2.png"></td>
       <td>Mi IH Rice Cooker</td>
       <td>chunmi.cooker.normal2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2390</th>
+      <th>2391</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.normalcd1.png"></td>
       <td>Mi IH Rice Cooker</td>
       <td>chunmi.cooker.normalcd1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2391</th>
+      <th>2392</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.normal3.png"></td>
       <td>Mi IH Rice Cooker 4L</td>
       <td>chunmi.cooker.normal3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2392</th>
+      <th>2393</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.normal4.png"></td>
       <td>Mi IH Rice Cooker 4L</td>
       <td>chunmi.cooker.normal4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2393</th>
+      <th>2394</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.normal5.png"></td>
       <td>Mi IH Rice Cooker 4L</td>
       <td>chunmi.cooker.normal5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2394</th>
+      <th>2395</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.normalcd2.png"></td>
       <td>Mi IH Rice Cooker 4L</td>
       <td>chunmi.cooker.normalcd2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2395</th>
+      <th>2396</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.k1pro1.png"></td>
       <td>Mi Induction Heating Pressure Rice Cooker 1S</td>
       <td>chunmi.cooker.k1pro1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2396</th>
+      <th>2397</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.eh1.png"></td>
       <td>Mi Smart MultiCooker 1.6L</td>
       <td>chunmi.cooker.eh1</td>
       <td>DFB201CM</td>
     </tr>
     <tr>
-      <th>2397</th>
+      <th>2398</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.eh402.png"></td>
       <td>Mi Smart Multicooker 4L</td>
       <td>chunmi.cooker.eh402</td>
       <td></td>
     </tr>
     <tr>
-      <th>2398</th>
+      <th>2399</th>
       <td><img src="./assets/icons/raw/tokit.cooker.tk20l01.png"></td>
       <td>Mini Rice Cooker</td>
       <td>tokit.cooker.tk20l01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2399</th>
+      <th>2400</th>
       <td><img src="./assets/icons/raw/tokit.cooker.press1.png"></td>
       <td>TOKIT Pressure IH Smart Rice Cooker</td>
       <td>tokit.cooker.press1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2400</th>
+      <th>2401</th>
       <td><img src="./assets/icons/raw/tokit.cooker.tk4001.png"></td>
       <td>TOKIT Smart IH Rice Cooker</td>
       <td>tokit.cooker.tk4001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2401</th>
+      <th>2402</th>
       <td><img src="./assets/icons/raw/viomi.cooker.v2.png"></td>
       <td>Viomi Rice Cooker (4L Premium Edition)</td>
       <td>viomi.cooker.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2402</th>
+      <th>2403</th>
       <td><img src="./assets/icons/raw/viomi.cooker.v1.png"></td>
       <td>Viomi Smart IH Rice Cooker</td>
       <td>viomi.cooker.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2403</th>
+      <th>2404</th>
       <td><img src="./assets/icons/raw/viomi.cooker.v4.png"></td>
       <td>Viomi Smart IH Rice Cooker 3L</td>
       <td>viomi.cooker.v4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2404</th>
+      <th>2405</th>
       <td><img src="./assets/icons/raw/viomi.cooker.v5.png"></td>
       <td>Viomi Smart Rice Cooker 3L</td>
       <td>viomi.cooker.v5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2405</th>
+      <th>2406</th>
       <td><img src="./assets/icons/raw/dicook.cooker.wfz4003.png"></td>
       <td>intelligent cooking robot</td>
       <td>dicook.cooker.wfz4003</td>
@@ -18007,371 +18014,371 @@
   </thead>
   <tbody>
     <tr>
-      <th>2406</th>
+      <th>2407</th>
       <td><img src="./assets/icons/raw/bj352.waterpuri.k10.png"></td>
       <td>352Water purifier K10</td>
       <td>bj352.waterpuri.k10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2407</th>
+      <th>2408</th>
       <td><img src="./assets/icons/raw/bj352.waterpuri.s100cm.png"></td>
       <td>352WaterPurifierS100</td>
       <td>bj352.waterpuri.s100cm</td>
       <td></td>
     </tr>
     <tr>
-      <th>2408</th>
+      <th>2409</th>
       <td><img src="./assets/icons/raw/smith.waterpuri.jnt600.png"></td>
       <td>Chanitex Smart Water Purifier</td>
       <td>smith.waterpuri.jnt600</td>
       <td></td>
     </tr>
     <tr>
-      <th>2409</th>
+      <th>2410</th>
       <td><img src="./assets/icons/raw/xckj.waterpuri.js01.png"></td>
       <td>Circle kitchen household water purifier</td>
       <td>xckj.waterpuri.js01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2410</th>
+      <th>2411</th>
       <td><img src="./assets/icons/raw/dmaker.waterpuri.600g.png"></td>
       <td>Dimi RO water purifier 650G</td>
       <td>dmaker.waterpuri.600g</td>
       <td></td>
     </tr>
     <tr>
-      <th>2411</th>
+      <th>2412</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx10.png"></td>
       <td>Mi Smart Water Purifier</td>
       <td>yunmi.waterpuri.lx10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2412</th>
+      <th>2413</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx2.png"></td>
       <td>Mi Water Purifier</td>
       <td>yunmi.waterpuri.lx2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2413</th>
+      <th>2414</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx4.png"></td>
       <td>Mi Water Purifier</td>
       <td>yunmi.waterpuri.lx4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2414</th>
+      <th>2415</th>
       <td><img src="./assets/icons/raw/yunmi.waterpurifier.v2.png"></td>
       <td>Mi Water Purifier</td>
       <td>yunmi.waterpurifier.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2415</th>
+      <th>2416</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx3.png"></td>
       <td>Mi Water Purifier (Under Counter)</td>
       <td>yunmi.waterpuri.lx3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2416</th>
+      <th>2417</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx6.png"></td>
       <td>Mi Water Purifier (Under Counter)</td>
       <td>yunmi.waterpuri.lx6</td>
       <td></td>
     </tr>
     <tr>
-      <th>2417</th>
+      <th>2418</th>
       <td><img src="./assets/icons/raw/yunmi.waterpurifier.v3.png"></td>
       <td>Mi Water Purifier (Under sink)</td>
       <td>yunmi.waterpurifier.v3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2418</th>
+      <th>2419</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx5.png"></td>
       <td>Mi Water Purifier 1A/400G Pro</td>
       <td>yunmi.waterpuri.lx5</td>
-      <td></td>
+      <td>MR424-A</td>
     </tr>
     <tr>
-      <th>2419</th>
+      <th>2420</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx7.png"></td>
       <td>Mi Water Purifier 500G/500G Pro</td>
       <td>yunmi.waterpuri.lx7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2420</th>
+      <th>2421</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx8.png"></td>
       <td>Mi Water Purifier 600G</td>
       <td>yunmi.waterpuri.lx8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2421</th>
+      <th>2422</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx11.png"></td>
       <td>Mi Water Purifier C1 (Triple Setting)</td>
       <td>yunmi.waterpuri.lx11</td>
       <td>MRB33</td>
     </tr>
     <tr>
-      <th>2422</th>
+      <th>2423</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx9.png"></td>
       <td>Mi Water Purifier D1</td>
       <td>yunmi.waterpuri.lx9</td>
-      <td></td>
+      <td>MRC12</td>
     </tr>
     <tr>
-      <th>2423</th>
+      <th>2424</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx14.png"></td>
       <td>Mi Water Purifier H1000G</td>
       <td>yunmi.waterpuri.lx14</td>
       <td></td>
     </tr>
     <tr>
-      <th>2424</th>
+      <th>2425</th>
       <td><img src="./assets/icons/raw/zhimi.waterpuri.ma1.png"></td>
       <td>Mi Water Purifier H400G</td>
       <td>zhimi.waterpuri.ma1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2425</th>
+      <th>2426</th>
       <td><img src="./assets/icons/raw/chunmi.waterpuri.600f2.png"></td>
       <td>Mi Water Purifier H600G</td>
       <td>chunmi.waterpuri.600f2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2426</th>
+      <th>2427</th>
       <td><img src="./assets/icons/raw/chunmi.waterpuri.800f3.png"></td>
       <td>Mi Water Purifier H800G</td>
       <td>chunmi.waterpuri.800f3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2427</th>
+      <th>2428</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.lx12.png"></td>
       <td>Mi Water Purifier S1</td>
       <td>yunmi.waterpuri.lx12</td>
       <td></td>
     </tr>
     <tr>
-      <th>2428</th>
+      <th>2429</th>
       <td><img src="./assets/icons/raw/xckj.waterpuri.ihwp01.png"></td>
       <td>Ocooker Water Purifier</td>
       <td>xckj.waterpuri.ihwp01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2429</th>
+      <th>2430</th>
       <td><img src="./assets/icons/raw/tokit.waterpuri.tkj1.png"></td>
       <td>TOKIT Smart Water Purifier 600G</td>
       <td>tokit.waterpuri.tkj1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2430</th>
+      <th>2431</th>
       <td><img src="./assets/icons/raw/ydzl.waterpuri.t1.png"></td>
       <td>Uodi Cuber</td>
       <td>ydzl.waterpuri.t1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2431</th>
+      <th>2432</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.x7.png"></td>
       <td>Viomi 1sec Instant Water Heating Purifier X1</td>
       <td>yunmi.waterpuri.x7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2432</th>
+      <th>2433</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.x2.png"></td>
       <td>Viomi 1sec instant Water Heating Purifier X3 (Premium Version)</td>
       <td>yunmi.waterpuri.x2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2433</th>
+      <th>2434</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.f1.png"></td>
       <td>Viomi Smart Water Purifier Fast3 (400G W)</td>
       <td>yunmi.waterpuri.f1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2434</th>
+      <th>2435</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.f2.png"></td>
       <td>Viomi Smart Water Purifier Fast3 (600G W)</td>
       <td>yunmi.waterpuri.f2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2435</th>
+      <th>2436</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.f3.png"></td>
       <td>Viomi Smart Water Purifier Fast3 (800G W)</td>
       <td>yunmi.waterpuri.f3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2436</th>
+      <th>2437</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s11.png"></td>
       <td>Viomi Smart Water purifier Blues (400G)</td>
       <td>yunmi.waterpuri.s11</td>
       <td></td>
     </tr>
     <tr>
-      <th>2437</th>
+      <th>2438</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s12.png"></td>
       <td>Viomi Smart Water purifier Blues (600G)</td>
       <td>yunmi.waterpuri.s12</td>
       <td></td>
     </tr>
     <tr>
-      <th>2438</th>
+      <th>2439</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.f4.png"></td>
       <td>Viomi Smart Water purifier Easy3 (400G)</td>
       <td>yunmi.waterpuri.f4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2439</th>
+      <th>2440</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.f5.png"></td>
       <td>Viomi Smart Water purifier Easy3 (600G)</td>
       <td>yunmi.waterpuri.f5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2440</th>
+      <th>2441</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.f6.png"></td>
       <td>Viomi Smart Water purifier Easy3 (800G)</td>
       <td>yunmi.waterpuri.f6</td>
       <td></td>
     </tr>
     <tr>
-      <th>2441</th>
+      <th>2442</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.x9.png"></td>
       <td>Viomi heating water purifier X2 Face</td>
       <td>yunmi.waterpuri.x9</td>
       <td></td>
     </tr>
     <tr>
-      <th>2442</th>
+      <th>2443</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.mg5.png"></td>
       <td>Viomi instant heat pipeline machine (MG2-A)</td>
       <td>yunmi.waterpuri.mg5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2443</th>
+      <th>2444</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.x8.png"></td>
       <td>Viomi protable heating water purifier X2</td>
       <td>yunmi.waterpuri.x8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2444</th>
+      <th>2445</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.c5.png"></td>
       <td>Viomi smart water purifier C1 (500G)</td>
       <td>yunmi.waterpuri.c5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2445</th>
+      <th>2446</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s4.png"></td>
       <td>Viomi smart water purifier S2 (500G)</td>
       <td>yunmi.waterpuri.s4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2446</th>
+      <th>2447</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s5.png"></td>
       <td>Viomi smart water purifier S2 (600G)</td>
       <td>yunmi.waterpuri.s5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2447</th>
+      <th>2448</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s3.png"></td>
       <td>Viomi smart water purifier SE (400G)</td>
       <td>yunmi.waterpuri.s3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2448</th>
+      <th>2449</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s9.png"></td>
       <td>Viomi water purifier super 1000G</td>
       <td>yunmi.waterpuri.s9</td>
       <td></td>
     </tr>
     <tr>
-      <th>2449</th>
+      <th>2450</th>
       <td><img src="./assets/icons/raw/creiot.waterpuri.w06i.png"></td>
       <td>Water Purifier</td>
       <td>creiot.waterpuri.w06i</td>
       <td></td>
     </tr>
     <tr>
-      <th>2450</th>
+      <th>2451</th>
       <td><img src="./assets/icons/raw/lxk.waterpuri.jsq.png"></td>
       <td>Water Purifier</td>
       <td>lxk.waterpuri.jsq</td>
       <td></td>
     </tr>
     <tr>
-      <th>2451</th>
+      <th>2452</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s14.png"></td>
       <td>Yunmi Quanxian Internet Water Purifier Xiaobailong 600G</td>
       <td>yunmi.waterpuri.s14</td>
       <td></td>
     </tr>
     <tr>
-      <th>2452</th>
+      <th>2453</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.f7.png"></td>
       <td>viomi smart water purifier Fast3 1000G</td>
       <td>yunmi.waterpuri.f7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2453</th>
+      <th>2454</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s17.png"></td>
       <td>viomi smart water purifier Fast3 800G</td>
       <td>yunmi.waterpuri.s17</td>
       <td></td>
     </tr>
     <tr>
-      <th>2454</th>
+      <th>2455</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s18.png"></td>
       <td>viomi smart water purifier Mee 600G</td>
       <td>yunmi.waterpuri.s18</td>
       <td></td>
     </tr>
     <tr>
-      <th>2455</th>
+      <th>2456</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.f8.png"></td>
       <td>viomi smart water purifier Surging 1000G</td>
       <td>yunmi.waterpuri.f8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2456</th>
+      <th>2457</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s15.png"></td>
       <td>viomi smart water purifier dolphin 400G</td>
       <td>yunmi.waterpuri.s15</td>
       <td></td>
     </tr>
     <tr>
-      <th>2457</th>
+      <th>2458</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s16.png"></td>
       <td>viomi smart water purifier dolphin 600G</td>
       <td>yunmi.waterpuri.s16</td>
       <td></td>
     </tr>
     <tr>
-      <th>2458</th>
+      <th>2459</th>
       <td><img src="./assets/icons/raw/yunmi.waterpuri.s10.png"></td>
       <td>viomi water purifier super 1200G</td>
       <td>yunmi.waterpuri.s10</td>
@@ -18395,161 +18402,161 @@
   </thead>
   <tbody>
     <tr>
-      <th>2459</th>
+      <th>2460</th>
       <td><img src="./assets/icons/raw/roome.bhf_light.1036f.png"></td>
       <td>ARROW Smart Bath-Heater X1</td>
       <td>roome.bhf_light.1036f</td>
       <td></td>
     </tr>
     <tr>
-      <th>2460</th>
+      <th>2461</th>
       <td><img src="./assets/icons/raw/roome.bhf_light.1037fx.png"></td>
       <td>ARROW Smart Bath-Heater X2</td>
       <td>roome.bhf_light.1037fx</td>
       <td></td>
     </tr>
     <tr>
-      <th>2461</th>
+      <th>2462</th>
       <td><img src="./assets/icons/raw/gmn.bhf_light.yb1.png"></td>
       <td>Gomani bath heater</td>
       <td>gmn.bhf_light.yb1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2462</th>
+      <th>2463</th>
       <td><img src="./assets/icons/raw/huayi.bhf_light.libra.png"></td>
       <td>HUIZUO LIBRA BATH HEATER Pro</td>
       <td>huayi.bhf_light.libra</td>
       <td></td>
     </tr>
     <tr>
-      <th>2463</th>
+      <th>2464</th>
       <td><img src="./assets/icons/raw/roome.bhf_light.yf6002.png"></td>
       <td>M-YF6002 Smart Bathroom Heater</td>
       <td>roome.bhf_light.yf6002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2464</th>
+      <th>2465</th>
       <td><img src="./assets/icons/raw/roome.bhf_light.yf6004.png"></td>
       <td>M-YF6002A Smart Bathroom Heater</td>
       <td>roome.bhf_light.yf6004</td>
       <td></td>
     </tr>
     <tr>
-      <th>2465</th>
+      <th>2466</th>
       <td><img src="./assets/icons/raw/roome.bhf_light.yf6005.png"></td>
       <td>M-YF6003 SmartBathHeater</td>
       <td>roome.bhf_light.yf6005</td>
       <td></td>
     </tr>
     <tr>
-      <th>2466</th>
+      <th>2467</th>
       <td><img src="./assets/icons/raw/yeelink.bhf_light.v5.png"></td>
       <td>Mi Smart Bathroom Heater Pro</td>
       <td>yeelink.bhf_light.v5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2467</th>
+      <th>2468</th>
       <td><img src="./assets/icons/raw/leishi.bhf_light.yuba02.png"></td>
       <td>NVC Smart Bath-Heater</td>
       <td>leishi.bhf_light.yuba02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2468</th>
+      <th>2469</th>
       <td><img src="./assets/icons/raw/opple.bhf_light.acmoto.png"></td>
       <td>Opple Bath Heater</td>
       <td>opple.bhf_light.acmoto</td>
       <td></td>
     </tr>
     <tr>
-      <th>2469</th>
+      <th>2470</th>
       <td><img src="./assets/icons/raw/opple.bhf_light.dcmoto.png"></td>
       <td>Opple Bath Heater</td>
       <td>opple.bhf_light.dcmoto</td>
       <td></td>
     </tr>
     <tr>
-      <th>2470</th>
+      <th>2471</th>
       <td><img src="./assets/icons/raw/qike.bhf_light.qk201801.png"></td>
       <td>Smart Bath (Basic)</td>
       <td>qike.bhf_light.qk201801</td>
       <td></td>
     </tr>
     <tr>
-      <th>2471</th>
+      <th>2472</th>
       <td><img src="./assets/icons/raw/orz.bhf_light.bh02.png"></td>
       <td>Ultron Yuba Panel</td>
       <td>orz.bhf_light.bh02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2472</th>
+      <th>2473</th>
       <td><img src="./assets/icons/raw/orz.bhf_light.bh03.png"></td>
       <td>Ultron Yuba Panel</td>
       <td>orz.bhf_light.bh03</td>
       <td></td>
     </tr>
     <tr>
-      <th>2473</th>
+      <th>2474</th>
       <td><img src="./assets/icons/raw/viomi.bhf_light.v6.png"></td>
       <td>Viomi Smart Bath Heater (Dinuclear version)</td>
       <td>viomi.bhf_light.v6</td>
       <td></td>
     </tr>
     <tr>
-      <th>2474</th>
+      <th>2475</th>
       <td><img src="./assets/icons/raw/viomi.bhf_light.v1.png"></td>
       <td>Viomi Smart Bath Heater (Touch Version)</td>
       <td>viomi.bhf_light.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2475</th>
+      <th>2476</th>
       <td><img src="./assets/icons/raw/viomi.bhf_light.v4.png"></td>
       <td>Viomi Smart Bath Heater A1</td>
       <td>viomi.bhf_light.v4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2476</th>
+      <th>2477</th>
       <td><img src="./assets/icons/raw/viomi.bhf_light.v3.png"></td>
       <td>Viomi Smart Bath Heater PRO</td>
       <td>viomi.bhf_light.v3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2477</th>
+      <th>2478</th>
       <td><img src="./assets/icons/raw/yeelink.bhf_light.v2.png"></td>
       <td>Yeelight Smart Bath Heater</td>
       <td>yeelink.bhf_light.v2</td>
       <td>YLYB01YL</td>
     </tr>
     <tr>
-      <th>2478</th>
+      <th>2479</th>
       <td><img src="./assets/icons/raw/yeelink.bhf_light.v3.png"></td>
       <td>Yeelight Smart Bath Heater Duo</td>
       <td>yeelink.bhf_light.v3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2479</th>
+      <th>2480</th>
       <td><img src="./assets/icons/raw/yeelink.bhf_light.v1.png"></td>
       <td>Yeelight Smart Bath Heater Pro</td>
       <td>yeelink.bhf_light.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2480</th>
+      <th>2481</th>
       <td><img src="./assets/icons/raw/yeelink.bhf_light.v6.png"></td>
       <td>Yeelight Smart Bathroom Heater S20</td>
       <td>yeelink.bhf_light.v6</td>
       <td></td>
     </tr>
     <tr>
-      <th>2481</th>
+      <th>2482</th>
       <td><img src="./assets/icons/raw/xinzhi.bhf_light.zhyb01.png"></td>
       <td>intelligence bath heater</td>
       <td>xinzhi.bhf_light.zhyb01</td>
@@ -18571,21 +18578,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2482</th>
+      <th>2483</th>
       <td><img src="./assets/icons/raw/chunmi.juicer.a1.png"></td>
       <td>Mi High-speed Smart Blender</td>
       <td>chunmi.juicer.a1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2483</th>
+      <th>2484</th>
       <td><img src="./assets/icons/raw/viomi.juicer.v1.png"></td>
       <td>Mi High-speed Smart Blender</td>
       <td>viomi.juicer.v1</td>
       <td>MJPBJ01YM</td>
     </tr>
     <tr>
-      <th>2484</th>
+      <th>2485</th>
       <td><img src="./assets/icons/raw/viomi.juicer.v2.png"></td>
       <td>Viomi High Speed Blender (Quiet Version)</td>
       <td>viomi.juicer.v2</td>
@@ -18607,56 +18614,56 @@
   </thead>
   <tbody>
     <tr>
-      <th>2485</th>
+      <th>2486</th>
       <td><img src="./assets/icons/raw/bdx.i_stove.a1z.png"></td>
       <td>BIGDIPPER Internet Integrated Cooker Appliance ( A1/C2 steam box)</td>
       <td>bdx.i_stove.a1z</td>
       <td></td>
     </tr>
     <tr>
-      <th>2486</th>
+      <th>2487</th>
       <td><img src="./assets/icons/raw/bdx.i_stove.c1x.png"></td>
       <td>BIGDIPPER Internet Integrated Cooker Appliance (C1 disinfection cabinet)</td>
       <td>bdx.i_stove.c1x</td>
       <td></td>
     </tr>
     <tr>
-      <th>2487</th>
+      <th>2488</th>
       <td><img src="./assets/icons/raw/bdx.i_stove.c2x.png"></td>
       <td>BIGDIPPER Internet Integrated Cooker Appliance (C2 disinfection cabinet)</td>
       <td>bdx.i_stove.c2x</td>
       <td></td>
     </tr>
     <tr>
-      <th>2488</th>
+      <th>2489</th>
       <td><img src="./assets/icons/raw/bdx.i_stove.a1xs.png"></td>
       <td>BIGDIPPER Internet Integrated Cooker Appliance (model S of A1 disinfection cabinet)</td>
       <td>bdx.i_stove.a1xs</td>
       <td></td>
     </tr>
     <tr>
-      <th>2489</th>
+      <th>2490</th>
       <td><img src="./assets/icons/raw/viomi.i_stove.v1.png"></td>
       <td>Viomi Smart Integrated Stove</td>
       <td>viomi.i_stove.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2490</th>
+      <th>2491</th>
       <td><img src="./assets/icons/raw/viomi.i_stove.v3.png"></td>
       <td>Viomi Smart Integrated Stove</td>
       <td>viomi.i_stove.v3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2491</th>
+      <th>2492</th>
       <td><img src="./assets/icons/raw/viomi.i_stove.v4.png"></td>
       <td>Viomi smart integrated cooker (2 in 1)</td>
       <td>viomi.i_stove.v4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2492</th>
+      <th>2493</th>
       <td><img src="./assets/icons/raw/viomi.i_stove.v5.png"></td>
       <td>Viomi smart steaming oven</td>
       <td>viomi.i_stove.v5</td>
@@ -18678,7 +18685,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2493</th>
+      <th>2494</th>
       <td><img src="./assets/icons/raw/huoman.litter_box.co1.png"></td>
       <td>CO1</td>
       <td>huoman.litter_box.co1</td>
@@ -18700,7 +18707,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2494</th>
+      <th>2495</th>
       <td><img src="./assets/icons/raw/doco.fcb.docov001.png"></td>
       <td>DOCO</td>
       <td>doco.fcb.docov001</td>
@@ -18722,21 +18729,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2495</th>
+      <th>2496</th>
       <td><img src="./assets/icons/raw/coc.dryer.fdpsm.png"></td>
       <td>Qingting Smart Portable Clothes Dryer</td>
       <td>coc.dryer.fdpsm</td>
       <td></td>
     </tr>
     <tr>
-      <th>2496</th>
+      <th>2497</th>
       <td><img src="./assets/icons/raw/htwl.dryer.v1.png"></td>
       <td>Shoes dryer</td>
       <td>htwl.dryer.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2497</th>
+      <th>2498</th>
       <td><img src="./assets/icons/raw/huachu.dryer.xqd100.png"></td>
       <td>Smart clothing</td>
       <td>huachu.dryer.xqd100</td>
@@ -18758,371 +18765,371 @@
   </thead>
   <tbody>
     <tr>
-      <th>2498</th>
+      <th>2499</th>
       <td><img src="./assets/icons/raw/babai.airer.lyj01.png"></td>
       <td>Ai Smart Airer</td>
       <td>babai.airer.lyj01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2499</th>
+      <th>2500</th>
       <td><img src="./assets/icons/raw/beihao.airer.lyj08.png"></td>
       <td>Ai Smart Clothes Dryer</td>
       <td>beihao.airer.lyj08</td>
       <td></td>
     </tr>
     <tr>
-      <th>2500</th>
+      <th>2501</th>
       <td><img src="./assets/icons/raw/feibit.airer.lch01sd.png"></td>
       <td>Airer</td>
       <td>feibit.airer.lch01sd</td>
       <td></td>
     </tr>
     <tr>
-      <th>2501</th>
+      <th>2502</th>
       <td><img src="./assets/icons/raw/orz.airer.hanger.png"></td>
       <td>Altron drying rack</td>
       <td>orz.airer.hanger</td>
       <td></td>
     </tr>
     <tr>
-      <th>2502</th>
+      <th>2503</th>
       <td><img src="./assets/icons/raw/lumi.airer.acn01.png"></td>
       <td>Aqara Smart Clothes Drying Rack</td>
       <td>lumi.airer.acn01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2503</th>
+      <th>2504</th>
       <td><img src="./assets/icons/raw/lumi.airer.acn02.png"></td>
       <td>Aqara Smart Clothes Drying Rack Lite</td>
       <td>lumi.airer.acn02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2504</th>
+      <th>2505</th>
       <td><img src="./assets/icons/raw/bangbo.airer.x3xhqm.png"></td>
       <td>Benoson</td>
       <td>bangbo.airer.x3xhqm</td>
       <td></td>
     </tr>
     <tr>
-      <th>2505</th>
+      <th>2506</th>
       <td><img src="./assets/icons/raw/kejia.airer.krq.png"></td>
       <td>COURAGE Smart Airer</td>
       <td>kejia.airer.krq</td>
       <td></td>
     </tr>
     <tr>
-      <th>2506</th>
+      <th>2507</th>
       <td><img src="./assets/icons/raw/lbest.airer.lm01.png"></td>
       <td>Clothes Drying Rack</td>
       <td>lbest.airer.lm01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2507</th>
+      <th>2508</th>
       <td><img src="./assets/icons/raw/bangbo.airer.c3xhqm.png"></td>
       <td>Color charm C</td>
       <td>bangbo.airer.c3xhqm</td>
       <td></td>
     </tr>
     <tr>
-      <th>2508</th>
+      <th>2509</th>
       <td><img src="./assets/icons/raw/kejia.airer.krqpro.png"></td>
       <td>Courage Smart AirerPRO</td>
       <td>kejia.airer.krqpro</td>
       <td></td>
     </tr>
     <tr>
-      <th>2509</th>
+      <th>2510</th>
       <td><img src="./assets/icons/raw/cgzn.airer.airer.png"></td>
       <td>Drying rack</td>
       <td>cgzn.airer.airer</td>
       <td></td>
     </tr>
     <tr>
-      <th>2510</th>
+      <th>2511</th>
       <td><img src="./assets/icons/raw/tuya.airer.tyarr1.png"></td>
       <td>Drying rack</td>
       <td>tuya.airer.tyarr1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2511</th>
+      <th>2512</th>
       <td><img src="./assets/icons/raw/tuya.airer.tyarr2.png"></td>
       <td>Drying rack</td>
       <td>tuya.airer.tyarr2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2512</th>
+      <th>2513</th>
       <td><img src="./assets/icons/raw/xzh.airer.airer.png"></td>
       <td>Drying rack</td>
       <td>xzh.airer.airer</td>
       <td></td>
     </tr>
     <tr>
-      <th>2513</th>
+      <th>2514</th>
       <td><img src="./assets/icons/raw/kejia.airer.jjs.png"></td>
       <td>GARJOSS Smart Airer</td>
       <td>kejia.airer.jjs</td>
       <td></td>
     </tr>
     <tr>
-      <th>2514</th>
+      <th>2515</th>
       <td><img src="./assets/icons/raw/micoe.airer.hz003z.png"></td>
       <td>Galaxy series -003 (Lighting flagship)</td>
       <td>micoe.airer.hz003z</td>
       <td></td>
     </tr>
     <tr>
-      <th>2515</th>
+      <th>2516</th>
       <td><img src="./assets/icons/raw/micoe.airer.hz003h.png"></td>
       <td>Galaxy series -003 (drying flagship)</td>
       <td>micoe.airer.hz003h</td>
       <td></td>
     </tr>
     <tr>
-      <th>2516</th>
+      <th>2517</th>
       <td><img src="./assets/icons/raw/hotata.airer.gw1813.png"></td>
       <td>Good wife smart washing machine</td>
       <td>hotata.airer.gw1813</td>
       <td></td>
     </tr>
     <tr>
-      <th>2517</th>
+      <th>2518</th>
       <td><img src="./assets/icons/raw/bangbo.airer.x5xhqm.png"></td>
       <td>Heichuang intelligent clothes drying machine</td>
       <td>bangbo.airer.x5xhqm</td>
       <td></td>
     </tr>
     <tr>
-      <th>2518</th>
+      <th>2519</th>
       <td><img src="./assets/icons/raw/babai.airer.hc01b.png"></td>
       <td>Hrlchure Intelligent Drying Rack s63</td>
       <td>babai.airer.hc01b</td>
       <td></td>
     </tr>
     <tr>
-      <th>2519</th>
+      <th>2520</th>
       <td><img src="./assets/icons/raw/beihao.airer.l9xf.png"></td>
       <td>JIajueshi clothes-horse</td>
       <td>beihao.airer.l9xf</td>
       <td></td>
     </tr>
     <tr>
-      <th>2520</th>
+      <th>2521</th>
       <td><img src="./assets/icons/raw/nbczwl.airer.kfe01.png"></td>
       <td>KFE</td>
       <td>nbczwl.airer.kfe01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2521</th>
+      <th>2522</th>
       <td><img src="./assets/icons/raw/beihao.airer.bd.png"></td>
       <td>Lanyou clothes-horse</td>
       <td>beihao.airer.bd</td>
       <td></td>
     </tr>
     <tr>
-      <th>2522</th>
+      <th>2523</th>
       <td><img src="./assets/icons/raw/beihao.airer.l9.png"></td>
       <td>Lisheng clothes-horse</td>
       <td>beihao.airer.l9</td>
       <td></td>
     </tr>
     <tr>
-      <th>2523</th>
+      <th>2524</th>
       <td><img src="./assets/icons/raw/hyd.airer.znlyj1.png"></td>
       <td>MI Home smart clothes dryer</td>
       <td>hyd.airer.znlyj1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2524</th>
+      <th>2525</th>
       <td><img src="./assets/icons/raw/kejia.airer.mzn.png"></td>
       <td>MI Smart·Electric Airer</td>
       <td>kejia.airer.mzn</td>
       <td></td>
     </tr>
     <tr>
-      <th>2525</th>
+      <th>2526</th>
       <td><img src="./assets/icons/raw/mrbond.airer.m0.png"></td>
       <td>MR.BOND</td>
       <td>mrbond.airer.m0</td>
       <td></td>
     </tr>
     <tr>
-      <th>2526</th>
+      <th>2527</th>
       <td><img src="./assets/icons/raw/mrbond.airer.m1pro.png"></td>
       <td>MR.BOND</td>
       <td>mrbond.airer.m1pro</td>
       <td></td>
     </tr>
     <tr>
-      <th>2527</th>
+      <th>2528</th>
       <td><img src="./assets/icons/raw/mrbond.airer.m1s.png"></td>
       <td>MR.BOND</td>
       <td>mrbond.airer.m1s</td>
       <td></td>
     </tr>
     <tr>
-      <th>2528</th>
+      <th>2529</th>
       <td><img src="./assets/icons/raw/mrbond.airer.m1super.png"></td>
       <td>MR.BOND</td>
       <td>mrbond.airer.m1super</td>
       <td></td>
     </tr>
     <tr>
-      <th>2529</th>
+      <th>2530</th>
       <td><img src="./assets/icons/raw/mrbond.airer.m2.png"></td>
       <td>MR.BOND</td>
       <td>mrbond.airer.m2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2530</th>
+      <th>2531</th>
       <td><img src="./assets/icons/raw/mrbond.airer.m2pro.png"></td>
       <td>MR.BOND</td>
       <td>mrbond.airer.m2pro</td>
       <td></td>
     </tr>
     <tr>
-      <th>2531</th>
+      <th>2532</th>
       <td><img src="./assets/icons/raw/bangbo.airer.y6.png"></td>
       <td>Mans Cooper</td>
       <td>bangbo.airer.y6</td>
       <td></td>
     </tr>
     <tr>
-      <th>2532</th>
+      <th>2533</th>
       <td><img src="./assets/icons/raw/mskub.airer.k6.png"></td>
       <td>Manskubo K model smart clothes dryer</td>
       <td>mskub.airer.k6</td>
       <td></td>
     </tr>
     <tr>
-      <th>2533</th>
+      <th>2534</th>
       <td><img src="./assets/icons/raw/kejia.airer.mznpro.png"></td>
       <td>Mi Smart AirerPRO</td>
       <td>kejia.airer.mznpro</td>
       <td></td>
     </tr>
     <tr>
-      <th>2534</th>
+      <th>2535</th>
       <td><img src="./assets/icons/raw/micoe.airer.hz001h.png"></td>
       <td>Mocie Mies 10 Pro- Drying Style</td>
       <td>micoe.airer.hz001h</td>
       <td></td>
     </tr>
     <tr>
-      <th>2535</th>
+      <th>2536</th>
       <td><img src="./assets/icons/raw/micoe.airer.hz001z.png"></td>
       <td>Mocie Mies 10S lighting</td>
       <td>micoe.airer.hz001z</td>
       <td></td>
     </tr>
     <tr>
-      <th>2536</th>
+      <th>2537</th>
       <td><img src="./assets/icons/raw/mrbond.airer.c1x.png"></td>
       <td>MrBond smart clothes dryer</td>
       <td>mrbond.airer.c1x</td>
       <td></td>
     </tr>
     <tr>
-      <th>2537</th>
+      <th>2538</th>
       <td><img src="./assets/icons/raw/mrbond.airer.m1t.png"></td>
       <td>MrBond smart clothes dryer</td>
       <td>mrbond.airer.m1t</td>
       <td></td>
     </tr>
     <tr>
-      <th>2538</th>
+      <th>2539</th>
       <td><img src="./assets/icons/raw/mrbond.airer.m1tpro.png"></td>
       <td>MrBond smart clothes dryer</td>
       <td>mrbond.airer.m1tpro</td>
       <td></td>
     </tr>
     <tr>
-      <th>2539</th>
+      <th>2540</th>
       <td><img src="./assets/icons/raw/mrbond.airer.m31a.png"></td>
       <td>MrBond smart clothes dryer-Simple2</td>
       <td>mrbond.airer.m31a</td>
       <td></td>
     </tr>
     <tr>
-      <th>2540</th>
+      <th>2541</th>
       <td><img src="./assets/icons/raw/mrbond.airer.m31c.png"></td>
       <td>MrBond smart clothes dryer-UV2</td>
       <td>mrbond.airer.m31c</td>
       <td></td>
     </tr>
     <tr>
-      <th>2541</th>
+      <th>2542</th>
       <td><img src="./assets/icons/raw/dooya.airer.mjlyj.png"></td>
       <td>PanPan Smart Clothes Rack</td>
       <td>dooya.airer.mjlyj</td>
       <td></td>
     </tr>
     <tr>
-      <th>2542</th>
+      <th>2543</th>
       <td><img src="./assets/icons/raw/micoe.airer.hz002h.png"></td>
       <td>Rise10 Mix- Ring pole retainer (drying flagship)</td>
       <td>micoe.airer.hz002h</td>
       <td></td>
     </tr>
     <tr>
-      <th>2543</th>
+      <th>2544</th>
       <td><img src="./assets/icons/raw/micoe.airer.hz002x.png"></td>
       <td>Rise10- Ring pole rod (Sterilizing & Body sensing lamp)</td>
       <td>micoe.airer.hz002x</td>
       <td></td>
     </tr>
     <tr>
-      <th>2544</th>
+      <th>2545</th>
       <td><img src="./assets/icons/raw/nbczwl.airer.airer.png"></td>
       <td>Smart Airer</td>
       <td>nbczwl.airer.airer</td>
       <td></td>
     </tr>
     <tr>
-      <th>2545</th>
+      <th>2546</th>
       <td><img src="./assets/icons/raw/kejia.airer.th001.png"></td>
       <td>Smart drying rack</td>
       <td>kejia.airer.th001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2546</th>
+      <th>2547</th>
       <td><img src="./assets/icons/raw/viomi.airer.ich108.png"></td>
       <td>Viomi electric drying rack Lite 1C</td>
       <td>viomi.airer.ich108</td>
       <td></td>
     </tr>
     <tr>
-      <th>2547</th>
+      <th>2548</th>
       <td><img src="./assets/icons/raw/yonsz.airer.0.png"></td>
       <td>Washing machine</td>
       <td>yonsz.airer.0</td>
       <td></td>
     </tr>
     <tr>
-      <th>2548</th>
+      <th>2549</th>
       <td><img src="./assets/icons/raw/nbczwl.airer.zbs01.png"></td>
       <td>ZBS</td>
       <td>nbczwl.airer.zbs01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2549</th>
+      <th>2550</th>
       <td><img src="./assets/icons/raw/syniot.airer.l2.png"></td>
       <td>smart airer</td>
       <td>syniot.airer.l2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2550</th>
+      <th>2551</th>
       <td><img src="./assets/icons/raw/beihao.airer.airer3.png"></td>
       <td>xiangyang clothes-horse</td>
       <td>beihao.airer.airer3</td>
@@ -19144,63 +19151,63 @@
   </thead>
   <tbody>
     <tr>
-      <th>2551</th>
+      <th>2552</th>
       <td><img src="./assets/icons/raw/dctrls.derh.common.png"></td>
       <td>Dehumidifier</td>
       <td>dctrls.derh.common</td>
       <td></td>
     </tr>
     <tr>
-      <th>2552</th>
+      <th>2553</th>
       <td><img src="./assets/icons/raw/deye.derh.u20a3.png"></td>
       <td>Deye dehumidifier</td>
       <td>deye.derh.u20a3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2553</th>
+      <th>2554</th>
       <td><img src="./assets/icons/raw/deye.derh.z12a3.png"></td>
       <td>Deye dehumidifier</td>
       <td>deye.derh.z12a3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2554</th>
+      <th>2555</th>
       <td><img src="./assets/icons/raw/nwt.derh.312en.png"></td>
       <td>NEW WIDETECH Internet Dehumidifier 12L</td>
       <td>nwt.derh.312en</td>
       <td>WDH312ENW1</td>
     </tr>
     <tr>
-      <th>2555</th>
+      <th>2556</th>
       <td><img src="./assets/icons/raw/nwt.derh.wdh318efw1.png"></td>
       <td>NWT Internet Dehumidifier</td>
       <td>nwt.derh.wdh318efw1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2556</th>
+      <th>2557</th>
       <td><img src="./assets/icons/raw/nwt.derh.330ef.png"></td>
       <td>NWT Internet Dehumidifier 30L</td>
       <td>nwt.derh.330ef</td>
       <td></td>
     </tr>
     <tr>
-      <th>2557</th>
+      <th>2558</th>
       <td><img src="./assets/icons/raw/purest.derh.bossp1.png"></td>
       <td>Pulishi Intelligent Dehumidifying Clothes Dryer</td>
       <td>purest.derh.bossp1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2558</th>
+      <th>2559</th>
       <td><img src="./assets/icons/raw/purest.derh.bossp.png"></td>
       <td>Pulishi Smart Dehumidifier Clothes Dryer</td>
       <td>purest.derh.bossp</td>
       <td></td>
     </tr>
     <tr>
-      <th>2559</th>
+      <th>2560</th>
       <td><img src="./assets/icons/raw/giz.derh.csj001.png"></td>
       <td>dehumidifier</td>
       <td>giz.derh.csj001</td>
@@ -19222,84 +19229,84 @@
   </thead>
   <tbody>
     <tr>
-      <th>2560</th>
+      <th>2561</th>
       <td><img src="./assets/icons/raw/viomi.dishwasher.m01.png"></td>
       <td>Mi Smart Built-in Dishwasher (8 Dining Sets)</td>
       <td>viomi.dishwasher.m01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2561</th>
+      <th>2562</th>
       <td><img src="./assets/icons/raw/viomi.dishwasher.m02.png"></td>
       <td>Mi Smart Dishwasher (4 Dining Sets)</td>
       <td>viomi.dishwasher.m02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2562</th>
+      <th>2563</th>
       <td><img src="./assets/icons/raw/xckj.dishwasher.idw01.png"></td>
       <td>Ocooker The Dishwasher</td>
       <td>xckj.dishwasher.idw01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2563</th>
+      <th>2564</th>
       <td><img src="./assets/icons/raw/zjyg.dishwasher.zzy01.png"></td>
       <td>Smart washing dishwasher</td>
       <td>zjyg.dishwasher.zzy01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2564</th>
+      <th>2565</th>
       <td><img src="./assets/icons/raw/viomi.dishwasher.v01.png"></td>
       <td>Viomi Dishwasher</td>
       <td>viomi.dishwasher.v01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2565</th>
+      <th>2566</th>
       <td><img src="./assets/icons/raw/viomi.dishwasher.v06.png"></td>
       <td>Viomi Smart Built-in Dishwasher</td>
       <td>viomi.dishwasher.v06</td>
       <td></td>
     </tr>
     <tr>
-      <th>2566</th>
+      <th>2567</th>
       <td><img src="./assets/icons/raw/viomi.dishwasher.v03.png"></td>
       <td>Viomi Smart Dish Washer (Build-in)</td>
       <td>viomi.dishwasher.v03</td>
       <td></td>
     </tr>
     <tr>
-      <th>2567</th>
+      <th>2568</th>
       <td><img src="./assets/icons/raw/viomi.dishwasher.v07.png"></td>
       <td>Viomi Smart Protable dishwasher</td>
       <td>viomi.dishwasher.v07</td>
       <td></td>
     </tr>
     <tr>
-      <th>2568</th>
+      <th>2569</th>
       <td><img src="./assets/icons/raw/viomi.dishwasher.v09.png"></td>
       <td>Viomi Smart dishwahser 4 settings 0402</td>
       <td>viomi.dishwasher.v09</td>
       <td></td>
     </tr>
     <tr>
-      <th>2569</th>
+      <th>2570</th>
       <td><img src="./assets/icons/raw/viomi.dishwasher.v08.png"></td>
       <td>Viomi Smart dishwahser 8 settings 0803A</td>
       <td>viomi.dishwasher.v08</td>
       <td></td>
     </tr>
     <tr>
-      <th>2570</th>
+      <th>2571</th>
       <td><img src="./assets/icons/raw/viomi.dishwasher.v05.png"></td>
       <td>Viomi Smart sink dishwasher</td>
       <td>viomi.dishwasher.v05</td>
       <td></td>
     </tr>
     <tr>
-      <th>2571</th>
+      <th>2572</th>
       <td><img src="./assets/icons/raw/viomi.dishwasher.v12.png"></td>
       <td>viomi smart dishwasher 8 settings 0803B</td>
       <td>viomi.dishwasher.v12</td>
@@ -19321,14 +19328,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2572</th>
+      <th>2573</th>
       <td><img src="./assets/icons/raw/uvfive.steriliser.tiger.png"></td>
       <td>FIVE sterilization rack</td>
       <td>uvfive.steriliser.tiger</td>
       <td></td>
     </tr>
     <tr>
-      <th>2573</th>
+      <th>2574</th>
       <td><img src="./assets/icons/raw/viomi.steriliser.v1.png"></td>
       <td>Viomi Disinfection Cabinet (Build-in)</td>
       <td>viomi.steriliser.v1</td>
@@ -19350,7 +19357,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2574</th>
+      <th>2575</th>
       <td><img src="./assets/icons/raw/linp.doorbell.g03.png"></td>
       <td>Self-Powered Wirelss Doorbell</td>
       <td>linp.doorbell.g03</td>
@@ -19372,56 +19379,56 @@
   </thead>
   <tbody>
     <tr>
-      <th>2575</th>
+      <th>2576</th>
       <td><img src="./assets/icons/raw/smith.blanket.cxma1.png"></td>
       <td>Chanitex Water-heated mattress CXM-A1</td>
       <td>smith.blanket.cxma1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2576</th>
+      <th>2577</th>
       <td><img src="./assets/icons/raw/sxds.blanket.jssn01.png"></td>
       <td>JESIF Smart Plumbing Mattress (double)</td>
       <td>sxds.blanket.jssn01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2577</th>
+      <th>2578</th>
       <td><img src="./assets/icons/raw/sxds.blanket.jssncd.png"></td>
       <td>JESIF Smart Plumbing Mattress (single)</td>
       <td>sxds.blanket.jssncd</td>
       <td></td>
     </tr>
     <tr>
-      <th>2578</th>
+      <th>2579</th>
       <td><img src="./assets/icons/raw/isleep.blanket.hs2001.png"></td>
       <td>LETSLEEP Water Heating Mattress HS2001</td>
       <td>isleep.blanket.hs2001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2579</th>
+      <th>2580</th>
       <td><img src="./assets/icons/raw/xinyue.blanket.n1918.png"></td>
       <td>Letsleep one click smart aqua-heat mattress</td>
       <td>xinyue.blanket.n1918</td>
       <td></td>
     </tr>
     <tr>
-      <th>2580</th>
+      <th>2581</th>
       <td><img src="./assets/icons/raw/miaomiaoce.blanket.d02.png"></td>
       <td>Smart Low Voltage Blanket Double</td>
       <td>miaomiaoce.blanket.d02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2581</th>
+      <th>2582</th>
       <td><img src="./assets/icons/raw/miaomiaoce.blanket.s02.png"></td>
       <td>Smart Low Voltage Blanket Single</td>
       <td>miaomiaoce.blanket.s02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2582</th>
+      <th>2583</th>
       <td><img src="./assets/icons/raw/hddz.blanket.zndrt.png"></td>
       <td>Smart electric blanket</td>
       <td>hddz.blanket.zndrt</td>
@@ -19443,14 +19450,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2583</th>
+      <th>2584</th>
       <td><img src="./assets/icons/raw/cchome.tow_w.wyj001.png"></td>
       <td>Bathroom Rack</td>
       <td>cchome.tow_w.wyj001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2584</th>
+      <th>2585</th>
       <td><img src="./assets/icons/raw/ows.towel_w.mj1x0.png"></td>
       <td>Intelligent electric heating towel rack</td>
       <td>ows.towel_w.mj1x0</td>
@@ -19472,7 +19479,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2585</th>
+      <th>2586</th>
       <td><img src="./assets/icons/raw/hhcc.bleflowerpot.v2.png"></td>
       <td>Ropot</td>
       <td>hhcc.bleflowerpot.v2</td>
@@ -19494,28 +19501,28 @@
   </thead>
   <tbody>
     <tr>
-      <th>2586</th>
+      <th>2587</th>
       <td><img src="./assets/icons/raw/hith.foot_bath.q2.png"></td>
       <td>HITH wireless foot bath Q2</td>
       <td>hith.foot_bath.q2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2587</th>
+      <th>2588</th>
       <td><img src="./assets/icons/raw/zdeer.foot_bath.zdz8.png"></td>
       <td>ZDEER Intelligent Foot Steamer Z8</td>
       <td>zdeer.foot_bath.zdz8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2588</th>
+      <th>2589</th>
       <td><img src="./assets/icons/raw/zdeer.foot_bath.zdz7.png"></td>
       <td>ZDEER Intelligent Foot Steamer Z9</td>
       <td>zdeer.foot_bath.zdz7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2589</th>
+      <th>2590</th>
       <td><img src="./assets/icons/raw/zdeer.foot_bath.zdz9.png"></td>
       <td>ZDEER Intelligent Foot Steamer Z9</td>
       <td>zdeer.foot_bath.zdz9</td>
@@ -19537,14 +19544,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2590</th>
+      <th>2591</th>
       <td><img src="./assets/icons/raw/msj.f_washer.m1.png"></td>
       <td>Sink cleaning machine</td>
       <td>msj.f_washer.m1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2591</th>
+      <th>2592</th>
       <td><img src="./assets/icons/raw/msj.f_washer.m2.png"></td>
       <td>Smart sink washing machine</td>
       <td>msj.f_washer.m2</td>
@@ -19566,175 +19573,175 @@
   </thead>
   <tbody>
     <tr>
-      <th>2592</th>
+      <th>2593</th>
       <td><img src="./assets/icons/raw/zdzn.stb.66960.png"></td>
       <td>Guangzhou Zhunde set-top boxes</td>
       <td>zdzn.stb.66960</td>
       <td></td>
     </tr>
     <tr>
-      <th>2593</th>
+      <th>2594</th>
       <td><img src="./assets/icons/raw/693948.stb.khp.png"></td>
       <td>KH set-top box</td>
       <td>693948.stb.khp</td>
       <td></td>
     </tr>
     <tr>
-      <th>2594</th>
+      <th>2595</th>
       <td><img src="./assets/icons/raw/coolki.stb.yk0001.png"></td>
       <td>Remote control master-wifi to infrared-TV set-top box</td>
       <td>coolki.stb.yk0001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2595</th>
+      <th>2596</th>
       <td><img src="./assets/icons/raw/zhihw.stb.yk0001.png"></td>
       <td>Remote control master-wifi to infrared-TV set-top box</td>
       <td>zhihw.stb.yk0001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2596</th>
+      <th>2597</th>
       <td><img src="./assets/icons/raw/orvibo.stb.irstbv1.png"></td>
       <td>STB</td>
       <td>orvibo.stb.irstbv1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2597</th>
+      <th>2598</th>
       <td><img src="./assets/icons/raw/tuya.stb.tystb01.png"></td>
       <td>STB</td>
       <td>tuya.stb.tystb01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2598</th>
+      <th>2599</th>
       <td><img src="./assets/icons/raw/zunder.stb.zunder.png"></td>
       <td>Set top box</td>
       <td>zunder.stb.zunder</td>
       <td></td>
     </tr>
     <tr>
-      <th>2599</th>
+      <th>2600</th>
       <td><img src="./assets/icons/raw/miir.stb.ir01.png"></td>
       <td>Set-Top Box Remote Control</td>
       <td>miir.stb.ir01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2600</th>
+      <th>2601</th>
       <td><img src="./assets/icons/raw/123888.stb.1101.png"></td>
       <td>Set-top box</td>
       <td>123888.stb.1101</td>
       <td></td>
     </tr>
     <tr>
-      <th>2601</th>
+      <th>2602</th>
       <td><img src="./assets/icons/raw/deocea.stb.cq.png"></td>
       <td>Set-top box</td>
       <td>deocea.stb.cq</td>
       <td></td>
     </tr>
     <tr>
-      <th>2602</th>
+      <th>2603</th>
       <td><img src="./assets/icons/raw/future.stb.iptv.png"></td>
       <td>Set-top box</td>
       <td>future.stb.iptv</td>
       <td></td>
     </tr>
     <tr>
-      <th>2603</th>
+      <th>2604</th>
       <td><img src="./assets/icons/raw/ikecin.stb.ir3.png"></td>
       <td>Set-top box</td>
       <td>ikecin.stb.ir3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2604</th>
+      <th>2605</th>
       <td><img src="./assets/icons/raw/tyzhjt.stb.stb.png"></td>
       <td>Set-top box</td>
       <td>tyzhjt.stb.stb</td>
       <td></td>
     </tr>
     <tr>
-      <th>2605</th>
+      <th>2606</th>
       <td><img src="./assets/icons/raw/tyzhjt.stb.stb002.png"></td>
       <td>Set-top box</td>
       <td>tyzhjt.stb.stb002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2606</th>
+      <th>2607</th>
       <td><img src="./assets/icons/raw/tyzhjt.stb.stb003.png"></td>
       <td>Set-top box</td>
       <td>tyzhjt.stb.stb003</td>
       <td></td>
     </tr>
     <tr>
-      <th>2607</th>
+      <th>2608</th>
       <td><img src="./assets/icons/raw/xzh.stb.stb.png"></td>
       <td>Set-top box</td>
       <td>xzh.stb.stb</td>
       <td></td>
     </tr>
     <tr>
-      <th>2608</th>
+      <th>2609</th>
       <td><img src="./assets/icons/raw/ykkj.stb.ykm101.png"></td>
       <td>Set-top box</td>
       <td>ykkj.stb.ykm101</td>
       <td></td>
     </tr>
     <tr>
-      <th>2609</th>
+      <th>2610</th>
       <td><img src="./assets/icons/raw/kiwik.stb.iriptv.png"></td>
       <td>Set-top box infrared remote control</td>
       <td>kiwik.stb.iriptv</td>
       <td></td>
     </tr>
     <tr>
-      <th>2610</th>
+      <th>2611</th>
       <td><img src="./assets/icons/raw/oge.stb.stb.png"></td>
       <td>Set-top box infrared remote control</td>
       <td>oge.stb.stb</td>
       <td></td>
     </tr>
     <tr>
-      <th>2611</th>
+      <th>2612</th>
       <td><img src="./assets/icons/raw/zhijia.stb.zjjdh.png"></td>
       <td>ZJ Intelligent STB</td>
       <td>zhijia.stb.zjjdh</td>
       <td></td>
     </tr>
     <tr>
-      <th>2612</th>
+      <th>2613</th>
       <td><img src="./assets/icons/raw/delian.stb.delian.png"></td>
       <td>delian_stb</td>
       <td>delian.stb.delian</td>
       <td></td>
     </tr>
     <tr>
-      <th>2613</th>
+      <th>2614</th>
       <td><img src="./assets/icons/raw/jilian.stb.ministb.png"></td>
       <td>mini-stb</td>
       <td>jilian.stb.ministb</td>
       <td></td>
     </tr>
     <tr>
-      <th>2614</th>
+      <th>2615</th>
       <td><img src="./assets/icons/raw/heiman.stb.rc1.png"></td>
       <td>sdf</td>
       <td>heiman.stb.rc1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2615</th>
+      <th>2616</th>
       <td><img src="./assets/icons/raw/ayzn.stb.irstb.png"></td>
       <td>stb</td>
       <td>ayzn.stb.irstb</td>
       <td></td>
     </tr>
     <tr>
-      <th>2616</th>
+      <th>2617</th>
       <td><img src="./assets/icons/raw/cgzn.stb.stb.png"></td>
       <td>stb</td>
       <td>cgzn.stb.stb</td>
@@ -19756,14 +19763,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2617</th>
+      <th>2618</th>
       <td><img src="./assets/icons/raw/difeis.ven_fan.dql04h.png"></td>
       <td>Difeisi Air Cool</td>
       <td>difeis.ven_fan.dql04h</td>
       <td></td>
     </tr>
     <tr>
-      <th>2618</th>
+      <th>2619</th>
       <td><img src="./assets/icons/raw/yeelink.ven_fan.vf1.png"></td>
       <td>Yeelight Smart Panel Fan</td>
       <td>yeelink.ven_fan.vf1</td>
@@ -19785,14 +19792,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2619</th>
+      <th>2620</th>
       <td><img src="./assets/icons/raw/lumi.sen_ill.agl01.png"></td>
       <td>Aqara Light Detection Sensor T1</td>
       <td>lumi.sen_ill.agl01</td>
       <td>GZCGQ11LM</td>
     </tr>
     <tr>
-      <th>2620</th>
+      <th>2621</th>
       <td><img src="./assets/icons/raw/lumi.sen_ill.mgl01.png"></td>
       <td>Mi Light Detection Sensor</td>
       <td>lumi.sen_ill.mgl01</td>
@@ -19814,14 +19821,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2621</th>
+      <th>2622</th>
       <td><img src="./assets/icons/raw/kxf321.mop.mo002.png"></td>
       <td>ZDG300s</td>
       <td>kxf321.mop.mo002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2622</th>
+      <th>2623</th>
       <td><img src="./assets/icons/raw/kxf321.mop.mo001.png"></td>
       <td>sawadika robot</td>
       <td>kxf321.mop.mo001</td>
@@ -19843,42 +19850,42 @@
   </thead>
   <tbody>
     <tr>
-      <th>2623</th>
+      <th>2624</th>
       <td><img src="./assets/icons/raw/aice.motor.kzmu3.png"></td>
       <td>KMZ intelligent shutter door controller</td>
       <td>aice.motor.kzmu3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2624</th>
+      <th>2625</th>
       <td><img src="./assets/icons/raw/juzi.motor.106011.png"></td>
       <td>Manipulator</td>
       <td>juzi.motor.106011</td>
       <td></td>
     </tr>
     <tr>
-      <th>2625</th>
+      <th>2626</th>
       <td><img src="./assets/icons/raw/thing.motor.smart2.png"></td>
       <td>Smart curtain motor</td>
       <td>thing.motor.smart2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2626</th>
+      <th>2627</th>
       <td><img src="./assets/icons/raw/juzi.motor.010601.png"></td>
       <td>The electromagnetic valve</td>
       <td>juzi.motor.010601</td>
       <td></td>
     </tr>
     <tr>
-      <th>2627</th>
+      <th>2628</th>
       <td><img src="./assets/icons/raw/mjj.motor.mode1.png"></td>
       <td>Window controller</td>
       <td>mjj.motor.mode1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2628</th>
+      <th>2629</th>
       <td><img src="./assets/icons/raw/evecca.motor.tl001a.png"></td>
       <td>Yihuijia smart doors and windows</td>
       <td>evecca.motor.tl001a</td>
@@ -19900,56 +19907,56 @@
   </thead>
   <tbody>
     <tr>
-      <th>2629</th>
+      <th>2630</th>
       <td><img src="./assets/icons/raw/zdeer.ajh.zdl9.png"></td>
       <td>Intelligent Moxibustion heater</td>
       <td>zdeer.ajh.zdl9</td>
       <td></td>
     </tr>
     <tr>
-      <th>2630</th>
+      <th>2631</th>
       <td><img src="./assets/icons/raw/zdeer.ajh.zdx8.png"></td>
       <td>Intelligent Moxibustion heater X8</td>
       <td>zdeer.ajh.zdx8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2631</th>
+      <th>2632</th>
       <td><img src="./assets/icons/raw/zdeer.ajh.zjy.png"></td>
       <td>Moxibustion steam engine</td>
       <td>zdeer.ajh.zjy</td>
       <td></td>
     </tr>
     <tr>
-      <th>2632</th>
+      <th>2633</th>
       <td><img src="./assets/icons/raw/zdeer.ajh.ajb.png"></td>
       <td>Warm Moxibustion Box</td>
       <td>zdeer.ajh.ajb</td>
       <td></td>
     </tr>
     <tr>
-      <th>2633</th>
+      <th>2634</th>
       <td><img src="./assets/icons/raw/zdeer.ajh.zda10.png"></td>
       <td>ZDEER 2Max</td>
       <td>zdeer.ajh.zda10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2634</th>
+      <th>2635</th>
       <td><img src="./assets/icons/raw/zdeer.ajh.a8.png"></td>
       <td>ZDEER Moxibustion Box</td>
       <td>zdeer.ajh.a8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2635</th>
+      <th>2636</th>
       <td><img src="./assets/icons/raw/zdeer.ajh.a9.png"></td>
       <td>ZDEER Moxibustion Box 2th</td>
       <td>zdeer.ajh.a9</td>
       <td></td>
     </tr>
     <tr>
-      <th>2636</th>
+      <th>2637</th>
       <td><img src="./assets/icons/raw/zdeer.ajh.zda9.png"></td>
       <td>ZDEER Moxibustion Box 2th</td>
       <td>zdeer.ajh.zda9</td>
@@ -19971,21 +19978,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2637</th>
+      <th>2638</th>
       <td><img src="./assets/icons/raw/chunmi.health_pot.a1.png"></td>
       <td>Mi Smart Multi-functional Kettle</td>
       <td>chunmi.health_pot.a1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2638</th>
+      <th>2639</th>
       <td><img src="./assets/icons/raw/viomi.health_pot.v1.png"></td>
       <td>Mi Smart Multipurpose Kettle</td>
       <td>viomi.health_pot.v1</td>
       <td>MJYSH01YM</td>
     </tr>
     <tr>
-      <th>2639</th>
+      <th>2640</th>
       <td><img src="./assets/icons/raw/viomi.health_pot.c2.png"></td>
       <td>Viomi Smart Health Pot Honey Pro</td>
       <td>viomi.health_pot.c2</td>
@@ -20007,112 +20014,112 @@
   </thead>
   <tbody>
     <tr>
-      <th>2640</th>
+      <th>2641</th>
       <td><img src="./assets/icons/raw/xiaomi.demo.v1.png"></td>
       <td>Beta build</td>
       <td>xiaomi.demo.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2641</th>
+      <th>2642</th>
       <td><img src="./assets/icons/raw/xiaomi.demo.v2.png"></td>
       <td>Beta build</td>
       <td>xiaomi.demo.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2642</th>
+      <th>2643</th>
       <td><img src="./assets/icons/raw/candor.wine_cool.a.png"></td>
       <td>Candor Wine Cooler (80L/275L)</td>
       <td>candor.wine_cool.a</td>
       <td></td>
     </tr>
     <tr>
-      <th>2643</th>
+      <th>2644</th>
       <td><img src="./assets/icons/raw/ileja.hud.ccm.png"></td>
       <td>Carrobot C2-Mini</td>
       <td>ileja.hud.ccm</td>
       <td></td>
     </tr>
     <tr>
-      <th>2644</th>
+      <th>2645</th>
       <td><img src="./assets/icons/raw/ileja.hud.ccms.png"></td>
       <td>Carrobot C2-Mini Pro</td>
       <td>ileja.hud.ccms</td>
       <td></td>
     </tr>
     <tr>
-      <th>2645</th>
+      <th>2646</th>
       <td><img src="./assets/icons/raw/creiot.ysj.wd01ei.png"></td>
       <td>Drinking fountain</td>
       <td>creiot.ysj.wd01ei</td>
       <td></td>
     </tr>
     <tr>
-      <th>2646</th>
+      <th>2647</th>
       <td><img src="./assets/icons/raw/hoto.etool.finder.png"></td>
       <td>HOTO Smart Laser Measure</td>
       <td>hoto.etool.finder</td>
       <td></td>
     </tr>
     <tr>
-      <th>2647</th>
+      <th>2648</th>
       <td><img src="./assets/icons/raw/chuangmi.door.hmi508.png"></td>
       <td>IMILAB Digital Door Looc H1</td>
       <td>chuangmi.door.hmi508</td>
       <td></td>
     </tr>
     <tr>
-      <th>2648</th>
+      <th>2649</th>
       <td><img src="./assets/icons/raw/morfun.ysj.mf208.png"></td>
       <td>MORFUN Smart Instant Heating Water Dispenser MF208</td>
       <td>morfun.ysj.mf208</td>
       <td></td>
     </tr>
     <tr>
-      <th>2649</th>
+      <th>2650</th>
       <td><img src="./assets/icons/raw/chunmi.ysj.tsa1.png"></td>
       <td>Mi Countertop Filtered Water Dispenser</td>
       <td>chunmi.ysj.tsa1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2650</th>
+      <th>2651</th>
       <td><img src="./assets/icons/raw/mibx5.dry.v2.png"></td>
       <td>Mi Smart Heat Pump Dryer 10kg</td>
       <td>mibx5.dry.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2651</th>
+      <th>2652</th>
       <td><img src="./assets/icons/raw/lumi.sensor_ir.v1.png"></td>
       <td>Midea infrared stickers</td>
       <td>lumi.sensor_ir.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2652</th>
+      <th>2653</th>
       <td><img src="./assets/icons/raw/silen.fryer.sck505.png"></td>
       <td>Silencare AirFryer</td>
       <td>silen.fryer.sck505</td>
       <td></td>
     </tr>
     <tr>
-      <th>2653</th>
+      <th>2654</th>
       <td><img src="./assets/icons/raw/silen.fryer.sck501.png"></td>
       <td>Silencare AirFryer 1.8L</td>
       <td>silen.fryer.sck501</td>
       <td></td>
     </tr>
     <tr>
-      <th>2654</th>
+      <th>2655</th>
       <td><img src="./assets/icons/raw/silen.mfcp.sck307.png"></td>
       <td>Silencare Grill</td>
       <td>silen.mfcp.sck307</td>
       <td></td>
     </tr>
     <tr>
-      <th>2655</th>
+      <th>2656</th>
       <td><img src="./assets/icons/raw/mijia.p_adapter.zb1.png"></td>
       <td>Zigbee Device</td>
       <td>mijia.p_adapter.zb1</td>
@@ -20134,56 +20141,56 @@
   </thead>
   <tbody>
     <tr>
-      <th>2656</th>
+      <th>2657</th>
       <td><img src="./assets/icons/raw/mmgg.feeder.petfeeder.png"></td>
       <td>Mijia Smart Pet Feeder</td>
       <td>mmgg.feeder.petfeeder</td>
       <td></td>
     </tr>
     <tr>
-      <th>2657</th>
+      <th>2658</th>
       <td><img src="./assets/icons/raw/skyrc.feeder.vdfeed.png"></td>
       <td>Nutri Vision Mini</td>
       <td>skyrc.feeder.vdfeed</td>
       <td></td>
     </tr>
     <tr>
-      <th>2658</th>
+      <th>2659</th>
       <td><img src="./assets/icons/raw/mmgg.feeder.snack.png"></td>
       <td>Pawbby Dog Camera & Treat Cam</td>
       <td>mmgg.feeder.snack</td>
       <td></td>
     </tr>
     <tr>
-      <th>2659</th>
+      <th>2660</th>
       <td><img src="./assets/icons/raw/tuya.feeder.tycwws.png"></td>
       <td>Pet feeder</td>
       <td>tuya.feeder.tycwws</td>
       <td></td>
     </tr>
     <tr>
-      <th>2660</th>
+      <th>2661</th>
       <td><img src="./assets/icons/raw/tuya.feeder.tywsq1.png"></td>
       <td>Pet feeder</td>
       <td>tuya.feeder.tywsq1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2661</th>
+      <th>2662</th>
       <td><img src="./assets/icons/raw/skyrc.feeder.fed.png"></td>
       <td>Petoneer Nutri Mini Feeder</td>
       <td>skyrc.feeder.fed</td>
       <td></td>
     </tr>
     <tr>
-      <th>2662</th>
+      <th>2663</th>
       <td><img src="./assets/icons/raw/skyrc.feeder.vfed.png"></td>
       <td>Petoneer Nutri Vision</td>
       <td>skyrc.feeder.vfed</td>
       <td></td>
     </tr>
     <tr>
-      <th>2663</th>
+      <th>2664</th>
       <td><img src="./assets/icons/raw/mmgg.feeder.spec.png"></td>
       <td>XIAOWAN Smart Pet Feeder</td>
       <td>mmgg.feeder.spec</td>
@@ -20205,21 +20212,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2664</th>
+      <th>2665</th>
       <td><img src="./assets/icons/raw/skyrc.pet_waterer.fre1.png"></td>
       <td>Fresco Mini Plus</td>
       <td>skyrc.pet_waterer.fre1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2665</th>
+      <th>2666</th>
       <td><img src="./assets/icons/raw/mmgg.pet_waterer.s1.png"></td>
       <td>Mijia Smart Pet Water Dispenser</td>
       <td>mmgg.pet_waterer.s1</td>
       <td>XWWF01MG</td>
     </tr>
     <tr>
-      <th>2666</th>
+      <th>2667</th>
       <td><img src="./assets/icons/raw/mmgg.pet_waterer.s4.png"></td>
       <td>XIAOWAN Smart Pet Water Dispenser</td>
       <td>mmgg.pet_waterer.s4</td>
@@ -20241,21 +20248,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2667</th>
+      <th>2668</th>
       <td><img src="./assets/icons/raw/chunmi.pre_cooker.eh1.png"></td>
       <td>Mi Smart Pressure Cooker</td>
       <td>chunmi.pre_cooker.eh1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2668</th>
+      <th>2669</th>
       <td><img src="./assets/icons/raw/chunmi.pre_cooker.mini1.png"></td>
       <td>Mi Smart Pressure Cooker 2.5L</td>
       <td>chunmi.pre_cooker.mini1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2669</th>
+      <th>2670</th>
       <td><img src="./assets/icons/raw/tokit.pre_cooker.tkih1.png"></td>
       <td>TOKIT Smart IH Pressure Cooker</td>
       <td>tokit.pre_cooker.tkih1</td>
@@ -20277,161 +20284,161 @@
   </thead>
   <tbody>
     <tr>
-      <th>2670</th>
+      <th>2671</th>
       <td><img src="./assets/icons/raw/fengmi.projector.l166.png"></td>
       <td>A300 Splendid Laser Projector</td>
       <td>fengmi.projector.l166</td>
       <td></td>
     </tr>
     <tr>
-      <th>2671</th>
+      <th>2672</th>
       <td><img src="./assets/icons/raw/fengmi.projector.l306a.png"></td>
       <td>Appotronics D30 Laser Projector</td>
       <td>fengmi.projector.l306a</td>
       <td></td>
     </tr>
     <tr>
-      <th>2672</th>
+      <th>2673</th>
       <td><img src="./assets/icons/raw/fengmi.projector.l246.png"></td>
       <td>C700 4K Home Theater Projector</td>
       <td>fengmi.projector.l246</td>
       <td></td>
     </tr>
     <tr>
-      <th>2673</th>
+      <th>2674</th>
       <td><img src="./assets/icons/raw/fengmi.projector.l176.png"></td>
       <td>Fengmi Laser Projecot 4K Cinema</td>
       <td>fengmi.projector.l176</td>
       <td></td>
     </tr>
     <tr>
-      <th>2674</th>
+      <th>2675</th>
       <td><img src="./assets/icons/raw/fengmi.projector.m135f.png"></td>
       <td>Fengmi Projector Vogue</td>
       <td>fengmi.projector.m135f</td>
       <td></td>
     </tr>
     <tr>
-      <th>2675</th>
+      <th>2676</th>
       <td><img src="./assets/icons/raw/fengmi.projector.fm05.png"></td>
       <td>Fengmi Young</td>
       <td>fengmi.projector.fm05</td>
       <td></td>
     </tr>
     <tr>
-      <th>2676</th>
+      <th>2677</th>
       <td><img src="./assets/icons/raw/fengmi.projector.m055.png"></td>
       <td>Fengmi projector Smart</td>
       <td>fengmi.projector.m055</td>
       <td></td>
     </tr>
     <tr>
-      <th>2677</th>
+      <th>2678</th>
       <td><img src="./assets/icons/raw/fengmi.projector.m055d.png"></td>
       <td>Fengmi projector Smart Lite</td>
       <td>fengmi.projector.m055d</td>
       <td></td>
     </tr>
     <tr>
-      <th>2678</th>
+      <th>2679</th>
       <td><img src="./assets/icons/raw/fengmi.projector.l406f.png"></td>
       <td>Formovie Laser Cinema 4K Max</td>
       <td>fengmi.projector.l406f</td>
       <td></td>
     </tr>
     <tr>
-      <th>2679</th>
+      <th>2680</th>
       <td><img src="./assets/icons/raw/fengmi.projector.l176fp.png"></td>
       <td>Formovie Laser Projector 4K Cinema Pro</td>
       <td>fengmi.projector.l176fp</td>
       <td></td>
     </tr>
     <tr>
-      <th>2680</th>
+      <th>2681</th>
       <td><img src="./assets/icons/raw/fengmi.projector.m135fp.png"></td>
       <td>Formovie Projector Vogue Pro</td>
       <td>fengmi.projector.m135fp</td>
       <td></td>
     </tr>
     <tr>
-      <th>2681</th>
+      <th>2682</th>
       <td><img src="./assets/icons/raw/linqi.projector.td01lq.png"></td>
       <td>Mi Cinema Headset</td>
       <td>linqi.projector.td01lq</td>
       <td></td>
     </tr>
     <tr>
-      <th>2682</th>
+      <th>2683</th>
       <td><img src="./assets/icons/raw/fengmi.projector.l185.png"></td>
       <td>Mi Laser Projector</td>
       <td>fengmi.projector.l185</td>
       <td></td>
     </tr>
     <tr>
-      <th>2683</th>
+      <th>2684</th>
       <td><img src="./assets/icons/raw/fengmi.projector.m085j.png"></td>
       <td>Mi Projector 2</td>
       <td>fengmi.projector.m085j</td>
       <td></td>
     </tr>
     <tr>
-      <th>2684</th>
+      <th>2685</th>
       <td><img src="./assets/icons/raw/fengmi.projector.m135jp.png"></td>
       <td>Mi Projector 2 Pro</td>
       <td>fengmi.projector.m135jp</td>
       <td></td>
     </tr>
     <tr>
-      <th>2685</th>
+      <th>2686</th>
       <td><img src="./assets/icons/raw/fengmi.projector.m045j.png"></td>
       <td>Mi Projector Young 2</td>
       <td>fengmi.projector.m045j</td>
       <td></td>
     </tr>
     <tr>
-      <th>2686</th>
+      <th>2687</th>
       <td><img src="./assets/icons/raw/fengmi.projector.fm154k.png"></td>
       <td>Mijia Laser Projection TV 4K</td>
       <td>fengmi.projector.fm154k</td>
       <td></td>
     </tr>
     <tr>
-      <th>2687</th>
+      <th>2688</th>
       <td><img src="./assets/icons/raw/fengmi.projector.fm15.png"></td>
       <td>Mijia Laser TV</td>
       <td>fengmi.projector.fm15</td>
       <td></td>
     </tr>
     <tr>
-      <th>2688</th>
+      <th>2689</th>
       <td><img src="./assets/icons/raw/zimi.projector.v1.png"></td>
       <td>Mijia projector TYY01ZM</td>
       <td>zimi.projector.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2689</th>
+      <th>2690</th>
       <td><img src="./assets/icons/raw/miir.projector.ir01.png"></td>
       <td>Projector Remote Control</td>
       <td>miir.projector.ir01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2690</th>
+      <th>2691</th>
       <td><img src="./assets/icons/raw/h2t.projector.projet.png"></td>
       <td>Projector intelligent control module</td>
       <td>h2t.projector.projet</td>
       <td></td>
     </tr>
     <tr>
-      <th>2691</th>
+      <th>2692</th>
       <td><img src="./assets/icons/raw/kongke.projector.irproj.png"></td>
       <td>Projector remote control (infrared)</td>
       <td>kongke.projector.irproj</td>
       <td></td>
     </tr>
     <tr>
-      <th>2692</th>
+      <th>2693</th>
       <td><img src="./assets/icons/raw/inovel.projector.me2.png"></td>
       <td>inovel projector</td>
       <td>inovel.projector.me2</td>
@@ -20453,49 +20460,56 @@
   </thead>
   <tbody>
     <tr>
-      <th>2693</th>
+      <th>2694</th>
       <td><img src="./assets/icons/raw/pwzn.relay.apple.png"></td>
       <td>16 relays module</td>
       <td>pwzn.relay.apple</td>
       <td></td>
     </tr>
     <tr>
-      <th>2694</th>
+      <th>2695</th>
       <td><img src="./assets/icons/raw/pwzn.relay.banana.png"></td>
       <td>16 relays module modbus version</td>
       <td>pwzn.relay.banana</td>
       <td></td>
     </tr>
     <tr>
-      <th>2695</th>
+      <th>2696</th>
       <td><img src="./assets/icons/raw/lumi.switch.l0acn1.png"></td>
       <td>Aqara Single Switch Module T1 (No Neutral)</td>
       <td>lumi.switch.l0acn1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2696</th>
+      <th>2697</th>
       <td><img src="./assets/icons/raw/lumi.switch.l0agl1.png"></td>
       <td>Aqara Single Switch Module T1 (No Neutral)</td>
       <td>lumi.switch.l0agl1</td>
       <td>SSM-U02</td>
     </tr>
     <tr>
-      <th>2697</th>
+      <th>2698</th>
       <td><img src="./assets/icons/raw/lumi.switch.n0acn2.png"></td>
       <td>Aqara Single Switch Module T1 (With Neutral)</td>
       <td>lumi.switch.n0acn2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2698</th>
+      <th>2699</th>
+      <td><img src="./assets/icons/raw/lumi.switch.n0acn2.png"></td>
+      <td>Aqara Single Switch Module T1 (With Neutral)</td>
+      <td>lumi.switch.n0acn2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>2700</th>
       <td><img src="./assets/icons/raw/lumi.switch.n0agl1.png"></td>
       <td>Aqara Single Switch Module T1 (With Neutral)</td>
       <td>lumi.switch.n0agl1</td>
       <td>SSM-U01</td>
     </tr>
     <tr>
-      <th>2699</th>
+      <th>2701</th>
       <td><img src="./assets/icons/raw/lumi.relay.c2acn01.png"></td>
       <td>Aqara Wireless Relay Controller (2 Channels)</td>
       <td>lumi.relay.c2acn01</td>
@@ -20517,35 +20531,35 @@
   </thead>
   <tbody>
     <tr>
-      <th>2700</th>
+      <th>2702</th>
       <td><img src="./assets/icons/raw/miir.dvd.ir01.png"></td>
       <td>DVD Remote Control</td>
       <td>miir.dvd.ir01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2701</th>
+      <th>2703</th>
       <td><img src="./assets/icons/raw/mijia.ir.add.png"></td>
       <td>IR Remote Add</td>
       <td>mijia.ir.add</td>
       <td></td>
     </tr>
     <tr>
-      <th>2702</th>
+      <th>2704</th>
       <td><img src="./assets/icons/raw/xiaomi.phone_ir.v1.png"></td>
       <td>IR remote</td>
       <td>xiaomi.phone_ir.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2703</th>
+      <th>2705</th>
       <td><img src="./assets/icons/raw/xiaomi.phone_ir.t1.png"></td>
       <td>Infrared remote control for mobile phone</td>
       <td>xiaomi.phone_ir.t1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2704</th>
+      <th>2706</th>
       <td><img src="./assets/icons/raw/chuangmi.ir.v2.png"></td>
       <td>Mi Universal Remote</td>
       <td>chuangmi.ir.v2</td>
@@ -20567,7 +20581,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2705</th>
+      <th>2707</th>
       <td><img src="./assets/icons/raw/xiaoxun.ro_skates.v1.png"></td>
       <td>Xiaoxun Inline Skate</td>
       <td>xiaoxun.ro_skates.v1</td>
@@ -20589,56 +20603,56 @@
   </thead>
   <tbody>
     <tr>
-      <th>2706</th>
+      <th>2708</th>
       <td><img src="./assets/icons/raw/lcrmcr.safe.ms30mp.png"></td>
       <td>CRMCR Annuo Smart Safe PRO</td>
       <td>lcrmcr.safe.ms30mp</td>
       <td></td>
     </tr>
     <tr>
-      <th>2707</th>
+      <th>2709</th>
       <td><img src="./assets/icons/raw/lcrmcr.safe.ms55kn.png"></td>
       <td>CRMCR Kanuo Smart Safe</td>
       <td>lcrmcr.safe.ms55kn</td>
       <td></td>
     </tr>
     <tr>
-      <th>2708</th>
+      <th>2710</th>
       <td><img src="./assets/icons/raw/lcrmcr.safe.an35sidz.png"></td>
       <td>CRMCR iRon electronic safe</td>
       <td>lcrmcr.safe.an35sidz</td>
       <td></td>
     </tr>
     <tr>
-      <th>2709</th>
+      <th>2711</th>
       <td><img src="./assets/icons/raw/lcrmcr.safe.an35sizw.png"></td>
       <td>CRMCR iRon fingerprint safe</td>
       <td>lcrmcr.safe.an35sizw</td>
       <td></td>
     </tr>
     <tr>
-      <th>2710</th>
+      <th>2712</th>
       <td><img src="./assets/icons/raw/lcrmcr.safe.ms80b.png"></td>
       <td>Carberry Face Recognition Safe</td>
       <td>lcrmcr.safe.ms80b</td>
       <td></td>
     </tr>
     <tr>
-      <th>2711</th>
+      <th>2713</th>
       <td><img src="./assets/icons/raw/loock.safe.v1.png"></td>
       <td>Mi Smart Safe Box</td>
       <td>loock.safe.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2712</th>
+      <th>2714</th>
       <td><img src="./assets/icons/raw/duoqin.safe.pbfv01.png"></td>
       <td>Privacy box for finger vein identification</td>
       <td>duoqin.safe.pbfv01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2713</th>
+      <th>2715</th>
       <td><img src="./assets/icons/raw/lcrmcr.safe.ms30b.png"></td>
       <td>kamai safe box</td>
       <td>lcrmcr.safe.ms30b</td>
@@ -20660,63 +20674,63 @@
   </thead>
   <tbody>
     <tr>
-      <th>2714</th>
+      <th>2716</th>
       <td><img src="./assets/icons/raw/qushui.bed.003.png"></td>
       <td>8H Milan Smart Electric Bed Pro</td>
       <td>qushui.bed.003</td>
       <td></td>
     </tr>
     <tr>
-      <th>2715</th>
+      <th>2717</th>
       <td><img src="./assets/icons/raw/qushui.bed.001.png"></td>
       <td>8H Milan smart electric bed</td>
       <td>qushui.bed.001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2716</th>
+      <th>2718</th>
       <td><img src="./assets/icons/raw/qushui.bed.002.png"></td>
       <td>8H Smart Adjustable Mattress</td>
       <td>qushui.bed.002</td>
       <td></td>
     </tr>
     <tr>
-      <th>2717</th>
+      <th>2719</th>
       <td><img src="./assets/icons/raw/bkrobo.bed.t1.png"></td>
       <td>Blupeace Air Massage Mattress Topper</td>
       <td>bkrobo.bed.t1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2718</th>
+      <th>2720</th>
       <td><img src="./assets/icons/raw/rmt.bed.zhsbed.png"></td>
       <td>CHEERS Smart Bed</td>
       <td>rmt.bed.zhsbed</td>
       <td></td>
     </tr>
     <tr>
-      <th>2719</th>
+      <th>2721</th>
       <td><img src="./assets/icons/raw/mpe.bed.mpe.png"></td>
       <td>MPE smart bed</td>
       <td>mpe.bed.mpe</td>
       <td></td>
     </tr>
     <tr>
-      <th>2720</th>
+      <th>2722</th>
       <td><img src="./assets/icons/raw/keeson.bed.ks001.png"></td>
       <td>Qisheng Technology Smart Bed</td>
       <td>keeson.bed.ks001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2721</th>
+      <th>2723</th>
       <td><img src="./assets/icons/raw/lwkj.bed.5110.png"></td>
       <td>Smart bed</td>
       <td>lwkj.bed.5110</td>
       <td></td>
     </tr>
     <tr>
-      <th>2722</th>
+      <th>2724</th>
       <td><img src="./assets/icons/raw/yszj.bed.5110.png"></td>
       <td>Smart mattress</td>
       <td>yszj.bed.5110</td>
@@ -20738,21 +20752,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2723</th>
+      <th>2725</th>
       <td><img src="./assets/icons/raw/hfjh.fishbowl.v2.png"></td>
       <td>Desgeo C series smart fish tank</td>
       <td>hfjh.fishbowl.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2724</th>
+      <th>2726</th>
       <td><img src="./assets/icons/raw/hfjh.fishbowl.c500.png"></td>
       <td>Desgeo amphibious ecological bottom filter fish tank</td>
       <td>hfjh.fishbowl.c500</td>
       <td></td>
     </tr>
     <tr>
-      <th>2725</th>
+      <th>2727</th>
       <td><img src="./assets/icons/raw/hfjh.fishbowl.v1.png"></td>
       <td>Desgeo smart fishbowl</td>
       <td>hfjh.fishbowl.v1</td>
@@ -20774,7 +20788,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2726</th>
+      <th>2728</th>
       <td><img src="./assets/icons/raw/sxds.pillow.pillow02.png"></td>
       <td>Natural latex sleep pillow</td>
       <td>sxds.pillow.pillow02</td>
@@ -20796,21 +20810,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2727</th>
+      <th>2729</th>
       <td><img src="./assets/icons/raw/midr.rv_mirror.m5.png"></td>
       <td>70mai Smart Driving Mate</td>
       <td>midr.rv_mirror.m5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2728</th>
+      <th>2730</th>
       <td><img src="./assets/icons/raw/midr.rv_mirror.m2.png"></td>
       <td>70mai Smart Rearview Mirror lite</td>
       <td>midr.rv_mirror.m2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2729</th>
+      <th>2731</th>
       <td><img src="./assets/icons/raw/midr.rv_mirror.v1.png"></td>
       <td>Mi Smart Rear-view Mirror</td>
       <td>midr.rv_mirror.v1</td>
@@ -20832,14 +20846,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2730</th>
+      <th>2732</th>
       <td><img src="./assets/icons/raw/17216.desk.lt001.png"></td>
       <td>Leband Electric Sit-to-Stand Desk</td>
       <td>17216.desk.lt001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2731</th>
+      <th>2733</th>
       <td><img src="./assets/icons/raw/xlang.desk.nlocv1.png"></td>
       <td>NOC LOC Intelligent electric learning desk for children</td>
       <td>xlang.desk.nlocv1</td>
@@ -20861,7 +20875,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2732</th>
+      <th>2734</th>
       <td><img src="./assets/icons/raw/guoshi.other.sem01.png"></td>
       <td>Hi+ Intelligent Steam Eyeshade</td>
       <td>guoshi.other.sem01</td>
@@ -20883,49 +20897,49 @@
   </thead>
   <tbody>
     <tr>
-      <th>2733</th>
+      <th>2735</th>
       <td><img src="./assets/icons/raw/chunmi.oven.steam30lv1.png"></td>
       <td>Mi Smart Steam Oven</td>
       <td>chunmi.oven.steam30lv1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2734</th>
+      <th>2736</th>
       <td><img src="./assets/icons/raw/tokit.oven.tk12l01.png"></td>
       <td>TOKIT Mini Smart Oven</td>
       <td>tokit.oven.tk12l01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2735</th>
+      <th>2737</th>
       <td><img src="./assets/icons/raw/tokit.oven.tk32pro1.png"></td>
       <td>TOKIT Smart Oven</td>
       <td>tokit.oven.tk32pro1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2736</th>
+      <th>2738</th>
       <td><img src="./assets/icons/raw/viomi.oven.so1.png"></td>
       <td>VIOMI Internet steaming and baking all-in-one machine king (embedded)</td>
       <td>viomi.oven.so1</td>
       <td>VSO4501</td>
     </tr>
     <tr>
-      <th>2737</th>
+      <th>2739</th>
       <td><img src="./assets/icons/raw/viomi.oven.so2.png"></td>
       <td>VIOMI Internet steaming and baking all-in-one machine queen (embedded)</td>
       <td>viomi.oven.so2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2738</th>
+      <th>2740</th>
       <td><img src="./assets/icons/raw/viomi.oven.so3.png"></td>
       <td>Viomi Smart Steaming and Baking Machine King Pro (Build-in)</td>
       <td>viomi.oven.so3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2739</th>
+      <th>2741</th>
       <td><img src="./assets/icons/raw/hxrcj.oven.e5.png"></td>
       <td>steam box</td>
       <td>hxrcj.oven.e5</td>
@@ -20947,28 +20961,28 @@
   </thead>
   <tbody>
     <tr>
-      <th>2740</th>
+      <th>2742</th>
       <td><img src="./assets/icons/raw/uvfive.s_lamp.slmap2.png"></td>
       <td>Five germicidal lamp</td>
       <td>uvfive.s_lamp.slmap2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2741</th>
+      <th>2743</th>
       <td><img src="./assets/icons/raw/hddz.s_lamp.uvl38w.png"></td>
       <td>XiaoDa sterilizing lamp</td>
       <td>hddz.s_lamp.uvl38w</td>
       <td></td>
     </tr>
     <tr>
-      <th>2742</th>
+      <th>2744</th>
       <td><img src="./assets/icons/raw/afour.s_lamp.001.png"></td>
       <td>ZIWOOO Intelligent germicidal lamp</td>
       <td>afour.s_lamp.001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2743</th>
+      <th>2745</th>
       <td><img src="./assets/icons/raw/ziwooo.s_lamp.uvc.png"></td>
       <td>ZIWOOO Intelligent germicidal lamp Pro</td>
       <td>ziwooo.s_lamp.uvc</td>
@@ -20990,7 +21004,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2744</th>
+      <th>2746</th>
       <td><img src="./assets/icons/raw/jyaiot.cm.ccj01.png"></td>
       <td>Solista Automatic Cooker</td>
       <td>jyaiot.cm.ccj01</td>
@@ -21012,28 +21026,28 @@
   </thead>
   <tbody>
     <tr>
-      <th>2745</th>
+      <th>2747</th>
       <td><img src="./assets/icons/raw/ksmb.treadmill.k12.png"></td>
       <td>KingSmith K12 Treadmill</td>
       <td>ksmb.treadmill.k12</td>
       <td></td>
     </tr>
     <tr>
-      <th>2746</th>
+      <th>2748</th>
       <td><img src="./assets/icons/raw/ksmb.treadmill.v2.png"></td>
       <td>KingSmith K15 Treadmill</td>
       <td>ksmb.treadmill.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2747</th>
+      <th>2749</th>
       <td><img src="./assets/icons/raw/ksmb.treadmill.v1.png"></td>
       <td>KingSmith Treadmill</td>
       <td>ksmb.treadmill.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2748</th>
+      <th>2750</th>
       <td><img src="./assets/icons/raw/asp.treadmill.pbj.png"></td>
       <td>Lijiujia M1 treadmill</td>
       <td>asp.treadmill.pbj</td>
@@ -21055,7 +21069,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2749</th>
+      <th>2751</th>
       <td><img src="./assets/icons/raw/fengmi.projector.l176jp.png"></td>
       <td>Mi Laser Projector 1S 4K</td>
       <td>fengmi.projector.l176jp</td>
@@ -21077,14 +21091,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2750</th>
+      <th>2752</th>
       <td><img src="./assets/icons/raw/xiaomi.split_tv.b1.png"></td>
       <td>Mi TV Bar</td>
       <td>xiaomi.split_tv.b1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2751</th>
+      <th>2753</th>
       <td><img src="./assets/icons/raw/xiaomi.split_tv.v1.png"></td>
       <td>Mi TV Bar</td>
       <td>xiaomi.split_tv.v1</td>
@@ -21106,7 +21120,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2752</th>
+      <th>2754</th>
       <td><img src="./assets/icons/raw/yunmi.plmachine.mg2.png"></td>
       <td>Viomi instant heat pipeline machine (MG2-A)</td>
       <td>yunmi.plmachine.mg2</td>
@@ -21128,7 +21142,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2753</th>
+      <th>2755</th>
       <td><img src="./assets/icons/raw/smith.w_soften.cxs05ta1.png"></td>
       <td>CHANITEX WATER SOFTENER</td>
       <td>smith.w_soften.cxs05ta1</td>
@@ -21150,42 +21164,42 @@
   </thead>
   <tbody>
     <tr>
-      <th>2754</th>
+      <th>2756</th>
       <td><img src="./assets/icons/raw/aqara.wopener.hocn02.png"></td>
       <td>Haobo window opener</td>
       <td>aqara.wopener.hocn02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2755</th>
+      <th>2757</th>
       <td><img src="./assets/icons/raw/cchome.wopener.tcq001.png"></td>
       <td>Motor Controller</td>
       <td>cchome.wopener.tcq001</td>
       <td></td>
     </tr>
     <tr>
-      <th>2756</th>
+      <th>2758</th>
       <td><img src="./assets/icons/raw/mjj.wopener.mode11.png"></td>
       <td>Window controller</td>
       <td>mjj.wopener.mode11</td>
       <td></td>
     </tr>
     <tr>
-      <th>2757</th>
+      <th>2759</th>
       <td><img src="./assets/icons/raw/juzi.wopener.040102.png"></td>
       <td>Window pusher</td>
       <td>juzi.wopener.040102</td>
       <td></td>
     </tr>
     <tr>
-      <th>2758</th>
+      <th>2760</th>
       <td><img src="./assets/icons/raw/yyunyi.wopener.yypy24.png"></td>
       <td>Yun yi translation window opener</td>
       <td>yyunyi.wopener.yypy24</td>
       <td></td>
     </tr>
     <tr>
-      <th>2759</th>
+      <th>2761</th>
       <td><img src="./assets/icons/raw/hopo.wopener.si200.png"></td>
       <td>window</td>
       <td>hopo.wopener.si200</td>
@@ -21209,11 +21223,11 @@
   </thead>
   <tbody>
     <tr>
-      <th>2760</th>
+      <th>2762</th>
       <td><img src="./assets/icons/raw/yeelink.mirror.bm1.png"></td>
       <td>diiib&Yeelight smart mirror cabinet</td>
       <td>yeelink.mirror.bm1</td>
-      <td></td>
+      <td>DXYSJ007</td>
     </tr>
   </tbody>
 </table>
@@ -21231,49 +21245,49 @@
   </thead>
   <tbody>
     <tr>
-      <th>2761</th>
+      <th>2763</th>
       <td><img src="./assets/icons/raw/horow.toilet.s4.png"></td>
       <td>Horow S4</td>
       <td>horow.toilet.s4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2762</th>
+      <th>2764</th>
       <td><img src="./assets/icons/raw/ijomoo.toilet.zs320.png"></td>
       <td>Smart Toilet Lid-ZS320T</td>
       <td>ijomoo.toilet.zs320</td>
       <td></td>
     </tr>
     <tr>
-      <th>2763</th>
+      <th>2765</th>
       <td><img src="./assets/icons/raw/zhimi.toilet.sa1.png"></td>
       <td>Smartmi Smart Bidet Toilet Seat Pro</td>
       <td>zhimi.toilet.sa1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2764</th>
+      <th>2766</th>
       <td><img src="./assets/icons/raw/zhimi.toilet.va1.png"></td>
       <td>Smartmi Smart Bidet Toilet Seat S</td>
       <td>zhimi.toilet.va1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2765</th>
+      <th>2767</th>
       <td><img src="./assets/icons/raw/tinymu.toiletlid.v1.png"></td>
       <td>TINYMU Smart Toilet</td>
       <td>tinymu.toiletlid.v1</td>
       <td>ZWC1647-A01</td>
     </tr>
     <tr>
-      <th>2766</th>
+      <th>2768</th>
       <td><img src="./assets/icons/raw/tinymu.toilet.ailid.png"></td>
       <td>TINYMU Smart Toilet AI Version</td>
       <td>tinymu.toilet.ailid</td>
       <td></td>
     </tr>
     <tr>
-      <th>2767</th>
+      <th>2769</th>
       <td><img src="./assets/icons/raw/xjx.toilet.pro.png"></td>
       <td>Uclean Smart Toilet Seat</td>
       <td>xjx.toilet.pro</td>
@@ -21295,21 +21309,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2768</th>
+      <th>2770</th>
       <td><img src="./assets/icons/raw/xjx.toilet.pure.png"></td>
       <td>Uclean smart toilet pure</td>
       <td>xjx.toilet.pure</td>
       <td></td>
     </tr>
     <tr>
-      <th>2769</th>
+      <th>2771</th>
       <td><img src="./assets/icons/raw/xjx.toilet.relax.png"></td>
       <td>Uclean smart toilet relax</td>
       <td>xjx.toilet.relax</td>
       <td></td>
     </tr>
     <tr>
-      <th>2770</th>
+      <th>2772</th>
       <td><img src="./assets/icons/raw/xjx.toilet.zero.png"></td>
       <td>Whale Spout Smart Toilet Zero</td>
       <td>xjx.toilet.zero</td>
@@ -21331,294 +21345,294 @@
   </thead>
   <tbody>
     <tr>
-      <th>2771</th>
+      <th>2773</th>
       <td><img src="./assets/icons/raw/mibx2.washer.v1.png"></td>
       <td>Mi Internet Direct Drive Washer Dryer 10kg</td>
       <td>mibx2.washer.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2772</th>
+      <th>2774</th>
       <td><img src="./assets/icons/raw/minij.washer.v8.png"></td>
       <td>Mi Smart Combo Washer Dryer 10kg (or 1S 10kg Golden/Silver)</td>
       <td>minij.washer.v8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2773</th>
+      <th>2775</th>
       <td><img src="./assets/icons/raw/minij.washer.v11.png"></td>
       <td>Mi Smart Combo Washer Dryer 1S 10kg</td>
       <td>minij.washer.v11</td>
       <td></td>
     </tr>
     <tr>
-      <th>2774</th>
+      <th>2776</th>
       <td><img src="./assets/icons/raw/minij.washer.v5.png"></td>
       <td>Mi Smart Combo Washer Dryer Pro 10kg</td>
       <td>minij.washer.v5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2775</th>
+      <th>2777</th>
       <td><img src="./assets/icons/raw/minij.washer.v20.png"></td>
       <td>Mi Smart Mini Wave Washing Machine Pro 3 kg</td>
       <td>minij.washer.v20</td>
       <td></td>
     </tr>
     <tr>
-      <th>2776</th>
+      <th>2778</th>
       <td><img src="./assets/icons/raw/minij.washer.v10.png"></td>
       <td>Mi Washer Dryer 10kg</td>
       <td>minij.washer.v10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2777</th>
+      <th>2779</th>
       <td><img src="./assets/icons/raw/minij.washer.v14.png"></td>
       <td>Mi Washer Dryer 1C 10kg</td>
       <td>minij.washer.v14</td>
       <td></td>
     </tr>
     <tr>
-      <th>2778</th>
+      <th>2780</th>
       <td><img src="./assets/icons/raw/minij.washer.v12.png"></td>
       <td>MiniJ Smart Wall-mounted Washer</td>
       <td>minij.washer.v12</td>
       <td></td>
     </tr>
     <tr>
-      <th>2779</th>
+      <th>2781</th>
       <td><img src="./assets/icons/raw/minij.washer.v17.png"></td>
       <td>MiniJ Smart Wall-mounted Washer Dryer</td>
       <td>minij.washer.v17</td>
       <td></td>
     </tr>
     <tr>
-      <th>2780</th>
+      <th>2782</th>
       <td><img src="./assets/icons/raw/minij.washer.v15.png"></td>
       <td>Minij Washing Machine 2.8kg</td>
       <td>minij.washer.v15</td>
       <td></td>
     </tr>
     <tr>
-      <th>2781</th>
+      <th>2783</th>
       <td><img src="./assets/icons/raw/minij.washer.v1.png"></td>
       <td>Miniji Washing Machine</td>
       <td>minij.washer.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2782</th>
+      <th>2784</th>
       <td><img src="./assets/icons/raw/moyu.washer.s1hm.png"></td>
       <td>Moyu Smart Baby Washing Machine</td>
       <td>moyu.washer.s1hm</td>
       <td></td>
     </tr>
     <tr>
-      <th>2783</th>
+      <th>2785</th>
       <td><img src="./assets/icons/raw/viomi.washer.s1.png"></td>
       <td>Viomi Smart Top Loading Washing Machine (9KG)</td>
       <td>viomi.washer.s1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2784</th>
+      <th>2786</th>
       <td><img src="./assets/icons/raw/viomi.washer.v11.png"></td>
       <td>Viomi Smart Washer & Dryer Combo (10kg) WD10FB</td>
       <td>viomi.washer.v11</td>
       <td></td>
     </tr>
     <tr>
-      <th>2785</th>
+      <th>2787</th>
       <td><img src="./assets/icons/raw/viomi.washer.v10.png"></td>
       <td>Viomi Smart Washer & Dryer Combo (8kg) WD8FB</td>
       <td>viomi.washer.v10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2786</th>
+      <th>2788</th>
       <td><img src="./assets/icons/raw/viomi.washer.v8.png"></td>
       <td>Viomi Smart Washer & Dryer Combo Neo (10kg OTA )</td>
       <td>viomi.washer.v8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2787</th>
+      <th>2789</th>
       <td><img src="./assets/icons/raw/viomi.washer.v7.png"></td>
       <td>Viomi Smart Washer & Dryer Combo Neo (8kg OTA )</td>
       <td>viomi.washer.v7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2788</th>
+      <th>2790</th>
       <td><img src="./assets/icons/raw/viomi.washer.u2.png"></td>
       <td>Viomi Smart Washer&Dryer</td>
       <td>viomi.washer.u2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2789</th>
+      <th>2791</th>
       <td><img src="./assets/icons/raw/viomi.washer.u7.png"></td>
       <td>Viomi Smart Washer&Dryer (WD10S)</td>
       <td>viomi.washer.u7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2790</th>
+      <th>2792</th>
       <td><img src="./assets/icons/raw/viomi.washer.u4.png"></td>
       <td>Viomi Smart Washing Machine (10KG)</td>
       <td>viomi.washer.u4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2791</th>
+      <th>2793</th>
       <td><img src="./assets/icons/raw/viomi.washer.v24.png"></td>
       <td>Viomi Smart Washing Machine (10KG)</td>
       <td>viomi.washer.v24</td>
       <td></td>
     </tr>
     <tr>
-      <th>2792</th>
+      <th>2794</th>
       <td><img src="./assets/icons/raw/viomi.washer.v23.png"></td>
       <td>Viomi Smart Washing Machine (8KG)</td>
       <td>viomi.washer.v23</td>
       <td></td>
     </tr>
     <tr>
-      <th>2793</th>
+      <th>2795</th>
       <td><img src="./assets/icons/raw/viomi.washer.u3.png"></td>
       <td>Viomi Smart Washing Machine (8kg)</td>
       <td>viomi.washer.u3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2794</th>
+      <th>2796</th>
       <td><img src="./assets/icons/raw/viomi.washer.u5.png"></td>
       <td>Viomi Voice Controlled Washer & Dryer</td>
       <td>viomi.washer.u5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2795</th>
+      <th>2797</th>
       <td><img src="./assets/icons/raw/viomi.washer.u1.png"></td>
       <td>Viomi Voice Controlled Washing Machine</td>
       <td>viomi.washer.u1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2796</th>
+      <th>2798</th>
       <td><img src="./assets/icons/raw/viomi.washer.w1.png"></td>
       <td>Viomi Wall Mounted Washing Machine</td>
       <td>viomi.washer.w1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2797</th>
+      <th>2799</th>
       <td><img src="./assets/icons/raw/viomi.washer.v13.png"></td>
       <td>Viomi Washer & Dryer Neo (10kg)</td>
       <td>viomi.washer.v13</td>
       <td></td>
     </tr>
     <tr>
-      <th>2798</th>
+      <th>2800</th>
       <td><img src="./assets/icons/raw/viomi.washer.v28.png"></td>
       <td>Viomi Washer & Dryer Neo2 (10kg)</td>
       <td>viomi.washer.v28</td>
       <td></td>
     </tr>
     <tr>
-      <th>2799</th>
+      <th>2801</th>
       <td><img src="./assets/icons/raw/viomi.washer.v32.png"></td>
       <td>Viomi Washer Eyebot (12KG)</td>
       <td>viomi.washer.v32</td>
       <td></td>
     </tr>
     <tr>
-      <th>2800</th>
+      <th>2802</th>
       <td><img src="./assets/icons/raw/viomi.washer.v20.png"></td>
       <td>Viomi Washer&Dryer (10kg Navi Version)</td>
       <td>viomi.washer.v20</td>
       <td></td>
     </tr>
     <tr>
-      <th>2801</th>
+      <th>2803</th>
       <td><img src="./assets/icons/raw/viomi.washer.v17.png"></td>
       <td>Viomi Washer&Dryer Eyebot (11kg)</td>
       <td>viomi.washer.v17</td>
       <td></td>
     </tr>
     <tr>
-      <th>2802</th>
+      <th>2804</th>
       <td><img src="./assets/icons/raw/viomi.washer.v18.png"></td>
       <td>Viomi Washer&Dryer Eyebot Face 11kg</td>
       <td>viomi.washer.v18</td>
       <td></td>
     </tr>
     <tr>
-      <th>2803</th>
+      <th>2805</th>
       <td><img src="./assets/icons/raw/viomi.washer.v25.png"></td>
       <td>Viomi Washer&Dryer Master (10KG)</td>
       <td>viomi.washer.v25</td>
       <td></td>
     </tr>
     <tr>
-      <th>2804</th>
+      <th>2806</th>
       <td><img src="./assets/icons/raw/viomi.washer.v19.png"></td>
       <td>Viomi Washer&Dryer Neo (10kg DD)</td>
       <td>viomi.washer.v19</td>
       <td></td>
     </tr>
     <tr>
-      <th>2805</th>
+      <th>2807</th>
       <td><img src="./assets/icons/raw/viomi.washer.v26.png"></td>
       <td>Viomi Washer&Dryer Neo2 Pro (10kg DD)</td>
       <td>viomi.washer.v26</td>
       <td></td>
     </tr>
     <tr>
-      <th>2806</th>
+      <th>2808</th>
       <td><img src="./assets/icons/raw/viomi.washer.v6.png"></td>
       <td>Viomi Washer&Dryer Rose 9kg</td>
       <td>viomi.washer.v6</td>
       <td></td>
     </tr>
     <tr>
-      <th>2807</th>
+      <th>2809</th>
       <td><img src="./assets/icons/raw/viomi.washer.v5.png"></td>
       <td>Viomi Washing Drying Machine (10KG)</td>
       <td>viomi.washer.v5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2808</th>
+      <th>2810</th>
       <td><img src="./assets/icons/raw/viomi.washer.v4.png"></td>
       <td>Viomi Washing Drying Machine (8KG)</td>
       <td>viomi.washer.v4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2809</th>
+      <th>2811</th>
       <td><img src="./assets/icons/raw/viomi.washer.v21.png"></td>
       <td>Viomi Washing Machine (10kg Navi Version)</td>
       <td>viomi.washer.v21</td>
       <td></td>
     </tr>
     <tr>
-      <th>2810</th>
+      <th>2812</th>
       <td><img src="./assets/icons/raw/viomi.washer.v14.png"></td>
       <td>Viomi Washing Machine Neo (10kg)</td>
       <td>viomi.washer.v14</td>
       <td></td>
     </tr>
     <tr>
-      <th>2811</th>
+      <th>2813</th>
       <td><img src="./assets/icons/raw/viomi.washer.v27.png"></td>
       <td>Viomi Washing Machine Neo2 Pro (10kg DD)</td>
       <td>viomi.washer.v27</td>
       <td></td>
     </tr>
     <tr>
-      <th>2812</th>
+      <th>2814</th>
       <td><img src="./assets/icons/raw/whp.washer.wgf80870bi.png"></td>
       <td>whirlpool_waster_WG-F80870BI</td>
       <td>whp.washer.wgf80870bi</td>
@@ -21640,392 +21654,392 @@
   </thead>
   <tbody>
     <tr>
-      <th>2813</th>
+      <th>2815</th>
       <td><img src="./assets/icons/raw/pingke.waterheater.7a01.png"></td>
       <td>Apple Smart</td>
       <td>pingke.waterheater.7a01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2814</th>
+      <th>2816</th>
       <td><img src="./assets/icons/raw/smith.waterheater.cxeb1.png"></td>
       <td>Chanitex Electric Water Heater CXE-60B1</td>
       <td>smith.waterheater.cxeb1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2815</th>
+      <th>2817</th>
       <td><img src="./assets/icons/raw/smith.waterheater.cxea1.png"></td>
       <td>Chanitex Electric Water Heater CXE-A1</td>
       <td>smith.waterheater.cxea1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2816</th>
+      <th>2818</th>
       <td><img src="./assets/icons/raw/xckj.waterheater.int01.png"></td>
       <td>Circle kitchen ultra-thin Internet electric water heater</td>
       <td>xckj.waterheater.int01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2817</th>
+      <th>2819</th>
       <td><img src="./assets/icons/raw/xckj.waterheater.int02.png"></td>
       <td>Circle kitchen ultra-thin Internet electric water heater</td>
       <td>xckj.waterheater.int02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2818</th>
+      <th>2820</th>
       <td><img src="./assets/icons/raw/miir.waterheater.ir01.png"></td>
       <td>Heater Remote Control</td>
       <td>miir.waterheater.ir01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2819</th>
+      <th>2821</th>
       <td><img src="./assets/icons/raw/phnix.waterheater.sf.png"></td>
       <td>PHNIX Heat Pump Water Heater</td>
       <td>phnix.waterheater.sf</td>
       <td></td>
     </tr>
     <tr>
-      <th>2820</th>
+      <th>2822</th>
       <td><img src="./assets/icons/raw/wanhe.waterheater.s5.png"></td>
       <td>VANWARD Water Heater S5</td>
       <td>wanhe.waterheater.s5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2821</th>
+      <th>2823</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e1.png"></td>
       <td>VIOMI Internet electric water heater 1A (60L)</td>
       <td>viomi.waterheater.e1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2822</th>
+      <th>2824</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e4.png"></td>
       <td>VIOMI Internet electric water heater 50L (Premium Version)</td>
       <td>viomi.waterheater.e4</td>
       <td>VEW502</td>
     </tr>
     <tr>
-      <th>2823</th>
+      <th>2825</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e13.png"></td>
       <td>Viomi Electric Water Heater (50L)</td>
       <td>viomi.waterheater.e13</td>
       <td></td>
     </tr>
     <tr>
-      <th>2824</th>
+      <th>2826</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e14.png"></td>
       <td>Viomi Electric Water Heater (60L)</td>
       <td>viomi.waterheater.e14</td>
       <td></td>
     </tr>
     <tr>
-      <th>2825</th>
+      <th>2827</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e15.png"></td>
       <td>Viomi Electric Water Heater (80L)</td>
       <td>viomi.waterheater.e15</td>
       <td></td>
     </tr>
     <tr>
-      <th>2826</th>
+      <th>2828</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e19.png"></td>
       <td>Viomi Electric Water Heater VEW5015</td>
       <td>viomi.waterheater.e19</td>
       <td></td>
     </tr>
     <tr>
-      <th>2827</th>
+      <th>2829</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e21.png"></td>
       <td>Viomi Electric Water Heater VEW5016</td>
       <td>viomi.waterheater.e21</td>
       <td></td>
     </tr>
     <tr>
-      <th>2828</th>
+      <th>2830</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e20.png"></td>
       <td>Viomi Electric Water Heater VEW6015</td>
       <td>viomi.waterheater.e20</td>
       <td></td>
     </tr>
     <tr>
-      <th>2829</th>
+      <th>2831</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e22.png"></td>
       <td>Viomi Electric Water Heater VEW6016</td>
       <td>viomi.waterheater.e22</td>
       <td></td>
     </tr>
     <tr>
-      <th>2830</th>
+      <th>2832</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u10.png"></td>
       <td>Viomi Internet Gas Water Heater Zero (13L Zero Cold Water)</td>
       <td>viomi.waterheater.u10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2831</th>
+      <th>2833</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u6.png"></td>
       <td>Viomi Internet gas water heater 16L (Premium Version)</td>
       <td>viomi.waterheater.u6</td>
       <td>JSQ30-VGW163</td>
     </tr>
     <tr>
-      <th>2832</th>
+      <th>2834</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u4.png"></td>
       <td>Viomi Internet gas water heater 1A (13L)</td>
       <td>viomi.waterheater.u4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2833</th>
+      <th>2835</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e7.png"></td>
       <td>Viomi Smart Electric Water Heater Air (60L Dual-Tank Excellent)</td>
       <td>viomi.waterheater.e7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2834</th>
+      <th>2836</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e3.png"></td>
       <td>Viomi Smart Electric Water Heater Air (60L Dual-Tank Voice-Contorl)</td>
       <td>viomi.waterheater.e3</td>
       <td>VEW601</td>
     </tr>
     <tr>
-      <th>2835</th>
+      <th>2837</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e8.png"></td>
       <td>Viomi Smart Electric Water Heater Air (60L Dual-Tank Wisdom)</td>
       <td>viomi.waterheater.e8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2836</th>
+      <th>2838</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e16.png"></td>
       <td>Viomi Smart Electric Water Heater C1 (50L)</td>
       <td>viomi.waterheater.e16</td>
       <td></td>
     </tr>
     <tr>
-      <th>2837</th>
+      <th>2839</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.e17.png"></td>
       <td>Viomi Smart Electric Water Heater C1 (60L)</td>
       <td>viomi.waterheater.e17</td>
       <td></td>
     </tr>
     <tr>
-      <th>2838</th>
+      <th>2840</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u19.png"></td>
       <td>Viomi Smart Gas Water Heater 12L</td>
       <td>viomi.waterheater.u19</td>
       <td></td>
     </tr>
     <tr>
-      <th>2839</th>
+      <th>2841</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u3.png"></td>
       <td>Viomi Smart Gas Water Heater 1C (13L)</td>
       <td>viomi.waterheater.u3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2840</th>
+      <th>2842</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u16.png"></td>
       <td>Viomi Smart Gas Water Heater 1C 16L</td>
       <td>viomi.waterheater.u16</td>
       <td></td>
     </tr>
     <tr>
-      <th>2841</th>
+      <th>2843</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u24.png"></td>
       <td>Viomi Smart Gas Water Heater A1 13L</td>
       <td>viomi.waterheater.u24</td>
       <td></td>
     </tr>
     <tr>
-      <th>2842</th>
+      <th>2844</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u25.png"></td>
       <td>Viomi Smart Gas Water Heater A1 16L</td>
       <td>viomi.waterheater.u25</td>
       <td></td>
     </tr>
     <tr>
-      <th>2843</th>
+      <th>2845</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u22.png"></td>
       <td>Viomi Smart Gas Water Heater C1 13L</td>
       <td>viomi.waterheater.u22</td>
       <td></td>
     </tr>
     <tr>
-      <th>2844</th>
+      <th>2846</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u23.png"></td>
       <td>Viomi Smart Gas Water Heater C1 16L</td>
       <td>viomi.waterheater.u23</td>
       <td></td>
     </tr>
     <tr>
-      <th>2845</th>
+      <th>2847</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u31.png"></td>
       <td>Viomi Smart Gas Water Heater Mate 13L</td>
       <td>viomi.waterheater.u31</td>
       <td></td>
     </tr>
     <tr>
-      <th>2846</th>
+      <th>2848</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u32.png"></td>
       <td>Viomi Smart Gas Water Heater Mate 16L</td>
       <td>viomi.waterheater.u32</td>
       <td></td>
     </tr>
     <tr>
-      <th>2847</th>
+      <th>2849</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u29.png"></td>
       <td>Viomi Smart Gas Water Heater Mate Pro 13L</td>
       <td>viomi.waterheater.u29</td>
       <td></td>
     </tr>
     <tr>
-      <th>2848</th>
+      <th>2850</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u30.png"></td>
       <td>Viomi Smart Gas Water Heater Mate Pro 16L</td>
       <td>viomi.waterheater.u30</td>
       <td></td>
     </tr>
     <tr>
-      <th>2849</th>
+      <th>2851</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u17.png"></td>
       <td>Viomi Smart Gas Water Heater S1 13L</td>
       <td>viomi.waterheater.u17</td>
       <td></td>
     </tr>
     <tr>
-      <th>2850</th>
+      <th>2852</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u18.png"></td>
       <td>Viomi Smart Gas Water Heater S1 16L</td>
       <td>viomi.waterheater.u18</td>
       <td></td>
     </tr>
     <tr>
-      <th>2851</th>
+      <th>2853</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u33.png"></td>
       <td>Viomi Smart Gas Water Heater VGW1615 16L</td>
       <td>viomi.waterheater.u33</td>
       <td></td>
     </tr>
     <tr>
-      <th>2852</th>
+      <th>2854</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u39.png"></td>
       <td>Viomi Smart Gas Water Heater VGW1617 16L</td>
       <td>viomi.waterheater.u39</td>
       <td></td>
     </tr>
     <tr>
-      <th>2853</th>
+      <th>2855</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u34.png"></td>
       <td>Viomi Smart Gas Water Heater VGW1815 18L</td>
       <td>viomi.waterheater.u34</td>
       <td></td>
     </tr>
     <tr>
-      <th>2854</th>
+      <th>2856</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u38.png"></td>
       <td>Viomi Smart Gas Water Heater VGW1817 18L</td>
       <td>viomi.waterheater.u38</td>
       <td></td>
     </tr>
     <tr>
-      <th>2855</th>
+      <th>2857</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u8.png"></td>
       <td>Viomi Smart Gas Water Heater Zero (18L)</td>
       <td>viomi.waterheater.u8</td>
       <td>JSQ34-VGW181</td>
     </tr>
     <tr>
-      <th>2856</th>
+      <th>2858</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u15.png"></td>
       <td>Viomi Smart Gas Water Heater Zero 12L</td>
       <td>viomi.waterheater.u15</td>
       <td></td>
     </tr>
     <tr>
-      <th>2857</th>
+      <th>2859</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u11.png"></td>
       <td>Viomi Smart Gas Water Heater Zero 13L</td>
       <td>viomi.waterheater.u11</td>
       <td></td>
     </tr>
     <tr>
-      <th>2858</th>
+      <th>2860</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u12.png"></td>
       <td>Viomi Smart Gas Water Heater Zero 16L</td>
       <td>viomi.waterheater.u12</td>
       <td></td>
     </tr>
     <tr>
-      <th>2859</th>
+      <th>2861</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u7.png"></td>
       <td>Viomi Smart Gas Water Heater Zero 16L</td>
       <td>viomi.waterheater.u7</td>
       <td>JSQ30-VGW161</td>
     </tr>
     <tr>
-      <th>2860</th>
+      <th>2862</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u26.png"></td>
       <td>Viomi Smart Gas Water Heater Zero S1 13L</td>
       <td>viomi.waterheater.u26</td>
       <td></td>
     </tr>
     <tr>
-      <th>2861</th>
+      <th>2863</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u27.png"></td>
       <td>Viomi Smart Gas Water Heater Zero S1 16L</td>
       <td>viomi.waterheater.u27</td>
       <td></td>
     </tr>
     <tr>
-      <th>2862</th>
+      <th>2864</th>
       <td><img src="./assets/icons/raw/hzft.waterheater.d1301i.png"></td>
       <td>Water heater D1301i</td>
       <td>hzft.waterheater.d1301i</td>
       <td></td>
     </tr>
     <tr>
-      <th>2863</th>
+      <th>2865</th>
       <td><img src="./assets/icons/raw/iwarm.waterheater.l1p24.png"></td>
       <td>Xiaowo boiler</td>
       <td>iwarm.waterheater.l1p24</td>
       <td></td>
     </tr>
     <tr>
-      <th>2864</th>
+      <th>2866</th>
       <td><img src="./assets/icons/raw/viomi.waterheater.u1.png"></td>
       <td>Yunmi Internet gas water heater 1A (13L)</td>
       <td>viomi.waterheater.u1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2865</th>
+      <th>2867</th>
       <td><img src="./assets/icons/raw/wanhe.waterheater.dr.png"></td>
       <td>vanward-ElectricWaterHeater</td>
       <td>wanhe.waterheater.dr</td>
       <td></td>
     </tr>
     <tr>
-      <th>2866</th>
+      <th>2868</th>
       <td><img src="./assets/icons/raw/wanhe.waterheater.rr2.png"></td>
       <td>vanward-gasheater</td>
       <td>wanhe.waterheater.rr2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2867</th>
+      <th>2869</th>
       <td><img src="./assets/icons/raw/wanhe.waterheater.rr3.png"></td>
       <td>vanward-gasheater</td>
       <td>wanhe.waterheater.rr3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2868</th>
+      <th>2870</th>
       <td><img src="./assets/icons/raw/wanhe.waterheater.rr4.png"></td>
       <td>vanward_gasheater</td>
       <td>wanhe.waterheater.rr4</td>
@@ -22049,49 +22063,49 @@
   </thead>
   <tbody>
     <tr>
-      <th>2869</th>
+      <th>2871</th>
       <td><img src="./assets/icons/raw/ryeex.bracelet.sake.png"></td>
       <td>Hey+ Band</td>
       <td>ryeex.bracelet.sake</td>
       <td></td>
     </tr>
     <tr>
-      <th>2870</th>
+      <th>2872</th>
       <td><img src="./assets/icons/raw/xiaomi.watch.band1.png"></td>
       <td>Mi Band</td>
       <td>xiaomi.watch.band1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2871</th>
+      <th>2873</th>
       <td><img src="./assets/icons/raw/xiaomi.watch.band1A.png"></td>
       <td>Mi Band</td>
       <td>xiaomi.watch.band1A</td>
       <td></td>
     </tr>
     <tr>
-      <th>2872</th>
+      <th>2874</th>
       <td><img src="./assets/icons/raw/xiaomi.watch.band1S.png"></td>
       <td>Mi Band</td>
       <td>xiaomi.watch.band1S</td>
       <td></td>
     </tr>
     <tr>
-      <th>2873</th>
+      <th>2875</th>
       <td><img src="./assets/icons/raw/xiaomi.watch.band2.png"></td>
       <td>Mi Band</td>
       <td>xiaomi.watch.band2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2874</th>
+      <th>2876</th>
       <td><img src="./assets/icons/raw/hmpace.bracelet.v3nfc.png"></td>
       <td>Mi Band 3 NFC version</td>
       <td>hmpace.bracelet.v3nfc</td>
       <td></td>
     </tr>
     <tr>
-      <th>2875</th>
+      <th>2877</th>
       <td><img src="./assets/icons/raw/hmpace.bracelet.v4.png"></td>
       <td>Mi Smart Band 4 NFC</td>
       <td>hmpace.bracelet.v4</td>
@@ -22113,14 +22127,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2876</th>
+      <th>2878</th>
       <td><img src="./assets/icons/raw/ihealth.bpm.kd5907.png"></td>
       <td>Andon Smart Sphygmomanometer</td>
       <td>ihealth.bpm.kd5907</td>
       <td></td>
     </tr>
     <tr>
-      <th>2877</th>
+      <th>2879</th>
       <td><img src="./assets/icons/raw/ihealth.bp.bpm1.png"></td>
       <td>iHealth Sphygmomanometer</td>
       <td>ihealth.bp.bpm1</td>
@@ -22142,14 +22156,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2878</th>
+      <th>2880</th>
       <td><img src="./assets/icons/raw/hmpace.scales.mibfs.png"></td>
       <td>Mi Body Composition Scale 2</td>
       <td>hmpace.scales.mibfs</td>
       <td></td>
     </tr>
     <tr>
-      <th>2879</th>
+      <th>2881</th>
       <td><img src="./assets/icons/raw/yunmai.scales.m1690.png"></td>
       <td>YUNMAI mini2</td>
       <td>yunmai.scales.m1690</td>
@@ -22171,70 +22185,70 @@
   </thead>
   <tbody>
     <tr>
-      <th>2880</th>
+      <th>2882</th>
       <td><img src="./assets/icons/raw/17216.massage.ec1266a.png"></td>
       <td>Easewell AI Massage Chair</td>
       <td>17216.massage.ec1266a</td>
       <td></td>
     </tr>
     <tr>
-      <th>2881</th>
+      <th>2883</th>
       <td><img src="./assets/icons/raw/rotai.massage.rt5728.png"></td>
       <td>MOMODA RT5728</td>
       <td>rotai.massage.rt5728</td>
       <td>RT5728</td>
     </tr>
     <tr>
-      <th>2882</th>
+      <th>2884</th>
       <td><img src="./assets/icons/raw/rotai.massage.rt5870.png"></td>
       <td>MOMODA RT5870</td>
       <td>rotai.massage.rt5870</td>
       <td></td>
     </tr>
     <tr>
-      <th>2883</th>
+      <th>2885</th>
       <td><img src="./assets/icons/raw/rotai.massage.rt5863.png"></td>
       <td>MomoDa AI Massage Chair</td>
       <td>rotai.massage.rt5863</td>
       <td></td>
     </tr>
     <tr>
-      <th>2884</th>
+      <th>2886</th>
       <td><img src="./assets/icons/raw/rotai.massage.rt5850.png"></td>
       <td>Rongtai 5850</td>
       <td>rotai.massage.rt5850</td>
       <td></td>
     </tr>
     <tr>
-      <th>2885</th>
+      <th>2887</th>
       <td><img src="./assets/icons/raw/rotai.massage.rt5850s.png"></td>
       <td>Rongtai 5850s</td>
       <td>rotai.massage.rt5850s</td>
       <td>RT5850s</td>
     </tr>
     <tr>
-      <th>2886</th>
+      <th>2888</th>
       <td><img src="./assets/icons/raw/rotai.massage.rt5859.png"></td>
       <td>Xiao mo xia 3D massage chair</td>
       <td>rotai.massage.rt5859</td>
       <td></td>
     </tr>
     <tr>
-      <th>2887</th>
+      <th>2889</th>
       <td><img src="./assets/icons/raw/biqing.massage.m6202.png"></td>
       <td>Yuxiu Massage Chair</td>
       <td>biqing.massage.m6202</td>
       <td></td>
     </tr>
     <tr>
-      <th>2888</th>
+      <th>2890</th>
       <td><img src="./assets/icons/raw/17216.massage.j6261a.png"></td>
       <td>joypal AI Health Master</td>
       <td>17216.massage.j6261a</td>
       <td></td>
     </tr>
     <tr>
-      <th>2889</th>
+      <th>2891</th>
       <td><img src="./assets/icons/raw/17216.massage.jp3209.png"></td>
       <td>joypal Health Smart</td>
       <td>17216.massage.jp3209</td>
@@ -22256,119 +22270,119 @@
   </thead>
   <tbody>
     <tr>
-      <th>2890</th>
+      <th>2892</th>
       <td><img src="./assets/icons/raw/janshi.magic_touch.g2.png"></td>
       <td>G2 Spinal comfort neck massager</td>
       <td>janshi.magic_touch.g2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2891</th>
+      <th>2893</th>
       <td><img src="./assets/icons/raw/jieman.magic_touch.ms9.png"></td>
       <td>Intelligent cervical massage instrument</td>
       <td>jieman.magic_touch.ms9</td>
       <td></td>
     </tr>
     <tr>
-      <th>2892</th>
+      <th>2894</th>
       <td><img src="./assets/icons/raw/rotai.magic_touch.sx300.png"></td>
       <td>Intelligent plantar massager</td>
       <td>rotai.magic_touch.sx300</td>
       <td></td>
     </tr>
     <tr>
-      <th>2893</th>
+      <th>2895</th>
       <td><img src="./assets/icons/raw/jieman.magic_touch.js78.png"></td>
       <td>Jishu Intelligent Cervical Massage</td>
       <td>jieman.magic_touch.js78</td>
       <td></td>
     </tr>
     <tr>
-      <th>2894</th>
+      <th>2896</th>
       <td><img src="./assets/icons/raw/jieman.magic_touch.js01.png"></td>
       <td>Jishu Intelligent cervical spine massage instrument</td>
       <td>jieman.magic_touch.js01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2895</th>
+      <th>2897</th>
       <td><img src="./assets/icons/raw/jieman.magic_touch.kdl0.png"></td>
       <td>Kangduoli Smart Massager</td>
       <td>jieman.magic_touch.kdl0</td>
       <td></td>
     </tr>
     <tr>
-      <th>2896</th>
+      <th>2898</th>
       <td><img src="./assets/icons/raw/rotai.magic_touch.sx315.png"></td>
       <td>MOMODA Head Massager</td>
       <td>rotai.magic_touch.sx315</td>
       <td></td>
     </tr>
     <tr>
-      <th>2897</th>
+      <th>2899</th>
       <td><img src="./assets/icons/raw/17216.magic_touch.d150.png"></td>
       <td>MagicTouch Warm</td>
       <td>17216.magic_touch.d150</td>
       <td></td>
     </tr>
     <tr>
-      <th>2898</th>
+      <th>2900</th>
       <td><img src="./assets/icons/raw/17216.magic_touch.d152.png"></td>
       <td>MagicTouch-Go</td>
       <td>17216.magic_touch.d152</td>
       <td></td>
     </tr>
     <tr>
-      <th>2899</th>
+      <th>2901</th>
       <td><img src="./assets/icons/raw/jieman.magic_touch.newf.png"></td>
       <td>New for Smart Massager</td>
       <td>jieman.magic_touch.newf</td>
       <td></td>
     </tr>
     <tr>
-      <th>2900</th>
+      <th>2902</th>
       <td><img src="./assets/icons/raw/dtr.magic_touch.211mgr.png"></td>
       <td>P5B Intelligent Neck Massager</td>
       <td>dtr.magic_touch.211mgr</td>
       <td></td>
     </tr>
     <tr>
-      <th>2901</th>
+      <th>2903</th>
       <td><img src="./assets/icons/raw/dtr.magic_touch.p6b.png"></td>
       <td>PGG Neck Massager P6</td>
       <td>dtr.magic_touch.p6b</td>
       <td></td>
     </tr>
     <tr>
-      <th>2902</th>
+      <th>2904</th>
       <td><img src="./assets/icons/raw/dtr.magic_touch.p7.png"></td>
       <td>PGG Neck Massager P7</td>
       <td>dtr.magic_touch.p7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2903</th>
+      <th>2905</th>
       <td><img src="./assets/icons/raw/jieman.magic_touch.tfs2.png"></td>
       <td>Tefeishi Smart Massager</td>
       <td>jieman.magic_touch.tfs2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2904</th>
+      <th>2906</th>
       <td><img src="./assets/icons/raw/jieman.magic_touch.tsf1.png"></td>
       <td>Tefeishi Smart Massager</td>
       <td>jieman.magic_touch.tsf1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2905</th>
+      <th>2907</th>
       <td><img src="./assets/icons/raw/jieman.magic_touch.ys01.png"></td>
       <td>Yashen Intelligent cervical massage instrument</td>
       <td>jieman.magic_touch.ys01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2906</th>
+      <th>2908</th>
       <td><img src="./assets/icons/raw/jieman.magic_touch.ys02.png"></td>
       <td>Yashen Smart Massager</td>
       <td>jieman.magic_touch.ys02</td>
@@ -22390,21 +22404,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2907</th>
+      <th>2909</th>
       <td><img src="./assets/icons/raw/degree.lunar.smh013.png"></td>
       <td>37 Degree Sleep Tracking Strap SMH013</td>
       <td>degree.lunar.smh013</td>
       <td></td>
     </tr>
     <tr>
-      <th>2908</th>
+      <th>2910</th>
       <td><img src="./assets/icons/raw/jyx.lunar.049901.png"></td>
       <td>Bioradar</td>
       <td>jyx.lunar.049901</td>
       <td></td>
     </tr>
     <tr>
-      <th>2909</th>
+      <th>2911</th>
       <td><img src="./assets/icons/raw/thinks.lunar.xm1.png"></td>
       <td>Smart Sleeping Sensor -- Lunar</td>
       <td>thinks.lunar.xm1</td>
@@ -22426,28 +22440,28 @@
   </thead>
   <tbody>
     <tr>
-      <th>2910</th>
+      <th>2912</th>
       <td><img src="./assets/icons/raw/desay.bleshoes.s311.png"></td>
       <td>90 urevo</td>
       <td>desay.bleshoes.s311</td>
       <td></td>
     </tr>
     <tr>
-      <th>2911</th>
+      <th>2913</th>
       <td><img src="./assets/icons/raw/codoon.bleshoes.s10k.png"></td>
       <td>CODOOON RUNNER 10K</td>
       <td>codoon.bleshoes.s10k</td>
       <td></td>
     </tr>
     <tr>
-      <th>2912</th>
+      <th>2914</th>
       <td><img src="./assets/icons/raw/trios1.bleshoes.v02.png"></td>
       <td>FreeTie Smart Sports Core</td>
       <td>trios1.bleshoes.v02</td>
       <td></td>
     </tr>
     <tr>
-      <th>2913</th>
+      <th>2915</th>
       <td><img src="./assets/icons/raw/trios.bleshoes.v1.png"></td>
       <td>Mijia smart running shoes</td>
       <td>trios.bleshoes.v1</td>
@@ -22469,21 +22483,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2914</th>
+      <th>2916</th>
       <td><img src="./assets/icons/raw/miaomiaoce.thermo.t10.png"></td>
       <td>Mi Digital Thermometer</td>
       <td>miaomiaoce.thermo.t10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2915</th>
+      <th>2917</th>
       <td><img src="./assets/icons/raw/miaomiaoce.thermo.t11.png"></td>
       <td>ZenMeasure Bluetooth Electronic Thermometer</td>
       <td>miaomiaoce.thermo.t11</td>
       <td></td>
     </tr>
     <tr>
-      <th>2916</th>
+      <th>2918</th>
       <td><img src="./assets/icons/raw/miaomiaoce.thermo.t01.png"></td>
       <td>Zenmeasure smart thermometer</td>
       <td>miaomiaoce.thermo.t01</td>
@@ -22505,42 +22519,42 @@
   </thead>
   <tbody>
     <tr>
-      <th>2917</th>
+      <th>2919</th>
       <td><img src="./assets/icons/raw/k0918.toothbrush.kid01.png"></td>
       <td>DR.BEI Kids Sonic Electric Toothbrush</td>
       <td>k0918.toothbrush.kid01</td>
       <td></td>
     </tr>
     <tr>
-      <th>2918</th>
+      <th>2920</th>
       <td><img src="./assets/icons/raw/soocare.toothbrush.m1.png"></td>
       <td>Mi Electric Toothbrush</td>
       <td>soocare.toothbrush.m1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2919</th>
+      <th>2921</th>
       <td><img src="./assets/icons/raw/soocare.toothbrush.mc1.png"></td>
       <td>Mi Kids Electric Toothbrush</td>
       <td>soocare.toothbrush.mc1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2920</th>
+      <th>2922</th>
       <td><img src="./assets/icons/raw/soocare.toothbrush.m1s.png"></td>
       <td>Mi Smart Electric Toothbrush T500</td>
       <td>soocare.toothbrush.m1s</td>
       <td></td>
     </tr>
     <tr>
-      <th>2921</th>
+      <th>2923</th>
       <td><img src="./assets/icons/raw/zhij.toothbrush.bv1.png"></td>
       <td>Smartknow Smart Sterilization Cup Bluetooth Version</td>
       <td>zhij.toothbrush.bv1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2922</th>
+      <th>2924</th>
       <td><img src="./assets/icons/raw/soocare.toothbrush.x3.png"></td>
       <td>Soocare Electric Toothbrush</td>
       <td>soocare.toothbrush.x3</td>
@@ -22562,161 +22576,161 @@
   </thead>
   <tbody>
     <tr>
-      <th>2923</th>
+      <th>2925</th>
       <td><img src="./assets/icons/raw/hmpace.watch.v1.png"></td>
       <td>Amazfit Watch</td>
       <td>hmpace.watch.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2924</th>
+      <th>2926</th>
       <td><img src="./assets/icons/raw/codoon.watch.s1.png"></td>
       <td>CODOON GPS SPORT WATCH S1</td>
       <td>codoon.watch.s1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2925</th>
+      <th>2927</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.v1.png"></td>
       <td>Mi Bunny Watch</td>
       <td>xiaoxun.watch.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2926</th>
+      <th>2928</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.v3.png"></td>
       <td>Mi Kids Smartwatch 2</td>
       <td>xiaoxun.watch.v3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2927</th>
+      <th>2929</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.v9.png"></td>
       <td>Mi Kids Smartwatch 2C</td>
       <td>xiaoxun.watch.v9</td>
       <td></td>
     </tr>
     <tr>
-      <th>2928</th>
+      <th>2930</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.sw560.png"></td>
       <td>Mi Kids Smartwatch 2S</td>
       <td>xiaoxun.watch.sw560</td>
       <td></td>
     </tr>
     <tr>
-      <th>2929</th>
+      <th>2931</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.v11.png"></td>
       <td>Mi Kids Smartwatch 3</td>
       <td>xiaoxun.watch.v11</td>
       <td></td>
     </tr>
     <tr>
-      <th>2930</th>
+      <th>2932</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.sw760.png"></td>
       <td>Mi Kids Smartwatch 3C</td>
       <td>xiaoxun.watch.sw760</td>
       <td></td>
     </tr>
     <tr>
-      <th>2931</th>
+      <th>2933</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.sw761.png"></td>
       <td>Mi Kids Smartwatch 4</td>
       <td>xiaoxun.watch.sw761</td>
       <td></td>
     </tr>
     <tr>
-      <th>2932</th>
+      <th>2934</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.sw960.png"></td>
       <td>Mi Kids Smartwatch 4 Pro</td>
       <td>xiaoxun.watch.sw960</td>
       <td></td>
     </tr>
     <tr>
-      <th>2933</th>
+      <th>2935</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.sw762.png"></td>
       <td>Mi Kids Smartwatch 4C</td>
       <td>xiaoxun.watch.sw762</td>
       <td></td>
     </tr>
     <tr>
-      <th>2934</th>
+      <th>2936</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.sw763.png"></td>
       <td>Mi Kids Smartwatch 4X</td>
       <td>xiaoxun.watch.sw763</td>
       <td></td>
     </tr>
     <tr>
-      <th>2935</th>
+      <th>2937</th>
       <td><img src="./assets/icons/raw/inshow.watch.w1.png"></td>
       <td>Mi Quartz Watch</td>
       <td>inshow.watch.w1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2936</th>
+      <th>2938</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.sw900.png"></td>
       <td>Xun AI Smartwatch MAX Pro</td>
       <td>xiaoxun.watch.sw900</td>
       <td></td>
     </tr>
     <tr>
-      <th>2937</th>
+      <th>2939</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.v2.png"></td>
       <td>Xun Kids Smartwatch</td>
       <td>xiaoxun.watch.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2938</th>
+      <th>2940</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.v7.png"></td>
       <td>Xun Kids Smartwatch A2</td>
       <td>xiaoxun.watch.v7</td>
       <td></td>
     </tr>
     <tr>
-      <th>2939</th>
+      <th>2941</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.sw306.png"></td>
       <td>Xun Kids Smartwatch A3</td>
       <td>xiaoxun.watch.sw306</td>
       <td></td>
     </tr>
     <tr>
-      <th>2940</th>
+      <th>2942</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.v8.png"></td>
       <td>Xun Kids Smartwatch F1</td>
       <td>xiaoxun.watch.v8</td>
       <td></td>
     </tr>
     <tr>
-      <th>2941</th>
+      <th>2943</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.v10.png"></td>
       <td>Xun Kids Smartwatch F2</td>
       <td>xiaoxun.watch.v10</td>
       <td></td>
     </tr>
     <tr>
-      <th>2942</th>
+      <th>2944</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.v5.png"></td>
       <td>Xun Kids Smartwatch S1</td>
       <td>xiaoxun.watch.v5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2943</th>
+      <th>2945</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.v4.png"></td>
       <td>Xun Kids Smartwatch T1</td>
       <td>xiaoxun.watch.v4</td>
       <td></td>
     </tr>
     <tr>
-      <th>2944</th>
+      <th>2946</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.sw710a2.png"></td>
       <td>Xun Kids Smartwatch X1</td>
       <td>xiaoxun.watch.sw710a2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2945</th>
+      <th>2947</th>
       <td><img src="./assets/icons/raw/xiaoxun.watch.sw705.png"></td>
       <td>Xun Kids Smartwatch Y1</td>
       <td>xiaoxun.watch.sw705</td>
@@ -22738,7 +22752,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2946</th>
+      <th>2948</th>
       <td><img src="./assets/icons/raw/hmpace.scales.miscale2.png"></td>
       <td>Mi Smart Scale 2</td>
       <td>hmpace.scales.miscale2</td>
@@ -22762,21 +22776,21 @@
   </thead>
   <tbody>
     <tr>
-      <th>2947</th>
+      <th>2949</th>
       <td><img src="./assets/icons/raw/midr.bike.x1.png"></td>
       <td>70mai Smart E- A1 Pro</td>
       <td>midr.bike.x1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2948</th>
+      <th>2950</th>
       <td><img src="./assets/icons/raw/qicyc.bike.xmdzlzxc01qj.png"></td>
       <td>Mi Smart Electric Folding Bike</td>
       <td>qicyc.bike.xmdzlzxc01qj</td>
       <td></td>
     </tr>
     <tr>
-      <th>2949</th>
+      <th>2951</th>
       <td><img src="./assets/icons/raw/qicyc.bike.tdp02z.png"></td>
       <td>qicybike</td>
       <td>qicyc.bike.tdp02z</td>
@@ -22798,14 +22812,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2950</th>
+      <th>2952</th>
       <td><img src="./assets/icons/raw/roidmi.carairpuri.pro.png"></td>
       <td>MOJIETU Car-Air P8S</td>
       <td>roidmi.carairpuri.pro</td>
       <td></td>
     </tr>
     <tr>
-      <th>2951</th>
+      <th>2953</th>
       <td><img src="./assets/icons/raw/roidmi.carairpuri.v1.png"></td>
       <td>MiJia Car Air Purifier</td>
       <td>roidmi.carairpuri.v1</td>
@@ -22827,14 +22841,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>2952</th>
+      <th>2954</th>
       <td><img src="./assets/icons/raw/roidmi.btfm.m1.png"></td>
       <td>Roidmi Music Blue C</td>
       <td>roidmi.btfm.m1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2953</th>
+      <th>2955</th>
       <td><img src="./assets/icons/raw/roidmi.btfm.v1.png"></td>
       <td>Rui Mi Car Bluetooth Player</td>
       <td>roidmi.btfm.v1</td>
@@ -22856,49 +22870,49 @@
   </thead>
   <tbody>
     <tr>
-      <th>2954</th>
+      <th>2956</th>
       <td><img src="./assets/icons/raw/midr.cardvr.v1.png"></td>
       <td>Mi Dash Cam</td>
       <td>midr.cardvr.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2955</th>
+      <th>2957</th>
       <td><img src="./assets/icons/raw/midr.cardvr.v2.png"></td>
       <td>Mi Dash Cam 1S</td>
       <td>midr.cardvr.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2956</th>
+      <th>2958</th>
       <td><img src="./assets/icons/raw/midr.cardvr.wv2.png"></td>
       <td>Mi Dash Cam 1S</td>
       <td>midr.cardvr.wv2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2957</th>
+      <th>2959</th>
       <td><img src="./assets/icons/raw/midr.cardvr.mv2h.png"></td>
       <td>Mi Dash Cam 2</td>
       <td>midr.cardvr.mv2h</td>
       <td></td>
     </tr>
     <tr>
-      <th>2958</th>
+      <th>2960</th>
       <td><img src="./assets/icons/raw/midr.cardvr.mv2.png"></td>
       <td>Mi Dash Cam 2 2K</td>
       <td>midr.cardvr.mv2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2959</th>
+      <th>2961</th>
       <td><img src="./assets/icons/raw/midr.cardvr.mv2n.png"></td>
       <td>Mi Dash Cam2 1080p</td>
       <td>midr.cardvr.mv2n</td>
       <td></td>
     </tr>
     <tr>
-      <th>2960</th>
+      <th>2962</th>
       <td><img src="./assets/icons/raw/midr.cardvr.m1.png"></td>
       <td>Mi rear-view mirror recorder</td>
       <td>midr.cardvr.m1</td>
@@ -22920,7 +22934,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2961</th>
+      <th>2963</th>
       <td><img src="./assets/icons/raw/chuangmi.wifi.v1.png"></td>
       <td>Xiaomi portable WIFI</td>
       <td>chuangmi.wifi.v1</td>
@@ -22942,7 +22956,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2962</th>
+      <th>2964</th>
       <td><img src="./assets/icons/raw/zimi.powerbank.v1.png"></td>
       <td>ZMI Power Bank</td>
       <td>zimi.powerbank.v1</td>
@@ -22964,42 +22978,42 @@
   </thead>
   <tbody>
     <tr>
-      <th>2963</th>
+      <th>2965</th>
       <td><img src="./assets/icons/raw/ninebot.scooter.v1.png"></td>
       <td>Electric Scooter</td>
       <td>ninebot.scooter.v1</td>
       <td></td>
     </tr>
     <tr>
-      <th>2964</th>
+      <th>2966</th>
       <td><img src="./assets/icons/raw/ninebot.scooter.v3.png"></td>
       <td>Mi Electric Scooter 1S</td>
       <td>ninebot.scooter.v3</td>
       <td></td>
     </tr>
     <tr>
-      <th>2965</th>
+      <th>2967</th>
       <td><img src="./assets/icons/raw/ninebot.scooter.v6.png"></td>
       <td>Mi Electric Scooter 1S</td>
       <td>ninebot.scooter.v6</td>
       <td></td>
     </tr>
     <tr>
-      <th>2966</th>
+      <th>2968</th>
       <td><img src="./assets/icons/raw/ninebot.scooter.v5.png"></td>
       <td>Mi Electric Scooter Essential</td>
       <td>ninebot.scooter.v5</td>
       <td></td>
     </tr>
     <tr>
-      <th>2967</th>
+      <th>2969</th>
       <td><img src="./assets/icons/raw/ninebot.scooter.v2.png"></td>
       <td>Mi Electric Scooter Pro</td>
       <td>ninebot.scooter.v2</td>
       <td></td>
     </tr>
     <tr>
-      <th>2968</th>
+      <th>2970</th>
       <td><img src="./assets/icons/raw/ninebot.scooter.v4.png"></td>
       <td>Mi Electric Scooter Pro 2 series</td>
       <td>ninebot.scooter.v4</td>
@@ -23021,7 +23035,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2969</th>
+      <th>2971</th>
       <td><img src="./assets/icons/raw/ninebot.balscooter.v1.png"></td>
       <td>Ninebot</td>
       <td>ninebot.balscooter.v1</td>
@@ -23043,7 +23057,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>2970</th>
+      <th>2972</th>
       <td><img src="./assets/icons/raw/runmi.suitcase.v1.png"></td>
       <td>90 Marks Smart Metal Suitcase</td>
       <td>runmi.suitcase.v1</td>
