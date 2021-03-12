@@ -1,6 +1,5 @@
 # Mi-zoo
-___
-<sup><sub>Complete list of Xiaomi Mi Smart Home Ecosystem devices with descriptions and codes.</sub></sup>
+Complete list of Xiaomi Mi Smart Home Ecosystem devices with descriptions and codes
 
 ### Pages
 **[Devices](./markdown/devices.md)** - markdown page with all devices with image, model id, product number
