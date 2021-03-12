@@ -1164,7 +1164,7 @@
       <td><img src="./assets/icons/raw/chuangmi.camera.ipc013d.png"></td>
       <td>IMI Home Security Camera 1080P Global</td>
       <td>chuangmi.camera.ipc013d</td>
-      <td></td>
+      <td>CMSXJ13B</td>
     </tr>
     <tr>
       <th>134</th>
@@ -1234,7 +1234,7 @@
       <td><img src="./assets/icons/raw/chuangmi.camera.ipc016.png"></td>
       <td>IMILAB Home Security Camera Basic</td>
       <td>chuangmi.camera.ipc016</td>
-      <td></td>
+      <td>CMSXJ16A</td>
     </tr>
     <tr>
       <th>144</th>
@@ -1276,7 +1276,7 @@
       <td><img src="./assets/icons/raw/chuangmi.camera.ip026c.png"></td>
       <td>Mi 360 Home Security Camera 1080p Essential</td>
       <td>chuangmi.camera.ip026c</td>
-      <td></td>
+      <td>MJSXJ08CM</td>
     </tr>
     <tr>
       <th>150</th>
@@ -1290,7 +1290,7 @@
       <td><img src="./assets/icons/raw/chuangmi.camera.ip029a.png"></td>
       <td>Mi 360 Home Security Camera 2K</td>
       <td>chuangmi.camera.ip029a</td>
-      <td></td>
+      <td>MJSXJ09CM</td>
     </tr>
     <tr>
       <th>152</th>
@@ -1304,7 +1304,7 @@
       <td><img src="./assets/icons/raw/chuangmi.camera.ipc021.png"></td>
       <td>Mi 360 Home Security Camera 2K Pro</td>
       <td>chuangmi.camera.ipc021</td>
-      <td></td>
+      <td>MJSXJ06CM</td>
     </tr>
     <tr>
       <th>154</th>
@@ -1325,7 +1325,7 @@
       <td><img src="./assets/icons/raw/mijia.camera.v1.png"></td>
       <td>Mi Home Security Camera</td>
       <td>mijia.camera.v1</td>
-      <td></td>
+      <td>SXJ01ZM</td>
     </tr>
     <tr>
       <th>157</th>
@@ -1346,21 +1346,21 @@
       <td><img src="./assets/icons/raw/chuangmi.camera.ipc009.png"></td>
       <td>Mi Home Security Camera 360 1080P</td>
       <td>chuangmi.camera.ipc009</td>
-      <td></td>
+      <td>MJSXJ02CM</td>
     </tr>
     <tr>
       <th>160</th>
       <td><img src="./assets/icons/raw/chuangmi.camera.ipc019.png"></td>
       <td>Mi Home Security Camera 360 1080P</td>
       <td>chuangmi.camera.ipc019</td>
-      <td></td>
+      <td>MJSXJ05CM</td>
     </tr>
     <tr>
       <th>161</th>
       <td><img src="./assets/icons/raw/mijia.camera.v3.png"></td>
       <td>Mi Home Security Camera Basic 1080P</td>
       <td>mijia.camera.v3</td>
-      <td></td>
+      <td>SXJ02ZM</td>
     </tr>
     <tr>
       <th>162</th>
@@ -3171,14 +3171,14 @@
       <td><img src="./assets/icons/raw/deerma.humidifier.jsq1.png"></td>
       <td>Mi S Smart humidifer</td>
       <td>deerma.humidifier.jsq1</td>
-      <td>MJJSQ03DY</td>
+      <td>SCKOA45 (SCK0A45)</td>
     </tr>
     <tr>
       <th>414</th>
       <td><img src="./assets/icons/raw/deerma.humidifier.jsq.png"></td>
       <td>Mi Smart Antibacterial Humidifier</td>
       <td>deerma.humidifier.jsq</td>
-      <td></td>
+      <td>ZNJSQ01DEM / SKV4140GL</td>
     </tr>
     <tr>
       <th>415</th>
@@ -3192,7 +3192,7 @@
       <td><img src="./assets/icons/raw/deerma.humidifier.mjjsq.png"></td>
       <td>Mi Smart Humidifier</td>
       <td>deerma.humidifier.mjjsq</td>
-      <td></td>
+      <td>MJJSQ03DY</td>
     </tr>
     <tr>
       <th>417</th>
@@ -3213,35 +3213,35 @@
       <td><img src="./assets/icons/raw/zhimi.humidifier.ca4.png"></td>
       <td>Smartmi Evaporative Humidifer 2</td>
       <td>zhimi.humidifier.ca4</td>
-      <td></td>
+      <td>CJXJSQ04ZM</td>
     </tr>
     <tr>
       <th>420</th>
       <td><img src="./assets/icons/raw/zhimi.humidifier.ca1.png"></td>
       <td>Smartmi Evaporative Humidifier</td>
       <td>zhimi.humidifier.ca1</td>
-      <td></td>
+      <td>SKV6001RU/SKV6001RT</td>
     </tr>
     <tr>
       <th>421</th>
       <td><img src="./assets/icons/raw/zhimi.humidifier.cb1.png"></td>
       <td>Smartmi Evaporative Humidifier</td>
       <td>zhimi.humidifier.cb1</td>
-      <td></td>
+      <td>SKV6001EU/SKV6001US</td>
     </tr>
     <tr>
       <th>422</th>
       <td><img src="./assets/icons/raw/zhimi.humidifier.cb2.png"></td>
       <td>Smartmi Evaporative Humidifier</td>
       <td>zhimi.humidifier.cb2</td>
-      <td></td>
+      <td>CJXJSQ02ZM  / SKV6004EU</td>
     </tr>
     <tr>
       <th>423</th>
       <td><img src="./assets/icons/raw/zhimi.humidifier.v1.png"></td>
       <td>Smartmi Humidifier</td>
       <td>zhimi.humidifier.v1</td>
-      <td></td>
+      <td>CJJSQ01ZM</td>
     </tr>
     <tr>
       <th>424</th>
@@ -3522,14 +3522,14 @@
       <td><img src="./assets/icons/raw/zhimi.airpurifier.v6.png"></td>
       <td>Mi Air Purifier Pro</td>
       <td>zhimi.airpurifier.v6</td>
-      <td></td>
+      <td>FJY4011CN</td>
     </tr>
     <tr>
       <th>462</th>
       <td><img src="./assets/icons/raw/zhimi.airpurifier.v7.png"></td>
       <td>Mi Air Purifier Pro</td>
       <td>zhimi.airpurifier.v7</td>
-      <td></td>
+      <td>FJY4013GL</td>
     </tr>
     <tr>
       <th>463</th>
@@ -4718,7 +4718,7 @@
       <td><img src="./assets/icons/raw/dmaker.airfresh.t2017.png"></td>
       <td>Mi Fresh Air Ventilator</td>
       <td>dmaker.airfresh.t2017</td>
-      <td></td>
+      <td>MJXFJ-300-G1</td>
     </tr>
     <tr>
       <th>620</th>
@@ -5021,14 +5021,14 @@
       <td><img src="./assets/icons/raw/rockrobo.vacuum.v1.png"></td>
       <td>Mi Robot Vacuum</td>
       <td>rockrobo.vacuum.v1</td>
-      <td></td>
+      <td>(SDJQR01RR/SKV4000CN) (China) / (SDJQR02RR/SKV4022GL) (Global)</td>
     </tr>
     <tr>
       <th>659</th>
       <td><img src="./assets/icons/raw/roborock.vacuum.m1s.png"></td>
       <td>Mi Robot Vacuum 1S</td>
       <td>roborock.vacuum.m1s</td>
-      <td></td>
+      <td>(SDJQR03RR/SKV4054CN) (China)</td>
     </tr>
     <tr>
       <th>660</th>
@@ -5063,7 +5063,7 @@
       <td><img src="./assets/icons/raw/mijia.vacuum.v2.png"></td>
       <td>Mi Robot Vacuum-Mop Essential</td>
       <td>mijia.vacuum.v2</td>
-      <td>MJSTG1</td>
+      <td>MJSTG1 / SKV4136GL</td>
     </tr>
     <tr>
       <th>665</th>
@@ -5084,14 +5084,14 @@
       <td><img src="./assets/icons/raw/viomi.vacuum.v7.png"></td>
       <td>Mi Robot Vacuum-Mop P</td>
       <td>viomi.vacuum.v7</td>
-      <td></td>
+      <td>STYTJ02YM / SKV4080CN / SKV4084CN</td>
     </tr>
     <tr>
       <th>668</th>
       <td><img src="./assets/icons/raw/viomi.vacuum.v8.png"></td>
       <td>Mi Robot Vacuum-Mop P</td>
       <td>viomi.vacuum.v8</td>
-      <td></td>
+      <td>STYJ02YM / SKV4109GL / SKV4110GL/ V-RVCLM21A / V-RVCLM21B</td>
     </tr>
     <tr>
       <th>669</th>
@@ -5301,7 +5301,7 @@
       <td><img src="./assets/icons/raw/viomi.vacuum.v11.png"></td>
       <td>Viomi V-SLAM Robot Vacuum</td>
       <td>viomi.vacuum.v11</td>
-      <td></td>
+      <td>VXVC05-SJ</td>
     </tr>
     <tr>
       <th>699</th>
@@ -5463,28 +5463,28 @@
       <td><img src="./assets/icons/raw/cubee.airrtc.th125a.png"></td>
       <td>Heatcold FCU thermostat</td>
       <td>cubee.airrtc.th125a</td>
-      <td></td>
+      <td>TH125A</td>
     </tr>
     <tr>
       <th>720</th>
       <td><img src="./assets/icons/raw/cubee.airrtc.th125t.png"></td>
       <td>Heatcold Heat Pump Thermostat</td>
       <td>cubee.airrtc.th125t</td>
-      <td></td>
+      <td>TH125T</td>
     </tr>
     <tr>
       <th>721</th>
       <td><img src="./assets/icons/raw/cubee.airrtc.th123e.png"></td>
       <td>Heatcold Heating Thermostat (Electric)</td>
       <td>cubee.airrtc.th123e</td>
-      <td></td>
+      <td>TH123E</td>
     </tr>
     <tr>
       <th>722</th>
       <td><img src="./assets/icons/raw/cubee.airrtc.th123w.png"></td>
       <td>Heatcold UFH Thermostat</td>
       <td>cubee.airrtc.th123w</td>
-      <td></td>
+      <td>TH123W</td>
     </tr>
     <tr>
       <th>723</th>
@@ -5670,14 +5670,14 @@
       <td><img src="./assets/icons/raw/philips.light.moonlight.png"></td>
       <td>Philips ZhiRui bedside lamp</td>
       <td>philips.light.moonlight</td>
-      <td></td>
+      <td>9290019202</td>
     </tr>
     <tr>
       <th>745</th>
       <td><img src="./assets/icons/raw/yeelink.light.ble1.png"></td>
       <td>Yeelight Bedside Lamp</td>
       <td>yeelink.light.ble1</td>
-      <td></td>
+      <td>(XMCTD01YL) (MUE4028RT/MUE4064GL)</td>
     </tr>
     <tr>
       <th>746</th>
@@ -6896,7 +6896,7 @@
       <td><img src="./assets/icons/raw/noc196.light.mdyctd.png"></td>
       <td>MIDIAN NO BLUE LIGHT MUSIC LAMP</td>
       <td>noc196.light.mdyctd</td>
-      <td></td>
+      <td>MDJKDH110</td>
     </tr>
     <tr>
       <th>918</th>
@@ -8268,7 +8268,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.ceiling15.png"></td>
       <td>Yeelight Ceiling Light 480 1S</td>
       <td>yeelink.light.ceiling15</td>
-      <td></td>
+      <td>YLXD42YL</td>
     </tr>
     <tr>
       <th>1114</th>
@@ -8282,7 +8282,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.ceiling14.png"></td>
       <td>Yeelight Ceiling Light Mini</td>
       <td>yeelink.light.ceiling14</td>
-      <td></td>
+      <td>YLXD09YL</td>
     </tr>
     <tr>
       <th>1116</th>
@@ -8380,7 +8380,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.ceiling3.png"></td>
       <td>Yeelight LED Ceiling Light</td>
       <td>yeelink.light.ceiling3</td>
-      <td>YLXD17YL</td>
+      <td>YLXD04YL/YLXD05YL/YLXD17YL</td>
     </tr>
     <tr>
       <th>1130</th>
@@ -9308,7 +9308,7 @@
       <td><img src="./assets/icons/raw/lumi.sensor_magnet.v1.png"></td>
       <td>Door & window sensor</td>
       <td>lumi.sensor_magnet.v1</td>
-      <td>MCCGQ01LM</td>
+      <td>MCCGQ01LM (YTC4039GL)</td>
     </tr>
     <tr>
       <th>1254</th>
@@ -9786,7 +9786,7 @@
       <td><img src="./assets/icons/raw/yeelink.light.dnlight2.png"></td>
       <td>Yeelight Mesh LED Downlight</td>
       <td>yeelink.light.dnlight2</td>
-      <td></td>
+      <td>YLSD01YL / MJTS01YL</td>
     </tr>
     <tr>
       <th>1318</th>
@@ -9987,7 +9987,7 @@
       <td><img src="./assets/icons/raw/lumi.gateway.acn01.png"></td>
       <td>Aqara Hub M1S</td>
       <td>lumi.gateway.acn01</td>
-      <td>ZHWG15LM</td>
+      <td>ZHWG15LM / AG013CNW01</td>
     </tr>
     <tr>
       <th>1336</th>
@@ -10064,7 +10064,7 @@
       <td><img src="./assets/icons/raw/lumi.gateway.mieu01.png"></td>
       <td>Mi Control Hub</td>
       <td>lumi.gateway.mieu01</td>
-      <td>ZHWG11LM-763 / DGNWQ05LM</td>
+      <td>ZHWG11LM-763 / DGNWG05LM</td>
     </tr>
     <tr>
       <th>1347</th>
@@ -10106,7 +10106,7 @@
       <td><img src="./assets/icons/raw/lumi.gateway.mgl03.png"></td>
       <td>Mi Smart Home Hub</td>
       <td>lumi.gateway.mgl03</td>
-      <td></td>
+      <td>ZNDMWG03LM/BHR4105 (CN), ZNDMWG02LM/YTC4044GL (GL)</td>
     </tr>
     <tr>
       <th>1353</th>
@@ -12539,7 +12539,7 @@
       <td><img src="./assets/icons/raw/lumi.plug.mmeu01.png"></td>
       <td>Mi Smart Plug (Zigbee)</td>
       <td>lumi.plug.mmeu01</td>
-      <td>ZNCZ04LM/GMR4014GL</td>
+      <td>ZNCZ04LM/GMR4014GL (wrong: ZHCZ04LM)</td>
     </tr>
     <tr>
       <th>1677</th>
@@ -13472,7 +13472,7 @@
       <td><img src="./assets/icons/raw/chuangmi.remote.v2.png"></td>
       <td>Mi Remote</td>
       <td>chuangmi.remote.v2</td>
-      <td></td>
+      <td>MJYKQ01CM</td>
     </tr>
     <tr>
       <th>1806</th>
@@ -13599,7 +13599,7 @@
       <td><img src="./assets/icons/raw/xiaomi.router.r2100.png"></td>
       <td>Mi Router AC2100</td>
       <td>xiaomi.router.r2100</td>
-      <td></td>
+      <td>Xiaomi Mi Router (Black, R2100)</td>
     </tr>
     <tr>
       <th>1822</th>
@@ -13655,7 +13655,7 @@
       <td><img src="./assets/icons/raw/xiaomi.router.rm2100.png"></td>
       <td>Redmi router AC2100</td>
       <td>xiaomi.router.rm2100</td>
-      <td></td>
+      <td>Xiaomi Redmi Router AC2100 (White, RM2100)</td>
     </tr>
     <tr>
       <th>1830</th>
@@ -13683,14 +13683,14 @@
       <td><img src="./assets/icons/raw/xiaomi.router.r2350.png"></td>
       <td>Xiaomi AIoT router AC2350</td>
       <td>xiaomi.router.r2350</td>
-      <td></td>
+      <td>AC2350</td>
     </tr>
     <tr>
       <th>1834</th>
       <td><img src="./assets/icons/raw/xiaomi.router.r3600.png"></td>
       <td>Xiaomi AIoT router AX3600</td>
       <td>xiaomi.router.r3600</td>
-      <td></td>
+      <td>AX3600</td>
     </tr>
     <tr>
       <th>1835</th>
@@ -16453,7 +16453,7 @@
       <td><img src="./assets/icons/raw/miaomiaoce.sensor_ht.t1.png"></td>
       <td>Mi Temperature and Humidity Monitor Digital Clock</td>
       <td>miaomiaoce.sensor_ht.t1</td>
-      <td>LYWSD03MMC/NUN4126GL</td>
+      <td>LYWSD03MMC/NUN4106CN/NUN4126GL</td>
     </tr>
     <tr>
       <th>2219</th>
@@ -17849,7 +17849,7 @@
       <td><img src="./assets/icons/raw/chunmi.cooker.press1.png"></td>
       <td>Mi IH Pressure Rice Cooker</td>
       <td>chunmi.cooker.press1</td>
-      <td></td>
+      <td>YLIH01CM</td>
     </tr>
     <tr>
       <th>2386</th>
@@ -17877,14 +17877,14 @@
       <td><img src="./assets/icons/raw/chunmi.cooker.normal1.png"></td>
       <td>Mi IH Rice Cooker</td>
       <td>chunmi.cooker.normal1</td>
-      <td></td>
+      <td>IHFB01CM</td>
     </tr>
     <tr>
       <th>2390</th>
       <td><img src="./assets/icons/raw/chunmi.cooker.normal2.png"></td>
       <td>Mi IH Rice Cooker</td>
       <td>chunmi.cooker.normal2</td>
-      <td></td>
+      <td>IHFB01CM, 2016DP1293</td>
     </tr>
     <tr>
       <th>2391</th>
@@ -19183,7 +19183,7 @@
       <td><img src="./assets/icons/raw/nwt.derh.wdh318efw1.png"></td>
       <td>NWT Internet Dehumidifier</td>
       <td>nwt.derh.wdh318efw1</td>
-      <td></td>
+      <td>WDH318EFW1</td>
     </tr>
     <tr>
       <th>2557</th>
@@ -19825,7 +19825,7 @@
       <td><img src="./assets/icons/raw/kxf321.mop.mo002.png"></td>
       <td>ZDG300s</td>
       <td>kxf321.mop.mo002</td>
-      <td></td>
+      <td>ZDG300</td>
     </tr>
     <tr>
       <th>2623</th>
@@ -20563,7 +20563,7 @@
       <td><img src="./assets/icons/raw/chuangmi.ir.v2.png"></td>
       <td>Mi Universal Remote</td>
       <td>chuangmi.ir.v2</td>
-      <td></td>
+      <td>NDZ-08-GA</td>
     </tr>
   </tbody>
 </table>
@@ -22160,7 +22160,7 @@
       <td><img src="./assets/icons/raw/hmpace.scales.mibfs.png"></td>
       <td>Mi Body Composition Scale 2</td>
       <td>hmpace.scales.mibfs</td>
-      <td></td>
+      <td>XMTZC05HM / NUN4048GL</td>
     </tr>
     <tr>
       <th>2881</th>

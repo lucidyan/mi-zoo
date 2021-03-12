@@ -1,25 +1,25 @@
 ,name_en,desc_en,model_id,product_number,product_additional,product_number_source_type
 0,Viomi Smart Water Purifier Fast3 (800G W),MIoT-Spec protocol access,yunmi.waterpuri.f3,,,
 1,Viomi Smart Refrigerator 21 Face (T-type three doors 408L),Yunmi Internet Refrigerator 21Face (T-shaped three-door 408L),viomi.fridge.x12,,,
-2,Mi IH Rice Cooker,,chunmi.cooker.normal2,,,
+2,Mi IH Rice Cooker,,chunmi.cooker.normal2,"IHFB01CM, 2016DP1293",,manual
 3,Switch Breaker WIFI X,Switch on-off device WIFI X version,leshi.switch.v002,,,
 4,MINI PRO socket,"Support socket switch, timing, delay",konke2.plug.minipr,,,
 5,Desgeo smart fishbowl,,hfjh.fishbowl.v1,,,
 6,Dooya Curtain,,dooya.curtain.m5,,,
 7,Mi Smart Steam Oven,,chunmi.oven.steam30lv1,,,
 8,synIOT rolling motor,Electric roller shutter controller,syniot.curtain.m1,,,
-9,Mi Robot Vacuum-Mop P,Mijia domestic sweeping machine,viomi.vacuum.v7,,,
+9,Mi Robot Vacuum-Mop P,Mijia domestic sweeping machine,viomi.vacuum.v7,STYTJ02YM / SKV4080CN / SKV4084CN,(Ch) Mi Robot Vacuum-Mop P / Mijia LDS / Viomi V2 / Viomi V2 Pro,manual
 10,King (1P),1P on hook KFRd-26GW/KH1-C1,viomi.aircondition.v6,KFRd-26GW/KH1-C1,,auto
 11,Remote control master-wifi to infrared-TV,Remote control master-wifi to infrared-TV,zhihw.tv.yk0002,,,
 12,Carrobot C2-Mini Pro,Smart HUD Pro,ileja.hud.ccms,,,
 13,Yeelight Smart Curtain Controller,,yeelink.curtain.ctmt1,,,
 14,Yeelight Screen Light Bar,,yeelink.light.lamp15,,,
-15,Door & window sensor,Door and window sensor,lumi.sensor_magnet.v1,MCCGQ01LM,,manual
+15,Door & window sensor,Door and window sensor,lumi.sensor_magnet.v1,MCCGQ01LM (YTC4039GL),,manual
 16,PTX Mesh intelligent one switch,PTX Bluetooth Mesh Smart Switch One on,090615.switch.mesw1,,,
 17,Qingping Air Monitor,Qingping Air Detector (Snow),cgllc.airmonitor.s1,CGS1,,manual
 18,Intelligent fresh air control,KP01C1530,ikecin.airfresh.95,,,
 19,Mijia Philips Desk Lamp 2S,Second generation table lamp S,philips.light.sread2,,,
-20,Xiaomi AIoT router AX3600,,xiaomi.router.r3600,,,
+20,Xiaomi AIoT router AX3600,,xiaomi.router.r3600,AX3600,,manual
 21,Yeelight Willow LED Lightstrip,Cane,yeelink.light.strip4,,,
 22,Mi Fresh Air Ventilator A1-150,"Mijia fresh air fan bedroom version, air volume 150 m3/h",dmaker.airfresh.a1,MJXFJ-150-A1,,manual
 23,switchPower_Warning,Power detection socket,coolki.plug.uiid32,,,
@@ -112,7 +112,7 @@ Huizuo Water Bottle Star Color Bubble",huayi.light.aqu114,,,
 104,Two way switch (2 way),Two way switch (2 way),kuju.light.1502,,,
 105,Golan Denmark Heating,Open platform access,nhy.airrtc.v1,,,
 106,NVC DieYing LED ceiling lamp,,leishi.light.esp114,,,
-107,Mi Home Security Camera Basic 1080P,"The second camera in cooperation with Zimi, Ingenic Platform",mijia.camera.v3,,,
+107,Mi Home Security Camera Basic 1080P,"The second camera in cooperation with Zimi, Ingenic Platform",mijia.camera.v3,SXJ02ZM,,manual
 108,KebbiAir,Nuwa Robot II,nuwa.robot.nb1,,,
 109,LED Controller,,zengge.light.ctrler,,,
 110,Pinfeng (DIM high version),,ldsn.light.2pfd17,,,
@@ -167,7 +167,7 @@ Product model: KFRd-72LW/Y3PD1-A1",viomi.aircondition.y2,KFRd-72LW/Y3PD1-A1,,aut
 153,Mi Laser Projector 1S 4K,"Mijia Laser Projection L176JCN-Pro, Andriod6.0",fengmi.projector.l176jp,,,
 154,Qiyuan curtain motor,,qykj.curtain.qycm60,,,
 155,Set-Top Box Remote Control,Mijia set-top box infrared remote control,miir.stb.ir01,,,
-156,ZDG300s,"This is a mopping robot that can mopping the floor. The robot is equipped with a water tank and a mop. When mopping the floor, the robot will autonomously plan the path, or clean it according to the area specified by the user.When the power of the robot is too low, it will automatically return to the pile for charging. At the same time, it supports the user to manually divide the cleaning area, set the cleaning time, and set the parameters of the mop.",kxf321.mop.mo002,,,
+156,ZDG300s,"This is a mopping robot that can mopping the floor. The robot is equipped with a water tank and a mop. When mopping the floor, the robot will autonomously plan the path, or clean it according to the area specified by the user.When the power of the robot is too low, it will automatically return to the pile for charging. At the same time, it supports the user to manually divide the cleaning area, set the cleaning time, and set the parameters of the mop.",kxf321.mop.mo002,ZDG300,,manual
 157,King 1S,1.5P on-hook KFRd-35GW/KV1-C1,viomi.aircondition.v8,KFRd-35GW/KV1-C1,,auto
 158,yeedi-k750,,yeedi.vacuum.750,,,
 159,Colorful lights,"Support switch, adjust brightness, adjust color, timing, delay",konke2.light.cobulb,,,
@@ -217,7 +217,7 @@ Product model: KFRd-26GW/Y3PE3-A1",viomi.aircondition.y35,KFRd-26GW/Y3PE3-A1,,au
 198,Smartmi Smart Bidet Toilet Seat Pro,"Zhimi high-end toilet seat, ST platform",zhimi.toilet.sa1,,,
 199,WSERD Smart roller shutter motor,"Weishida smart roller shutter motor, Xiaoai voice control",090615.curtain.wsjl01,,,
 200,Mi Smart Combo Washer Dryer 1S 10kg,JUMP Youth Edition+OTA+Xiaoai Internet,minij.washer.v11,,,
-201,Redmi router AC2100,,xiaomi.router.rm2100,,,
+201,Redmi router AC2100,,xiaomi.router.rm2100,"Xiaomi Redmi Router AC2100 (White, RM2100)",,manual
 202,KH TV Controller,"Through the mobile phone APP or with smart speakers, you can voice control home appliances.Cloud massive infrared code library, one-key pairing of home appliances.You can set the channel in the APP, and then you can control the channel by voice.No matter on the street, the company can use mobile phones to remotely control home appliances.",693948.tv.khp,,,
 203,Smart curtain controller,,aiicn.curtain.r51,,,
 204,Smart humidifier,Smart humidifier,arnoo.humidifier.aahz10,,,
@@ -232,7 +232,7 @@ View historical temperature values",kongke.sensor_ht.temp,,,
 212,Viomi Refrigerator (SBS 528L),MI-Spec protocol access,viomi.fridge.u37,,,
 213,Xiao mo xia 3D massage chair,Mid-range massage chair rt5859,rotai.massage.rt5859,,,
 214,Jinxing Smart Air Conditioner,Jinxing Smart Air Conditioner,idelan.aircondition.g2,,,
-215,Smartmi Evaporative Humidifier,Evaporative no pollution,zhimi.humidifier.ca1,,,
+215,Smartmi Evaporative Humidifier,Evaporative no pollution,zhimi.humidifier.ca1,SKV6001RU/SKV6001RT,,manual
 216,Xiangyu intelligent LED ceiling lamp,Xiangyu Smart LED Ceiling Light,jxgc.light.wyxy1,,,
 217,light,,wfiot.light.default,,,
 218,Philips Zhirui Ceiling Lamp Bedroom 28W,Philips Smart Ceiling Light 350,philips.light.bceiling2,,,
@@ -395,7 +395,7 @@ Product model: KFRd-35GW/Y4PM3-A3",viomi.aircondition.y50,KFRd-35GW/Y4PM3-A3,,au
 367,1 position dimmer switch,E3 1 position dimmer switch,simon.light.e1lsw,,,
 368,RedmiTV X series,,xiaomi.tv.rmh1,,,
 369,One Key Touch Switch X1 (WiFi),Xiaomi 1 touch switch WiFi version,leshi.switch.sw1b01,,,
-370,Mi 360 Home Security Camera 1080p Essential,Xiaomi Smart Camera-Single Axis Version,chuangmi.camera.ip026c,,,
+370,Mi 360 Home Security Camera 1080p Essential,Xiaomi Smart Camera-Single Axis Version,chuangmi.camera.ip026c,MJSXJ08CM,,manual
 371,MI Home smart clothes dryer,,hyd.airer.znlyj1,,,
 372,Mi 4K TV 82,,xiaomi.tv.4kh1,,,
 373,Mi Smart Multicooker 4L,,chunmi.cooker.eh402,,,
@@ -429,7 +429,7 @@ Product model: KFRd-35GW/Y4PM3-A3",viomi.aircondition.y50,KFRd-35GW/Y4PM3-A3,,au
 400,Three way switch,,milamp.switch.3lkg,,,
 401,Parking spaces are intelligently locked,Ground lock,park.switch.fp509,,,
 402,switch,Switchgear,hosjoy.switch.hoc,,,
-403,Mi Temperature and Humidity Monitor Digital Clock,"Mijia Bluetooth Thermometer 2 is a thermometer and hygrometer with time display function.The device uses the Elink screen, which can display the time very clearly.The device has Bluetooth, which can be connected to the bound Bluetooth device point-to-point, and can be used as a timing screen for electric toothbrushes, electric kettles, etc.",miaomiaoce.sensor_ht.t1,LYWSD03MMC/NUN4126GL,,manual
+403,Mi Temperature and Humidity Monitor Digital Clock,"Mijia Bluetooth Thermometer 2 is a thermometer and hygrometer with time display function.The device uses the Elink screen, which can display the time very clearly.The device has Bluetooth, which can be connected to the bound Bluetooth device point-to-point, and can be used as a timing screen for electric toothbrushes, electric kettles, etc.",miaomiaoce.sensor_ht.t1,LYWSD03MMC/NUN4106CN/NUN4126GL,,manual
 404,Romne Intelligent lamp,CHQ non-isolated two-color 33303,xgds.light.wy0a01,,,
 405,Yeelight Mesh Hub,BLE MESH Gateway,yeelink.gateway.v1,YLWG01YL,,manual
 406,IMILAB EC2 Wireless Camera Gateway,Used to mount low-power cameras,chuangmi.gateway.ipc011,,,
@@ -533,7 +533,7 @@ Product model: KFRd-35GW/Y4PM3-A3",viomi.aircondition.y50,KFRd-35GW/Y4PM3-A3,,au
 504,Mi Smart LED Living Room Ceiling Light,Cycle pro,yeelink.light.ceiling21,,,
 505,Clothes Drying Rack,Qiaba smart clothes dryer connected to Mijia,lbest.airer.lm01,,,
 506,SmartJoy Zhizhen wall switch (one key Mesh),,smartj.switch.sjlh1s,,,
-507,Yeelight Bedside Lamp,Yeelight Bluetooth light,yeelink.light.ble1,,,
+507,Yeelight Bedside Lamp,Yeelight Bluetooth light,yeelink.light.ble1,(XMCTD01YL) (MUE4028RT/MUE4064GL),,manual
 508,Sweeping robot,Sweeping robot,xzh.vacuum.vacuum,,,
 509,MR.BOND,"Mr. Bang's smart clothes dryer, on the basis of lighting and drying, adds ultraviolet disinfection function.",mrbond.airer.m1super,,,
 510,Zhirui Ceiling Lamp Starry 80W,Zhirui Ceiling Light Flowing Fluorescent 80W Living Room,philips.light.sceil,,,
@@ -673,7 +673,7 @@ Power 48W.",090615.curtain.sidt82,,,
 632,HUIZUO Fan Light (2020),"Huizuo 2020 version of new wind lighting
 huayi.light.fanwy2",huayi.light.fanwy2,,,
 633,Fan light,Fan light MWL2M,scmkcz.light.mwl2m,,,
-634,Mi Fresh Air Ventilator,Dream Maker Mijia New Fan,dmaker.airfresh.t2017,,,
+634,Mi Fresh Air Ventilator,Dream Maker Mijia New Fan,dmaker.airfresh.t2017,MJXFJ-300-G1,,manual
 635,Xiaoyan Smart Socket,,terncy.plug.tsp01,,,
 636,switch,,xinrui.switch.lh001,,,
 637,IMI Home Security Smart Lock X7,,chuangmi.lock.hmi505a01,,,
@@ -695,7 +695,7 @@ huayi.light.fanwy2",huayi.light.fanwy2,,,
 653,Door lock sensor,Detection of door open/close and door lock status,lumi.sensor_dlock.v1,,,
 654,curtain,,future.curtain.acm,,,
 655,Scene Ble mesh light A,Two-color mesh light,lejia.light.33301,,,
-656,Mi Universal Remote,Mi Universal Remote,chuangmi.ir.v2,,,
+656,Mi Universal Remote,Mi Universal Remote,chuangmi.ir.v2,NDZ-08-GA,"Rev1, Mi logo (don’t mess with MJYKQ01CM that have Mijia logo)",manual
 657,Viomi Refrigerator 21Face (451L),Android SDK access,viomi.fridge.b5,,,
 658,Viomi Smart Gas Water Heater Mate 13L,MIOT-SPEC,viomi.waterheater.u31,,,
 659,IMI Home Security Camera A1,Xiaobai Smart Camera A1,chuangmi.camera.ipc019e,,,
@@ -727,13 +727,13 @@ huayi.light.fanwy2",huayi.light.fanwy2,,,
 684,Smart socket,Support smart socket control,manka.plug.socket,,,
 685,webcam,webcam,xzh.camera.camera,,,
 686,Viomi Refrigerator (Cross Door 513L),MIoT-Spec protocol access,viomi.fridge.u44,,,
-687,Heatcold UFH Thermostat,Water heating thermostat,cubee.airrtc.th123w,,,
+687,Heatcold UFH Thermostat,Water heating thermostat,cubee.airrtc.th123w,TH123W,,manual
 688,Xiaoyan two-color temperature dimmer,,terncy.light.lt01,,,
 689,DESSMANN smart lock-Di H3,H3 smart door lock,dsm.lock.h3,,,
 690,Viomi Smart Washer & Dryer Combo Neo (8kg OTA ),Yunmi Internet Washing and Drying Machine (8KG),viomi.washer.v7,,,
 691,DanceLight I Series Ceiling Lamp,"Xiamen Topstar Co., Ltd. ceiling lamp project, using ESP-12S module, as a customer of Shenzhen Anxinke Technology Co., Ltd.",tsd.light.tp1,,,
 692,Viomi Wall Mounted Washing Machine,,viomi.washer.w1,,,
-693,Mi Home Security Camera 360 1080P,,chuangmi.camera.ipc009,,,
+693,Mi Home Security Camera 360 1080P,,chuangmi.camera.ipc009,MJSXJ02CM,,manual
 694,Remote control master-wifi to infrared-DVD,Remote control master-wifi to infrared-DVD,zhihw.switch.yk0003,,,
 695,Qingping Temp & RH Monitor Lite,Duck2,cgllc.sensor_ht.dk2,,,
 696,Viomi Internet refrigerator 21 face (side by side 450L),Yunmi Internet Refrigerator 21Face (with the door 450L),viomi.fridge.x4,,,
@@ -780,8 +780,8 @@ Charging protection",ikonke.plug.minipro,,,
 731,Yeelight Jade Smart LED Ceiling Light C2001,Slim jade quick loading chassis C450/C550/S500/R900,yeelink.light.ceil26,,,
 732,NVC Fan Light,,leishi.light.fan01,,,
 733,SmartAq,,heiman.airmonitor.hs2ar,,,
-734,Mi Router AC2100,,xiaomi.router.r2100,,,
-735,Mi Air Purifier Pro,Mijia Air Purifier Pro,zhimi.airpurifier.v6,,,
+734,Mi Router AC2100,,xiaomi.router.r2100,"Xiaomi Mi Router (Black, R2100)",,manual
+735,Mi Air Purifier Pro,Mijia Air Purifier Pro,zhimi.airpurifier.v6,FJY4011CN,,manual
 736,Ceiling light,Smart ceiling lamp supports brightness and color temperature adjustment,yszj.light.2110,,,
 737,"Aqara Wall Switch (No Neutral, Single Rocker)",Green rice Zigbee sub-device,lumi.ctrl_neutral1.v1,QBKG04LM,,manual
 738,Zhirui Ceiling Lamp Gorgeous 40W,Zhirui Ceiling Light Star Diamond Bedroom 40W,philips.light.xzceim,,,
@@ -878,7 +878,7 @@ Control method: remote control + WIFI APP",air.fan.ca23ad9,,,
 812,Mi Motion Sensor,Human body sensor 2,lumi.sensor_motion.v2,RTCGQ01LM,,manual
 813,Mi Smart Evaporative Humidifer,199,deerma.humidifier.jsq4,,,
 814,ir-air,"The infrared smart socket allows you to control most of the air conditioners or fans that support infrared control. The user only needs a mobile phone and APP to control all the traditional infrared appliances in the home.After successful installation, the smart socket will become a universal remote control device, which greatly expands the functions of the traditional smart socket, making family life more comfortable and simple.",oge.aircondition.stir0,,,
-815,Aqara Hub M1S,"The Aqara gateway M1S is a Zigbee3.0 gateway that can connect various Zigbee sub-devices, such as switches, sockets, motors, sensors, etc., to achieve rich intelligent scene linkage, and it has sound and light functions.",lumi.gateway.acn01,ZHWG15LM,,manual
+815,Aqara Hub M1S,"The Aqara gateway M1S is a Zigbee3.0 gateway that can connect various Zigbee sub-devices, such as switches, sockets, motors, sensors, etc., to achieve rich intelligent scene linkage, and it has sound and light functions.",lumi.gateway.acn01,ZHWG15LM / AG013CNW01,,manual
 816,Youth version thermostat,,linked.aircondition.st8,,,
 817,Yeelight LED Lightstrip 1S,pitaya plus 1s,yeelink.light.stripa,,,
 818,Mi 360 Home Security AI Camera,Xiaomi AI Camera Enhanced Edition,chuangmi.camera.ipc022,,,
@@ -1011,7 +1011,7 @@ FT179_WallSwitch_Single",linked.light.ft179,,,
 939,Smart curtain motor C2,,lumi.curtain.hagl07,,,
 940,Da Fang SMART CAMERA,Dafang Smart Camera (1080P PTZ Version),isa.camera.df3,,,
 941,Mi Network Radio Plus,"On the basis of the first generation of Internet radio, add Bluetooth speaker function",chuangmi.radio.v2,WLSYJ02CM,,manual
-942,Smartmi Evaporative Humidifer 2,"Increase the display screen, increase the amount of humidification",zhimi.humidifier.ca4,,,
+942,Smartmi Evaporative Humidifer 2,"Increase the display screen, increase the amount of humidification",zhimi.humidifier.ca4,CJXJSQ04ZM,,manual
 943,Shoes dryer,,htwl.dryer.v1,,,
 944,Three button wall switch,,szsy.switch.030003,,,
 945,Smart switch three positions,,thing.light.light3,,,
@@ -1181,7 +1181,7 @@ AHR3144YA",kadeer.heater.12b5rw,"AHR3144YA, NSC-220-12B5RW",,auto
 1084,SmartJoy intelligent curtain motor,SmartJoy Smart Curtain Motor (WiFi version),smartj.curtain.sjdt82,,,
 1085,fan,fan,xzh.fan.fan,,,
 1086,Smart LED lights,,anlin.light.22,,,
-1087,Heatcold FCU thermostat,Air conditioning controller,cubee.airrtc.th125a,,,
+1087,Heatcold FCU thermostat,Air conditioning controller,cubee.airrtc.th125a,TH125A,,manual
 1088,Mi Inverter Air Conditioner (1.5HP),"Mijia Internet air conditioner inverter A02T, three-level energy efficiency",xiaomi.aircondition.ma1,KFR-35GW-B1ZM-M3,,manual
 1089,NVC Smart Bath-Heater,,leishi.bhf_light.yuba02,,,
 1090,Uodi Cuber,,ydzl.waterpuri.t1,,,
@@ -1253,7 +1253,7 @@ Product model: KFRd-26GW/K1QB2-A1",viomi.aircondition.v32,KFRd-26GW/K1QB2-A1,,au
 Product model: KFRd-26GW/Y3PM4-A1",viomi.aircondition.y47,KFRd-26GW/Y3PM4-A1,,auto
 1151,Yaguan access test,Test switch access,yaguan.switch.test,,,
 1152,Mi Smart Rear-view Mirror,"Xiaomi Smart Rearview Mirror is an on-vehicle networked device. The rearview mirror can be fixed to the original rearview mirror of the vehicle through simple installation.The smart rearview mirror has application functions such as voice, navigation, online music, online radio, ADAS, Bluetooth calls, driving records, and in-vehicle WeChat.",midr.rv_mirror.v1,,,
-1153,NWT Internet Dehumidifier,18L,nwt.derh.wdh318efw1,,,
+1153,NWT Internet Dehumidifier,18L,nwt.derh.wdh318efw1,WDH318EFW1,,manual
 1154,Air conditioner infrared remote control,IR-BOX air conditioner remote control,kiwik.aircondition.irac,,,
 1155,Smart socket T1 (national standard),,lumi.plug.macn01,,,
 1156,AOK AM68 Smart Curtain,Dual mode,aok98.curtain.aok68,,,
@@ -1408,10 +1408,10 @@ The APP supports one-click scenario triggering, device linkage, and group contro
 1295,CWRGB bulb light,,nvcls.light.04000e,,,
 1296,Midea AC-Cool Golden,Midea WXA air conditioner,midea.aircondition.xa1,,,
 1297,CHEERS Smart Bed,Chivas Smart Bed,rmt.bed.zhsbed,,,
-1298,IMILAB Home Security Camera Basic,,chuangmi.camera.ipc016,,,
+1298,IMILAB Home Security Camera Basic,,chuangmi.camera.ipc016,CMSXJ16A,,manual
 1299,vanward-gasheater,Gas water heater series,wanhe.waterheater.rr2,,,
 1300,Viomi protable heating water purifier X2,MIoT-Spec protocol access,yunmi.waterpuri.x8,,,
-1301,Mi IH Pressure Rice Cooker,Mijia Pressure IH Rice Cooker,chunmi.cooker.press1,,,
+1301,Mi IH Pressure Rice Cooker,Mijia Pressure IH Rice Cooker,chunmi.cooker.press1,YLIH01CM,,manual
 1302,fs,,heiman.fan.rc1,,,
 1303,Yi Tang Smart Light,,dikair.light.wy0a04,,,
 1304,curtain,Smart curtain motor,golden.curtain.c01,,,
@@ -1447,7 +1447,7 @@ The APP supports one-click scenario triggering, device linkage, and group contro
 1334,smartOutlet,,roome.plug.wallplug,,,
 1335,Remote control master-wifi to infrared-speaker,Remote control master-wifi to infrared-speaker,coolki.wifispeaker.yk13,,,
 1336,Bit gateway,,bt2019.gateway.rcuv1,,,
-1337,Philips ZhiRui bedside lamp,Philips Zhi Rui bedside lamp,philips.light.moonlight,,,
+1337,Philips ZhiRui bedside lamp,Philips Zhi Rui bedside lamp,philips.light.moonlight,9290019202,,manual
 1338,humidifier,Universal humidifier,dctrls.humidifier.common,,,
 1339,Viomi Smart Gas Water Heater 1C 16L,Yunmi Internet Gas Water Heater 1C 16L,viomi.waterheater.u16,,,
 1340,switch,,wfiot.switch.switch,,,
@@ -1549,11 +1549,11 @@ Product model: KFRd-35GW/Y4PE2-A3",viomi.aircondition.y32,KFRd-35GW/Y4PE2-A3,,au
 1421,Sumi Ruguang Spotlight,,xhuan.light.wy0a07,,,
 1422,Mi Smart Dishwasher (4 Dining Sets),Mijia Internet Dishwasher 4 sets of countertops,viomi.dishwasher.m02,,,
 1423,Hood,The first generation large screen hood N909i,lxk.hood.n909i,,,
-1424,Smartmi Humidifier,Zhimi sterilizing humidifier,zhimi.humidifier.v1,,,
+1424,Smartmi Humidifier,Zhimi sterilizing humidifier,zhimi.humidifier.v1,CJJSQ01ZM,,manual
 1425,Yeelight Smart Living Room Ceiling Light,Ceiling Pro all-in-one (non-spec),yeelink.light.ceil27,,,
 1426,Big Fish Intelligence,New access platform,yiduo.light.v1,,,
 1427,curtain,,yonsz.curtain.1,,,
-1428,Mi Body Composition Scale 2,The second generation of Xiaomi Body Fat Scale provides users with multiple body weight and body fat measurement services.,hmpace.scales.mibfs,,,
+1428,Mi Body Composition Scale 2,The second generation of Xiaomi Body Fat Scale provides users with multiple body weight and body fat measurement services.,hmpace.scales.mibfs,XMTZC05HM / NUN4048GL,,manual
 1429,Smart Wall Switch H1 (Zero Fire Double Button),,lumi.switch.n2acn1,,,
 1430,Mi TV,Xiaomi TV,xiaomi.tv.v1,,,
 1431,Smart air conditioner,,thing.airc.air,,,
@@ -1576,7 +1576,7 @@ Product model: KFRd-35GW/Y4PE2-A3",viomi.aircondition.y32,KFRd-35GW/Y4PE2-A3,,au
 1448,Dimmer switch,Dimmer switch,kuju.light.2,,,
 1449,curtain,,xinrui.curtain.lh001,,,
 1450,Smart bed,,lwkj.bed.5110,,,
-1451,Mi Robot Vacuum,Mijia sweeping robot,rockrobo.vacuum.v1,,,
+1451,Mi Robot Vacuum,Mijia sweeping robot,rockrobo.vacuum.v1,(SDJQR01RR/SKV4000CN) (China) / (SDJQR02RR/SKV4022GL) (Global),,manual
 1452,Fresh air,Fresh air,yongqi.airfresh.fw,,,
 1453,air conditioning,Infrared air conditioner,ikecin.aircondition.ir1,,,
 1454,outletGsm83,GSM three-channel socket (new protocol),coolki.plug.uiid83,,,
@@ -1590,14 +1590,14 @@ Product model: KFRd-35GW/Y4PE2-A3",viomi.aircondition.y32,KFRd-35GW/Y4PE2-A3,,au
 1462,Mi Air Purifier 3,"Mi Air Purifier 2s upgraded version, CADR increased, noise reduced, and touch buttons added",zhimi.airpurifier.ma4,,,
 1463,Viomi Smart Gas Water Heater Zero 12L,Yunmi Internet Gas Water Heater Zero (12L zero cold water),viomi.waterheater.u15,,,
 1464,Socket,socket,ezhome.plug.zhyapp07,,,
-1465,Mi Smart Humidifier,Realize three-speed variable power intelligent humidification function.,deerma.humidifier.mjjsq,,,
+1465,Mi Smart Humidifier,Realize three-speed variable power intelligent humidification function.,deerma.humidifier.mjjsq,MJJSQ03DY,,manual
 1466,wifi_socket,"wifi smart socket, realize remote power on and off of home appliances.
 In particular, a poor contact prevention design is added. When the electrical plug and the socket are in a half-contact state, the use of high-power equipment will produce high temperature and cause fire and other safety hazards.The Geeklink smart socket has a built-in temperature sensor. When the temperature is too high, it will notify the user in time and automatically cut off the power to reduce the risk.",jilian.plug.ff01,,,
 1467,Shengxin Intelligent lamp,DBS non-isolated two-color,lsds.light.wy0a01,,,
 1468,light,"Two dimming lights, can adjust yellow light and white light separately",aihome.light.m85,,,
 1469,Mi Kids Smartwatch 4C,Mito Children's Phone Watch 4C,xiaoxun.watch.sw762,,,
 1470,American switch,,ddwl.switch.030001,,,
-1471,Mi Robot Vacuum 1S,"Mijia sweeping robot 1S, mass production model",roborock.vacuum.m1s,,,
+1471,Mi Robot Vacuum 1S,"Mijia sweeping robot 1S, mass production model",roborock.vacuum.m1s,(SDJQR03RR/SKV4054CN) (China),,manual
 1472,JO FOND Indoor heater (skirting heater),NTJX-L220IRW,kadeer.heater.l220ir,,,
 1473,Viomi Smart Gas Water Heater Zero (18L),JSQ34-VGW181,viomi.waterheater.u8,JSQ34-VGW181,,auto
 1474,Milano 1C 2P (New Energy Efficiency),"erp code: 50.01.01.02.0041
@@ -1627,7 +1627,7 @@ Through the docking with Xiaomi Cloud, the cloud platform converts the voice com
 1494,Scene Curtain WIFI X,,leshi.curtain.v0001,,,
 1495,"ES Wall Switch (With Neutral, Sextuple Rocker)",Eggenstone,lumi.switch.n6eic1,,,
 1496,Philips leafless cold fan,,kadeer.fan.l20b,,,
-1497,Mi Home Security Camera 360 1080P,Mijia Smart Camera PTZ Version 1080P,chuangmi.camera.ipc019,,,
+1497,Mi Home Security Camera 360 1080P,Mijia Smart Camera PTZ Version 1080P,chuangmi.camera.ipc019,MJSXJ05CM,,manual
 1498,Diandian90w,,dotdot.light.dian90,,,
 1499,ROIDMI Cordless Vacuum Cleaner NEX2 Pro,Wireless handheld vacuum cleaner,roidmi.cleaner.v382,,,
 1500,CRMCR Annuo Smart Safe PRO,,lcrmcr.safe.ms30mp,,,
@@ -1814,7 +1814,7 @@ Humidity accuracy: ±3%RH",miaomiaoce.sensor_ht.h1,,,
 1653,Mi Water Purifier 600G,Mi Water Purifier 600G,yunmi.waterpuri.lx8,,,
 1654,Multiplexer,"4-way and more than 4-way combination switch, including 4-key scene button",scmkcz.switch.4msw,,,
 1655,Cobos intelligent sweeping robot,"Intelligent sweeping robot, integrated sweeping and mopping",eco.vacuum.t8mop,,,
-1656,Mi Home Security Camera,,mijia.camera.v1,,,
+1656,Mi Home Security Camera,,mijia.camera.v1,SXJ01ZM,,manual
 1657,modification_switch_one,Switch retrofit module (single channel switch),coolki.switch.uiid14,,,
 1658,Mi Smart Plug,Greenmi Gateway Sub-device,lumi.plug.v1,,,
 1659,Philips hue Light,Dimming light Philips hue light,uiot.light.light4,,,
@@ -1870,7 +1870,7 @@ The APP supports the heart control, the game interacts multiple functions, combi
 1705,Yeelight tunable white downlight & spotlight M2,"MESH Bell Lamp II, MESH Melometer II PRO, MESH Mode Light II",yeelink.light.ml1,,,
 1706,HUIZUO TAURUS For Living Room,Huayihui made Taurus living room series -021-ZA,huayi.light.taurus,,,
 1707,Fruit wheat cooling and heating fan,,gmair.fan.wy100,,,
-1708,Heatcold Heating Thermostat (Electric),Electric heating thermostat,cubee.airrtc.th123e,,,
+1708,Heatcold Heating Thermostat (Electric),Electric heating thermostat,cubee.airrtc.th123e,TH123E,,manual
 1709,Zhanxiu Crystal Love intelligent lamp,DBS-non-isolated,odds.light.wy0a01,,,
 1710,Viomi Voice Controlled Washer & Dryer,,viomi.washer.u5,,,
 1711,Scene mesh lamp K,"Kraton front monochromatic lamp, 33311-17",lemesh.light.w00d01,,,
@@ -1989,7 +1989,7 @@ Product model: KFRd-35GW/M3PC4-A1",viomi.airc.m2,KFRd-35GW/M3PC4-A1,,auto
 1811,8H Milan Smart Electric Bed Pro,,qushui.bed.003,,,
 1812,Appotronics D30 Laser Projector,"Light peak ultra-short focus laser projection L306A, Fengos system",fengmi.projector.l306a,,,
 1813,HUIZUO Light Board,,huayi.light.rgb205,,,
-1814,Viomi V-SLAM Robot Vacuum,,viomi.vacuum.v11,,,
+1814,Viomi V-SLAM Robot Vacuum,,viomi.vacuum.v11,VXVC05-SJ,,manual
 1815,Two-button wall switch,,nvcls.switch.030002,,,
 1816,HUIZUO TAURUS For Bedroom,Taurus bedroom series made by Huayihui-023-ZA,huayi.light.tau023,,,
 1817,Aqara Wireless Remote Switch (Single Rocker),"The single-button wireless switch with the appearance of the national standard 86, because the product needs to be upgraded, but the product is powered by a button battery and cannot be OTA, so reapply for the Model.",lumi.remote.b186acn01,WXKG03LM,2018 rev 2,manual
@@ -2058,7 +2058,7 @@ Product model: KFRd-35GW/Y4PM2-A3",viomi.aircondition.y46,KFRd-35GW/Y4PM2-A3,,au
 1868,Intelligent digital remote control socket,,zhijia.plug.dqcz02,,,
 1869,Curtain motor,,ghome.curtain.sf004,,,
 1870,Set-top box infrared remote control,IR-BOX set-top box remote control,kiwik.stb.iriptv,,,
-1871,Xiaomi AIoT router AC2350,,xiaomi.router.r2350,,,
+1871,Xiaomi AIoT router AC2350,,xiaomi.router.r2350,AC2350,,manual
 1872,FreeTie Smart Sports Core,"A sports chip, put in the shoes, can record the user's daily running, walking, static and other information to help users analyze their sports status.",trios1.bleshoes.v02,,,
 1873,Mi Air Purifier 2S,"The upgraded version of Mi Air Purifier 2, the dust sensor is changed to a laser sensor, the PM2.5 value is displayed locally, and the RFID filter recognition function is added",zhimi.airpurifier.ma1,AC-M4-AA,,manual
 1874,Hydroelectric floor heating thermostat,"I7 hydroelectric floor heating thermostat
@@ -2279,14 +2279,14 @@ Product model: KFRd-26GW/Y3PC5-A1",viomi.aircondition.y29,KFRd-26GW/Y3PC5-A1,,au
 2065,Mi Router 4Q,,xiaomi.router.r4c,,,
 2066,"Mi Inverter Air Conditioner (1.5HP, China Energy Label Level 1)","Mijia Internet air conditioner inverter A04T, first-class energy efficiency",xiaomi.aircondition.ma2,,,
 2067,socket,,ykkj.plug.ykm122,,,
-2068,Yeelight Ceiling Light 480 1S,EOS480 1S Homekit,yeelink.light.ceiling15,,,
+2068,Yeelight Ceiling Light 480 1S,EOS480 1S Homekit,yeelink.light.ceiling15,YLXD42YL,,manual
 2069,Mi High-speed Smart Blender,Mijia High Speed Mixer (Broken Wall Cooking Machine),viomi.juicer.v1,MJPBJ01YM,,manual
 2070,Mi TV,This product is a Xiaomi TV with only infrared and no Bluetooth,xiaomi.tv.i1,,,
 2071,Aqara Single Switch Module T1 (With Neutral),"Zigbee3.0, zero live wire to take power, small size, can be built into wall cassettes, ceiling lights or other high-power devices that need to be intelligently controlled on and off, and can be controlled by APP, multi-smart device linkage or original mechanical switchesThe device controls on and off.",lumi.switch.n0acn2,,?,manual
 2072,Aqara Single Switch Module T1 (With Neutral),"Zigbee3.0, zero live wire to take power, small size, can be built into wall cassettes, ceiling lights or other high-power devices that need to be intelligently controlled on and off, and can be controlled by APP, multi-smart device linkage or original mechanical switchesThe device controls on and off.",lumi.switch.n0acn2,,?,manual
 2073,KingSmith Treadmill,Xiaojin Smart Folding Treadmill is a cost-effective and high-value treadmill developed for runners.,ksmb.treadmill.v1,,,
 2074,Infrared ceiling light,Infrared ceiling light,konke2.light.rmligh,,,
-2075,Heatcold Heat Pump Thermostat,,cubee.airrtc.th125t,,,
+2075,Heatcold Heat Pump Thermostat,,cubee.airrtc.th125t,TH125T,,manual
 2076,16 relays module,Mijia control relay module,pwzn.relay.apple,,,
 2077,Yeelight Smart LED Bulb 1SE (color),color5 inheritance,yeelink.light.colora,YLDP001,,manual
 2078,Wall socket,,nvcls.plug.010001,,,
@@ -2363,7 +2363,7 @@ Product model: KFRd-35GW/Y3PM4-A1",viomi.aircondition.y48,KFRd-35GW/Y3PM4-A1,,au
 2143,Smart wall switch H1 (zero fire wire one-key version),,lumi.switch.n1acn1,,,
 2144,light,light,ecloud.light.elight,,,
 2145,Sumi A1 Bluetooth mesh switch (single key),"Smart mesh switch, smart group control.",090615.switch.smbt01,,,
-2146,Yeelight Ceiling Light Mini,Stylized ceiling light Mini,yeelink.light.ceiling14,,,
+2146,Yeelight Ceiling Light Mini,Stylized ceiling light Mini,yeelink.light.ceiling14,YLXD09YL,,manual
 2147,IMI Home Security Camera,Xiaobai Smart Camera Popular Edition,chuangmi.camera.v5,,,
 2148,Mi Smart Ultra Electricity Saving Vertical Air Conditioner (2HP/Inverter/New China Energy Label Level 3),,xiaomi.aircondition.mc9,,,
 2149,Yilai color temperature lamp,,yeelink.light.proct2,,,
@@ -2442,7 +2442,7 @@ Aqara weather station (temperature humidity and pressure sensor)",lumi.weather.v
 2221,Single hole socket,Single hole socket,fine.plug.dc1,,,
 2222,Xiao Fang SMART CAMERA,"Remote smart camera with mobile alarm, sound alarm, voiceprint recognition, cloud video and other functions",isa.camera.isc5,,,
 2223,Mi Smart Air Conditioner C1 (1HP / Inverter / China Energy Label Level 1),Mijia Internet Air Conditioner C1 (Large 1HP/Inverter/Level 1 Energy Efficiency),xiaomi.aircondition.ma9,,,
-2224,Mi 360 Home Security Camera 2K Pro,Xiaomi Smart Camera PTZ version pro,chuangmi.camera.ipc021,,,
+2224,Mi 360 Home Security Camera 2K Pro,Xiaomi Smart Camera PTZ version pro,chuangmi.camera.ipc021,MJSXJ06CM,,manual
 2225,Stars LED Light,Smart hall ceiling light closer to life.,397.light.hallight,,,
 2226,Viomi Refrigerator 21Face (SBS 525L-M),Yunmi Internet Refrigerator 21Face (with door 525L),viomi.fridge.x11,,,
 2227,Mi Kids Smartwatch 4,Mitu Children's Learning Watch 4,xiaoxun.watch.sw761,,,
@@ -2526,8 +2526,8 @@ New ID.The internal model is G6L-WIFI.",linp.doorbell.g03,G6L-WIFI-SW,,manual
 2296,yeedi-k650,,yeedi.vacuum.k650,,,
 2297,Mi S Smart humidifer,"299
 Atomization amount: 450mL/h
-Remarks: Glass glaze atomizer, stainless steel heat sink, with filter element, product power is about 40W",deerma.humidifier.jsq1,MJJSQ03DY,,manual
-2298,MIDIAN NO BLUE LIGHT MUSIC LAMP,"This product is a bedside lamp for healthy lighting and sleep aid.Using the self-developed silicon substrate zero blue LED core technology, it is 100% blue-free, does not hurt the eyes, and helps sleep. At the same time, it has the function of Bluetooth audio. It uses wonderful music and zero blue light to create a comfortable sleeping environment for users.",noc196.light.mdyctd,,,
+Remarks: Glass glaze atomizer, stainless steel heat sink, with filter element, product power is about 40W",deerma.humidifier.jsq1,SCKOA45 (SCK0A45),,manual
+2298,MIDIAN NO BLUE LIGHT MUSIC LAMP,"This product is a bedside lamp for healthy lighting and sleep aid.Using the self-developed silicon substrate zero blue LED core technology, it is 100% blue-free, does not hurt the eyes, and helps sleep. At the same time, it has the function of Bluetooth audio. It uses wonderful music and zero blue light to create a comfortable sleeping environment for users.",noc196.light.mdyctd,MDJKDH110,,manual
 2299,Set-top box,,tyzhjt.stb.stb002,,,
 2300,Mi Box,This product is a Xiaomi box with only Bluetooth and no infrared,xiaomi.tvbox.b1,,,
 2301,ZSZM Intelligent spotlight,Tree planting bluetooth mesh spotlight,zszm.light.wy0a02,,,
@@ -2567,7 +2567,7 @@ Product model: KFRd-26GW/Y3PD1-A1",viomi.aircondition.y9,KFRd-26GW/Y3PD1-A1,,aut
 2333,"Aqara Wall Switch (With Neutral, Double Rocker)",Aqara wall switch (zero fire wire two-key version),lumi.ctrl_ln2.v1,QBKG12LM,,manual
 2334,Remote control master-wifi to infrared-TV set-top box,Remote control master-wifi to infrared-TV set-top box,zhihw.stb.yk0001,,,
 2335,Floor heating intelligent temperature control,Floor heating,pingke.heater.7801,,,
-2336,Yeelight Mesh LED Downlight,Mesh downlight,yeelink.light.dnlight2,,,
+2336,Yeelight Mesh LED Downlight,Mesh downlight,yeelink.light.dnlight2,YLSD01YL / MJTS01YL,,manual
 2337,Sweeping robot,,scinan.vacuum.psw01,,,
 2338,Sumi B1 Bluetooth mesh switch (three key),,090615.switch.smb1s3,,,
 2339,Viomi Smart Electric Water Heater Air (60L Dual-Tank Voice-Contorl),VEW601,viomi.waterheater.e3,VEW601,,auto
@@ -2653,7 +2653,7 @@ Product model: KFRd-35GW/K2PC1-A1",viomi.aircondition.v35,KFRd-35GW/K2PC1-A1,,au
 2403,WIFI Smart Curtain,,666.curtain.id92,,,
 2404,ZJ Smart Fan,,zhijia.fan.fan,,,
 2405,Aqara Door lock S2 Pro,"The upgraded version of Aqara smart door lock S2 can be unlocked by fingerprints, passwords, and electronic keys, and can detect the status of the door, and can be linked with other smart devices through a wealth of automated events.",lumi.lock.acn03,ZNMS13LM,,manual
-2406,IMI Home Security Camera 1080P Global,Xiaobai Smart Camera PTZ Version,chuangmi.camera.ipc013d,,,
+2406,IMI Home Security Camera 1080P Global,Xiaobai Smart Camera PTZ Version,chuangmi.camera.ipc013d,CMSXJ13B,,manual
 2407,Aqara Smart Smoke Detector (NB-IoT),A smoke alarm based on NB-IoT communication protocol,lumi.sensor_smoke.acn01,JTY-GD-HS90/LM,,manual
 2408,Viomi Smart Gas Water Heater Mate Pro 13L,MIOT-SPEC access,viomi.waterheater.u29,,,
 2409,Mi Robot Vacuum-Mop Essential,"Inertial navigation, domestic version",mijia.vacuum.v1,MJSTG1,,manual
@@ -2695,7 +2695,7 @@ Product model: KFRd-72LW/Y3RE3-A1",viomi.aircondition.y60,KFRd-72LW/Y3RE3-A1,,au
 2443,Air Surface ceiling light,,cchip.light.l1,,,
 2444,Smart curtain controller,Curtain motor,hsmart.curtain.hs2cc,,,
 2445,2-Button Neutral Wire Switch,Zero fire wire touch switch Double open zero fire switch 2 2,uiot.switch.switch5,,,
-2446,Mi 360 Home Security Camera 2K,Xiaomi Smart Camera-3 million pixel version,chuangmi.camera.ip029a,,,
+2446,Mi 360 Home Security Camera 2K,Xiaomi Smart Camera-3 million pixel version,chuangmi.camera.ip029a,MJSXJ09CM,,manual
 2447,Adjustable lights,Adjustable lights,tc0756.light.7,,,
 2448,Smart chandelier,,nvcls.light.040018,,,
 2449,Viomi Refrigerator 21Face (516L),MIoT-Spec protocol access,viomi.fridge.x14,,,
@@ -2799,8 +2799,8 @@ The smart socket has an overload protection function. If the working power of th
 2541,dohome,"Smart bulb, support WIFI distribution network, color adjustment, brightness adjustment, color temperature adjustment, switch control and other functions.",doit.light.dohomelight,,,
 2542,Aqara Wireless Remote Switch D1 (Double Rocker),"Based on the currently available 86 wireless switch double-key version upgrade switch panel, left and right key buttons support: click, double click, long press, left and right, click.",lumi.remote.b286acn02,WXKG07LM,Double Wall Button D1,manual
 2543,Wi-Fi smart socket,,tenda.plug.sp3,,,
-2544,Yeelight LED Ceiling Light,Yeelight LED ceiling light EOS,yeelink.light.ceiling3,YLXD17YL,Yeelight Ceiling Light (Jiaoyue 480),manual
-2545,Mi Air Purifier Pro,Mijia Air Purifier Pro (International Version),zhimi.airpurifier.v7,,,
+2544,Yeelight LED Ceiling Light,Yeelight LED ceiling light EOS,yeelink.light.ceiling3,YLXD04YL/YLXD05YL/YLXD17YL,Yeelight Ceiling Light (Jiaoyue 480),manual
+2545,Mi Air Purifier Pro,Mijia Air Purifier Pro (International Version),zhimi.airpurifier.v7,FJY4013GL,,manual
 2546,socket,,tyzhjt.plug.cz0001,,,
 2547,TV,,milamp.tv.tv,,,
 2548,Heichuang intelligent clothes drying machine,,bangbo.airer.x5xhqm,,,
@@ -2846,7 +2846,7 @@ FT154_WallSwitch_Dual",linked.light.ft154d,,,
 2585,MZXlight,Control smart lights by voice,jksx.light.mzx01,,,
 2586,Wall switch (zero fire wire two-key version),,lumi.ctrl_ln2.es1,,,
 2587,Yeelight Smart Ceiling Fan C1060,DC 42,yeelink.light.fancl6,,,
-2588,Mi Remote,Mi Universal Remote Enhanced Edition,chuangmi.remote.v2,,,
+2588,Mi Remote,Mi Universal Remote Enhanced Edition,chuangmi.remote.v2,MJYKQ01CM,"Rev2, Mijia logo (don’t mess with MJYKQ01CM that have Mi logo)",manual
 2589,Dimming panel,DIMMER_SWITCH_MCU+SoC,yaguan.light.dimmer,,,
 2590,MagicTouch Warm,"The magic sticker uses the low-frequency working principle to massage the human body muscles, and the warm version adds heating function and APP intelligent control on this basis",17216.magic_touch.d150,,,
 2591,Yunmi Internet gas water heater 1A (13L),Gas water heater (13L),viomi.waterheater.u1,,,
@@ -3078,7 +3078,7 @@ Charging protection",ikonke.plug.minik,,,
 2803,CRMCR iRon fingerprint safe,"Anno fingerprint safe, minimalist design, all operations are concentrated in one point, double-layer composite stainless steel door, special alloy steel box, giving the safe an indestructible body.Integrated integrated control mechanism, ONE TOUCH technology, electronically controlled telescopic handle, intelligent remote alarm and many other intelligent technologies give more convenience and safety attributes to use.",lcrmcr.safe.an35sizw,,,
 2804,Fengmi Young,Mijia projector,fengmi.projector.fm05,,,
 2805,"ES Scene Switch (With Neutral, Sextuple Rocker)",Eggenstone,lumi.switch.n6eic2,,,
-2806,Mi Smart Home Hub,"A product with Wi-Fi, Zigbee and BLE modules can realize the interconnection of Wi-Fi, Zigbee and BLE devices.",lumi.gateway.mgl03,,,
+2806,Mi Smart Home Hub,"A product with Wi-Fi, Zigbee and BLE modules can realize the interconnection of Wi-Fi, Zigbee and BLE devices.",lumi.gateway.mgl03,"ZNDMWG03LM/BHR4105 (CN), ZNDMWG02LM/YTC4044GL (GL)",Xiaomi Gateway 3,manual
 2807,rgbLight,"1. Control switch
 2. Adjust the brightness
 3. Adjust the color",kongke.light.rgb,,,
@@ -3161,12 +3161,12 @@ Supports interconnection and interaction with Ou Yi's full set of equipment.",oe
 2878,Mi Electric Scooter Pro 2 series,,ninebot.scooter.v4,,,
 2879,Mi Robot Vacuum-Mop Essential,"Silver Star, Inertial Navigation, Taiwan Version",mijia.vacuum.v3,,,
 2880,Mi Smart Electric Folding Bike,,qicyc.bike.xmdzlzxc01qj,,,
-2881,Mi IH Rice Cooker,Mijia IH Rice Cooker,chunmi.cooker.normal1,,,
+2881,Mi IH Rice Cooker,Mijia IH Rice Cooker,chunmi.cooker.normal1,IHFB01CM,,manual
 2882,Yeelight Arwen Ceiling Light 450S/550S,"Arwen450S, Arwen550S series",yeelink.light.ceilb,YLXD013 / YLXD013-A,,manual
 2883,Mi Control Hub,"The British version of Mijia Overseas Gateway supports alert, night light and sub-device management functions. It is the control center of the smart home system.",lumi.gateway.lmuk01,,,
 2884,Smartmi Smart Fan Heater,Zhimi Smart Heater 1S Overseas Version,zhimi.heater.nb1,,,
 2885,Roborock S6,"Roborock s6, mass production model",roborock.vacuum.s6,,,
-2886,Smartmi Evaporative Humidifier,Korean version of humidifier (Singapore server),zhimi.humidifier.cb2,,,
+2886,Smartmi Evaporative Humidifier,Korean version of humidifier (Singapore server),zhimi.humidifier.cb2,CJXJSQ02ZM  / SKV6004EU,,manual
 2887,Aqara Smart Plug,This product is a Zigbee smart socket of the Aqara brand that meets American standards.,lumi.plug.maus01,ZNCZ12LM,,manual
 2888,Mi Air Purifier 3C,"Overseas version 2H upgraded version, ESP32D",zhimi.airpurifier.mb4,AC-M14-SC,,manual
 2889,BLE Night-light,Philips Smart Bluetooth Sensor Night Light,philips.light.zynl,,,
@@ -3194,16 +3194,16 @@ Britain, Thailand, Poland, West Russia, Italy, France, Germany, Vietnam, South K
 2910,Mi IH Rice Cooker,Yoneka IH Rice Cooker-Japan Version,chunmi.cooker.najpn1,,,
 2911,Mi Smart LED Bulb,Mijia white light bulb,yeelink.light.mono6,,,
 2912,Mi Robot Vacuum-Mop 2 Pro+,,dreame.vacuum.p2041o,,,
-2913,Mi Smart Antibacterial Humidifier,Export Europe-Korean version,deerma.humidifier.jsq,,,
+2913,Mi Smart Antibacterial Humidifier,Export Europe-Korean version,deerma.humidifier.jsq,ZNJSQ01DEM / SKV4140GL,,manual
 2914,Mi Smart Video Doorbell 2,Xiaomi Smart Doorbell 2 (Hong Kong and Taiwan Version),madv.cateye.mi2gt,,,
 2915,Yeelight LED smart bulb W3 (tunable white),lemon3 color temperature version,yeelink.light.cta,YLDP05YL,,manual
 2916,Mi Smart Plug,This product is a mobile smart socket that complies with American standards. It is connected to the gateway through zigbee and is controlled by a relay.,lumi.plug.mitw01,ZNCZ03LM,TW,manual
 2917,Roborock S6 MaxV,Mass production model,roborock.vacuum.a10,,,
-2918,Mi Robot Vacuum-Mop P,Mijia distribution sweeper,viomi.vacuum.v8,,,
+2918,Mi Robot Vacuum-Mop P,Mijia distribution sweeper,viomi.vacuum.v8,STYJ02YM / SKV4109GL / SKV4110GL/ V-RVCLM21A / V-RVCLM21B,(Global) Mi Robot Vacuum-Mop P / Mijia LDS / Viomi V2 / Viomi V2 Pro,manual
 2919,Mi Smart Plug (WiFi),Xiaomi Smart Socket Distribution Edition,chuangmi.plug.hmi206,ZNCZ05CM,EU,manual
 2920,XIAOWAN Smart Pet Feeder,Overseas version spec agreement,mmgg.feeder.spec,,,
 2921,XIAOWAN Smart Pet Water Dispenser,Xiaowan smart pet water dispenser overseas version,mmgg.pet_waterer.s4,,,
-2922,Mi Robot Vacuum-Mop Essential,"Inertial navigation, overseas distribution version",mijia.vacuum.v2,MJSTG1,Xiaomi Mijia G1,manual
+2922,Mi Robot Vacuum-Mop Essential,"Inertial navigation, overseas distribution version",mijia.vacuum.v2,MJSTG1 / SKV4136GL,Xiaomi Mijia G1,manual
 2923,Mi Smart Space Heater S,Mijia Smart Electric Heater Overseas Version,zhimi.heater.mc2,KRDNQ03ZM (BHR4037GL),,manual
 2924,Mi Air Purifier Pro,Display traditional Chinese characters and QR code of Hong Kong/Taiwan official website,zhimi.airpurifier.v8,,,
 2925,Mi LED Smart Bulb (White and Color),Yeelight color light bulb third generation,yeelink.light.color3,MJDP02YL / GPX4013IN,,manual
@@ -3212,7 +3212,7 @@ Britain, Thailand, Poland, West Russia, Italy, France, Germany, Vietnam, South K
 2928,Mi Induction Cooker,Mijia Induction Cooker-Korean Version,chunmi.ihcooker.korea1,,,
 2929,Mi Control Hub,Mijia Multifunctional Smart Gateway (Hong Kong),lumi.gateway.mihk01,,,
 2930,Yeelight GU10 Smart Bulb W1 (dimmable),Frog/GU10,yeelink.light.monob,YLDP004,,manual
-2931,Mi Control Hub,"Mi Control Hub, Mijia European Standard Multifunctional Gateway",lumi.gateway.mieu01,ZHWG11LM-763 / DGNWQ05LM,,manual
+2931,Mi Control Hub,"Mi Control Hub, Mijia European Standard Multifunctional Gateway",lumi.gateway.mieu01,ZHWG11LM-763 / DGNWG05LM,,manual
 2932,Mi Air Purifier 2H,"Air purifier 2 upgraded version (overseas), no display, square infrared sensor",zhimi.airpurifier.mc2,FJY4026GL,,manual
 2933,Mi Smart Kettle,Korean version,yunmi.kettle.v5,,,
 2934,Aqara Hub,"Aqara gateway is a Wi-Fi smart gateway that supports both Apple HomeKit and Mijia. It communicates with sub-devices through Zigbee. Users can add sub-devices to the gateway to achieve control and detection of switches, light bulbs, curtains and other devices.Temperature and humidity, door and window status, detection of human movement, detection of water leakage, sound and light alarm and other functions.Users can also create and manage various life scenarios through Apple's ""Home"" App and ""Mijia"" App.",lumi.gateway.aqhm02,,,
@@ -3228,8 +3228,8 @@ Britain, Thailand, Poland, West Russia, Italy, France, Germany, Vietnam, South K
 2944,Mi Smart Standing Fan 2 Lite,Distribution version,dmaker.fan.1c,,,
 2945,VIOMI Smart Instant Heating Water Dispenser,Yunmi Smart Instant Drinking Water Bar,yunmi.kettle.r5,,,
 2946,Yeelight GU10 smart bulb W1 (multicolor),Frog/GU10,yeelink.light.colorc,YLDP004-A,,manual
-2947,Mi Smart Plug (Zigbee),A smart socket suitable for most parts of Europe.,lumi.plug.mmeu01,ZNCZ04LM/GMR4014GL,EU,manual
-2948,Smartmi Evaporative Humidifier,"Same function as ca1, US version of evaporative humidifier",zhimi.humidifier.cb1,,,
+2947,Mi Smart Plug (Zigbee),A smart socket suitable for most parts of Europe.,lumi.plug.mmeu01,ZNCZ04LM/GMR4014GL (wrong: ZHCZ04LM),EU,manual
+2948,Smartmi Evaporative Humidifier,"Same function as ca1, US version of evaporative humidifier",zhimi.humidifier.cb1,SKV6001EU/SKV6001US,EU/US,manual
 2949,Roborock S4,"Roborock S4, S4 overseas mass production model",roborock.vacuum.s4,,,
 2950,Roborock S4 Max,,roborock.vacuum.a19,,,
 2951,Cuco Smart Plug (wifi) Basic,The first product accessed by wp5 on the Xiaomi iot platform,cuco.plug.wp5,,,
