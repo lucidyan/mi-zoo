@@ -2,7 +2,7 @@
 Complete list of Xiaomi Mi Smart Home Ecosystem devices with descriptions and codes
 
 ### Pages:
-- **[Devices (en)](./markdown/devices.md)** - markdown page with all devices with image, model id, product number
+- **[Devices (en)](https://lucidyan.github.io/mi-zoo/markdown/devices.html)** - markdown page with all devices with image, model id, product number
 ___
 ### What is this repository for?
 It was created because Xiaomi has a very confusing lineup with many undocumented differences. 
